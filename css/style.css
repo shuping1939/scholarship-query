@@ -13,9 +13,18 @@ body {
     padding: 10px;
 }
 
+/* Logo间距调整 */
+.logo {
+    display: block;
+    width: 144px;
+    margin: 8px auto;  /* 上下边距从12px减小到8px */
+    padding: 0;        /* 移除内边距 */
+}
+
+/* 标题间距调整 */
 .container h1 {
     text-align: center;
-    margin: 15px 0;
+    margin: 8px 0;  /* 上下边距从15px减小到8px */
     font-size: 2.2rem;
     color: #2c3e50;
 }
@@ -33,12 +42,6 @@ body {
     font-size: 16px;
     border: 2px solid #4CAF50;
     border-radius: 30px;
-}
-
-.logo {
-    display: block;
-    width: 144px;
-    margin: 12px auto;
 }
 
 .result-card {
@@ -73,9 +76,10 @@ footer {
 @media (max-width: 480px) {
     .container h1 {
         font-size: 1.8rem;
-        margin: 10px 0;
+        margin: 6px 0;  /* 移动端标题间距同步减小 */
     }
     .logo {
         width: 120px;
+        margin: 6px auto;  /* 移动端Logo间距同步减小 */
     }
 }
