@@ -7,6 +7,7 @@
     "year": "",
     "school": "",
     "pinyin": "caijiaji",
+    "pinyin_initials": "cjj",
     "is_valid": true
   },
   {
@@ -17,6 +18,7 @@
     "year": "",
     "school": "",
     "pinyin": "tuochuyi",
+    "pinyin_initials": "tcy",
     "is_valid": true
   },
   {
@@ -27,6 +29,7 @@
     "year": "",
     "school": "",
     "pinyin": "qiyue",
+    "pinyin_initials": "qy",
     "is_valid": true
   },
   {
@@ -37,6 +40,7 @@
     "year": "",
     "school": "",
     "pinyin": "hankehui",
+    "pinyin_initials": "hkh",
     "is_valid": true
   },
   {
@@ -47,6 +51,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangshangyi",
+    "pinyin_initials": "zsy",
     "is_valid": true
   },
   {
@@ -57,6 +62,7 @@
     "year": "",
     "school": "",
     "pinyin": "xiongyutong",
+    "pinyin_initials": "xyt",
     "is_valid": true
   },
   {
@@ -67,6 +73,7 @@
     "year": "",
     "school": "",
     "pinyin": "xiewenxuan",
+    "pinyin_initials": "xwx",
     "is_valid": true
   },
   {
@@ -77,6 +84,7 @@
     "year": "",
     "school": "",
     "pinyin": "yubosong",
+    "pinyin_initials": "ybs",
     "is_valid": true
   },
   {
@@ -87,6 +95,7 @@
     "year": "",
     "school": "",
     "pinyin": "huyuxuan",
+    "pinyin_initials": "hyx",
     "is_valid": true
   },
   {
@@ -97,6 +106,7 @@
     "year": "",
     "school": "",
     "pinyin": "liuwenshuo",
+    "pinyin_initials": "lws",
     "is_valid": true
   },
   {
@@ -107,6 +117,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhoutian",
+    "pinyin_initials": "zt",
     "is_valid": true
   },
   {
@@ -117,6 +128,7 @@
     "year": "",
     "school": "",
     "pinyin": "jinyixuan",
+    "pinyin_initials": "jyx",
     "is_valid": true
   },
   {
@@ -127,6 +139,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhaxicuomu",
+    "pinyin_initials": "zxcm",
     "is_valid": true
   },
   {
@@ -137,6 +150,7 @@
     "year": "",
     "school": "",
     "pinyin": "jinmeizewang",
+    "pinyin_initials": "jmzw",
     "is_valid": true
   },
   {
@@ -147,6 +161,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangpuyang",
+    "pinyin_initials": "zpy",
     "is_valid": true
   },
   {
@@ -157,6 +172,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhaoyuan",
+    "pinyin_initials": "zy",
     "is_valid": true
   },
   {
@@ -167,6 +183,7 @@
     "year": "",
     "school": "",
     "pinyin": "liyiyi",
+    "pinyin_initials": "lyy",
     "is_valid": true
   },
   {
@@ -177,6 +194,7 @@
     "year": "",
     "school": "",
     "pinyin": "ludaowei",
+    "pinyin_initials": "ldw",
     "is_valid": true
   },
   {
@@ -187,6 +205,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenyixiao",
+    "pinyin_initials": "cyx",
     "is_valid": true
   },
   {
@@ -197,6 +216,7 @@
     "year": "",
     "school": "",
     "pinyin": "hujiaxing",
+    "pinyin_initials": "hjx",
     "is_valid": true
   },
   {
@@ -207,6 +227,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhouxinyu",
+    "pinyin_initials": "zxy",
     "is_valid": true
   },
   {
@@ -217,6 +238,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenjingwen",
+    "pinyin_initials": "cjw",
     "is_valid": true
   },
   {
@@ -227,6 +249,7 @@
     "year": "",
     "school": "",
     "pinyin": "weiyiwen",
+    "pinyin_initials": "wyw",
     "is_valid": true
   },
   {
@@ -237,6 +260,7 @@
     "year": "",
     "school": "",
     "pinyin": "matianyao",
+    "pinyin_initials": "mty",
     "is_valid": true
   },
   {
@@ -247,6 +271,7 @@
     "year": "",
     "school": "",
     "pinyin": "liuyihe",
+    "pinyin_initials": "lyh",
     "is_valid": true
   },
   {
@@ -257,6 +282,7 @@
     "year": "",
     "school": "",
     "pinyin": "donghaowen",
+    "pinyin_initials": "dhw",
     "is_valid": true
   },
   {
@@ -267,6 +293,7 @@
     "year": "",
     "school": "",
     "pinyin": "mawenchang",
+    "pinyin_initials": "mwc",
     "is_valid": true
   },
   {
@@ -277,6 +304,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangweichen",
+    "pinyin_initials": "zwc",
     "is_valid": true
   },
   {
@@ -287,6 +315,7 @@
     "year": "",
     "school": "",
     "pinyin": "jiayunshan",
+    "pinyin_initials": "jys",
     "is_valid": true
   },
   {
@@ -297,6 +326,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangning",
+    "pinyin_initials": "wn",
     "is_valid": true
   },
   {
@@ -307,6 +337,7 @@
     "year": "",
     "school": "",
     "pinyin": "xusiwen",
+    "pinyin_initials": "xsw",
     "is_valid": true
   },
   {
@@ -317,6 +348,7 @@
     "year": "",
     "school": "",
     "pinyin": "guojiahua",
+    "pinyin_initials": "gjh",
     "is_valid": true
   },
   {
@@ -327,6 +359,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangjue",
+    "pinyin_initials": "wj",
     "is_valid": true
   },
   {
@@ -337,6 +370,7 @@
     "year": "",
     "school": "",
     "pinyin": "guowenhao",
+    "pinyin_initials": "gwh",
     "is_valid": true
   },
   {
@@ -347,6 +381,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenweilin",
+    "pinyin_initials": "cwl",
     "is_valid": true
   },
   {
@@ -357,6 +392,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangyuhan",
+    "pinyin_initials": "wyh",
     "is_valid": true
   },
   {
@@ -367,6 +403,7 @@
     "year": "",
     "school": "",
     "pinyin": "fanziyi",
+    "pinyin_initials": "fzy",
     "is_valid": true
   },
   {
@@ -377,6 +414,7 @@
     "year": "",
     "school": "",
     "pinyin": "lisisi",
+    "pinyin_initials": "lss",
     "is_valid": true
   },
   {
@@ -387,6 +425,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhuxiaoya",
+    "pinyin_initials": "zxy",
     "is_valid": true
   },
   {
@@ -397,6 +436,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhaoyueran",
+    "pinyin_initials": "zyr",
     "is_valid": true
   },
   {
@@ -407,6 +447,7 @@
     "year": "",
     "school": "",
     "pinyin": "haorunlai",
+    "pinyin_initials": "hrl",
     "is_valid": true
   },
   {
@@ -417,6 +458,7 @@
     "year": "",
     "school": "",
     "pinyin": "dengyuewen",
+    "pinyin_initials": "dyw",
     "is_valid": true
   },
   {
@@ -427,6 +469,7 @@
     "year": "",
     "school": "",
     "pinyin": "sunzhetianxi",
+    "pinyin_initials": "sztx",
     "is_valid": true
   },
   {
@@ -437,6 +480,7 @@
     "year": "",
     "school": "",
     "pinyin": "luorui",
+    "pinyin_initials": "lr",
     "is_valid": true
   },
   {
@@ -447,6 +491,7 @@
     "year": "",
     "school": "",
     "pinyin": "lilijia",
+    "pinyin_initials": "llj",
     "is_valid": true
   },
   {
@@ -457,6 +502,7 @@
     "year": "",
     "school": "",
     "pinyin": "gaocui",
+    "pinyin_initials": "gc",
     "is_valid": true
   },
   {
@@ -467,6 +513,7 @@
     "year": "",
     "school": "",
     "pinyin": "lijiayi",
+    "pinyin_initials": "ljy",
     "is_valid": true
   },
   {
@@ -477,6 +524,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangyu",
+    "pinyin_initials": "zy",
     "is_valid": true
   },
   {
@@ -487,6 +535,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangjun",
+    "pinyin_initials": "yj",
     "is_valid": true
   },
   {
@@ -497,6 +546,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangshengjie",
+    "pinyin_initials": "zsj",
     "is_valid": true
   },
   {
@@ -507,6 +557,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhanganqi",
+    "pinyin_initials": "zaq",
     "is_valid": true
   },
   {
@@ -517,6 +568,7 @@
     "year": "",
     "school": "",
     "pinyin": "jiayumeng",
+    "pinyin_initials": "jym",
     "is_valid": true
   },
   {
@@ -527,6 +579,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangyinan",
+    "pinyin_initials": "zyn",
     "is_valid": true
   },
   {
@@ -537,6 +590,7 @@
     "year": "",
     "school": "",
     "pinyin": "wanglu",
+    "pinyin_initials": "wl",
     "is_valid": true
   },
   {
@@ -547,6 +601,7 @@
     "year": "",
     "school": "",
     "pinyin": "sunjiaqi",
+    "pinyin_initials": "sjq",
     "is_valid": true
   },
   {
@@ -557,6 +612,7 @@
     "year": "",
     "school": "",
     "pinyin": "liujiang",
+    "pinyin_initials": "lj",
     "is_valid": true
   },
   {
@@ -567,6 +623,7 @@
     "year": "",
     "school": "",
     "pinyin": "pengtingting",
+    "pinyin_initials": "ptt",
     "is_valid": true
   },
   {
@@ -577,6 +634,7 @@
     "year": "",
     "school": "",
     "pinyin": "shijialiang",
+    "pinyin_initials": "sjl",
     "is_valid": true
   },
   {
@@ -587,6 +645,7 @@
     "year": "",
     "school": "",
     "pinyin": "liulili",
+    "pinyin_initials": "lll",
     "is_valid": true
   },
   {
@@ -597,6 +656,7 @@
     "year": "",
     "school": "",
     "pinyin": "shenying",
+    "pinyin_initials": "sy",
     "is_valid": true
   },
   {
@@ -607,6 +667,7 @@
     "year": "",
     "school": "",
     "pinyin": "yanzhiying",
+    "pinyin_initials": "yzy",
     "is_valid": true
   },
   {
@@ -617,6 +678,7 @@
     "year": "",
     "school": "",
     "pinyin": "caixuan",
+    "pinyin_initials": "cx",
     "is_valid": true
   },
   {
@@ -627,6 +689,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangdi",
+    "pinyin_initials": "zd",
     "is_valid": true
   },
   {
@@ -637,6 +700,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangqian",
+    "pinyin_initials": "wq",
     "is_valid": true
   },
   {
@@ -647,6 +711,7 @@
     "year": "",
     "school": "",
     "pinyin": "qixingyu",
+    "pinyin_initials": "qxy",
     "is_valid": true
   },
   {
@@ -657,6 +722,7 @@
     "year": "",
     "school": "",
     "pinyin": "wenchenyang",
+    "pinyin_initials": "wcy",
     "is_valid": true
   },
   {
@@ -667,6 +733,7 @@
     "year": "",
     "school": "",
     "pinyin": "liyu",
+    "pinyin_initials": "ly",
     "is_valid": true
   },
   {
@@ -677,6 +744,7 @@
     "year": "",
     "school": "",
     "pinyin": "liyuduo",
+    "pinyin_initials": "lyd",
     "is_valid": true
   },
   {
@@ -687,6 +755,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhouxinyao",
+    "pinyin_initials": "zxy",
     "is_valid": true
   },
   {
@@ -697,6 +766,7 @@
     "year": "",
     "school": "",
     "pinyin": "hesiyuan",
+    "pinyin_initials": "hsy",
     "is_valid": true
   },
   {
@@ -707,6 +777,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangjiawen",
+    "pinyin_initials": "zjw",
     "is_valid": true
   },
   {
@@ -717,6 +788,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangxiayin",
+    "pinyin_initials": "zxy",
     "is_valid": true
   },
   {
@@ -727,6 +799,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangyu",
+    "pinyin_initials": "yy",
     "is_valid": true
   },
   {
@@ -737,6 +810,7 @@
     "year": "",
     "school": "",
     "pinyin": "lihua",
+    "pinyin_initials": "lh",
     "is_valid": true
   },
   {
@@ -747,6 +821,7 @@
     "year": "",
     "school": "",
     "pinyin": "jiangyiyang",
+    "pinyin_initials": "jyy",
     "is_valid": true
   },
   {
@@ -757,6 +832,7 @@
     "year": "",
     "school": "",
     "pinyin": "wubing",
+    "pinyin_initials": "wb",
     "is_valid": true
   },
   {
@@ -767,6 +843,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangshenyan",
+    "pinyin_initials": "zsy",
     "is_valid": true
   },
   {
@@ -777,6 +854,7 @@
     "year": "",
     "school": "",
     "pinyin": "jinxiaoyuan",
+    "pinyin_initials": "jxy",
     "is_valid": true
   },
   {
@@ -787,6 +865,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangqinlei",
+    "pinyin_initials": "wql",
     "is_valid": true
   },
   {
@@ -797,6 +876,7 @@
     "year": "",
     "school": "",
     "pinyin": "lizongda",
+    "pinyin_initials": "lzd",
     "is_valid": true
   },
   {
@@ -807,6 +887,7 @@
     "year": "",
     "school": "",
     "pinyin": "yushuqi",
+    "pinyin_initials": "ysq",
     "is_valid": true
   },
   {
@@ -817,6 +898,7 @@
     "year": "",
     "school": "",
     "pinyin": "shenjiahao",
+    "pinyin_initials": "sjh",
     "is_valid": true
   },
   {
@@ -827,6 +909,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhaoyuening",
+    "pinyin_initials": "zyn",
     "is_valid": true
   },
   {
@@ -837,6 +920,7 @@
     "year": "",
     "school": "",
     "pinyin": "liuyuanyuan",
+    "pinyin_initials": "lyy",
     "is_valid": true
   },
   {
@@ -847,6 +931,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangqing",
+    "pinyin_initials": "wq",
     "is_valid": true
   },
   {
@@ -857,6 +942,7 @@
     "year": "",
     "school": "",
     "pinyin": "shenzhenqi",
+    "pinyin_initials": "szq",
     "is_valid": true
   },
   {
@@ -867,6 +953,7 @@
     "year": "",
     "school": "",
     "pinyin": "shenwenting",
+    "pinyin_initials": "swt",
     "is_valid": true
   },
   {
@@ -877,6 +964,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenkexuan",
+    "pinyin_initials": "ckx",
     "is_valid": true
   },
   {
@@ -887,6 +975,7 @@
     "year": "",
     "school": "",
     "pinyin": "jimanyi",
+    "pinyin_initials": "jmy",
     "is_valid": true
   },
   {
@@ -897,6 +986,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenyue",
+    "pinyin_initials": "cy",
     "is_valid": true
   },
   {
@@ -907,6 +997,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenxulan",
+    "pinyin_initials": "cxl",
     "is_valid": true
   },
   {
@@ -917,6 +1008,7 @@
     "year": "",
     "school": "",
     "pinyin": "shenyilei",
+    "pinyin_initials": "syl",
     "is_valid": true
   },
   {
@@ -927,6 +1019,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhanghanyue",
+    "pinyin_initials": "zhy",
     "is_valid": true
   },
   {
@@ -937,6 +1030,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangfan",
+    "pinyin_initials": "zf",
     "is_valid": true
   },
   {
@@ -947,6 +1041,7 @@
     "year": "",
     "school": "",
     "pinyin": "fangning",
+    "pinyin_initials": "fn",
     "is_valid": true
   },
   {
@@ -957,6 +1052,7 @@
     "year": "",
     "school": "",
     "pinyin": "caoqihao",
+    "pinyin_initials": "cqh",
     "is_valid": true
   },
   {
@@ -967,6 +1063,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangmin",
+    "pinyin_initials": "zm",
     "is_valid": true
   },
   {
@@ -977,6 +1074,7 @@
     "year": "",
     "school": "",
     "pinyin": "shenyi",
+    "pinyin_initials": "sy",
     "is_valid": true
   },
   {
@@ -987,6 +1085,7 @@
     "year": "",
     "school": "",
     "pinyin": "hutongping",
+    "pinyin_initials": "htp",
     "is_valid": true
   },
   {
@@ -997,6 +1096,7 @@
     "year": "",
     "school": "",
     "pinyin": "lijunyuan",
+    "pinyin_initials": "ljy",
     "is_valid": true
   },
   {
@@ -1007,6 +1107,7 @@
     "year": "",
     "school": "",
     "pinyin": "luwangyue",
+    "pinyin_initials": "lwy",
     "is_valid": true
   },
   {
@@ -1017,6 +1118,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangshuangyuan",
+    "pinyin_initials": "wsy",
     "is_valid": true
   },
   {
@@ -1027,6 +1129,7 @@
     "year": "",
     "school": "",
     "pinyin": "liufeng",
+    "pinyin_initials": "lf",
     "is_valid": true
   },
   {
@@ -1037,6 +1140,7 @@
     "year": "",
     "school": "",
     "pinyin": "cengyi",
+    "pinyin_initials": "cy",
     "is_valid": true
   },
   {
@@ -1047,6 +1151,7 @@
     "year": "",
     "school": "",
     "pinyin": "xujiacheng",
+    "pinyin_initials": "xjc",
     "is_valid": true
   },
   {
@@ -1057,6 +1162,7 @@
     "year": "",
     "school": "",
     "pinyin": "yefeng",
+    "pinyin_initials": "yf",
     "is_valid": true
   },
   {
@@ -1067,6 +1173,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenxuguang",
+    "pinyin_initials": "cxg",
     "is_valid": true
   },
   {
@@ -1077,6 +1184,7 @@
     "year": "",
     "school": "",
     "pinyin": "youxuemei",
+    "pinyin_initials": "yxm",
     "is_valid": true
   },
   {
@@ -1087,6 +1195,7 @@
     "year": "",
     "school": "",
     "pinyin": "shenxin",
+    "pinyin_initials": "sx",
     "is_valid": true
   },
   {
@@ -1097,6 +1206,7 @@
     "year": "",
     "school": "",
     "pinyin": "shenwei",
+    "pinyin_initials": "sw",
     "is_valid": true
   },
   {
@@ -1107,6 +1217,7 @@
     "year": "",
     "school": "",
     "pinyin": "yuhao",
+    "pinyin_initials": "yh",
     "is_valid": true
   },
   {
@@ -1117,6 +1228,7 @@
     "year": "",
     "school": "",
     "pinyin": "liyanan",
+    "pinyin_initials": "lyn",
     "is_valid": true
   },
   {
@@ -1127,6 +1239,7 @@
     "year": "",
     "school": "",
     "pinyin": "liuting",
+    "pinyin_initials": "lt",
     "is_valid": true
   },
   {
@@ -1137,6 +1250,7 @@
     "year": "",
     "school": "",
     "pinyin": "shengu",
+    "pinyin_initials": "sg",
     "is_valid": true
   },
   {
@@ -1147,6 +1261,7 @@
     "year": "",
     "school": "",
     "pinyin": "hejing",
+    "pinyin_initials": "hj",
     "is_valid": true
   },
   {
@@ -1157,6 +1272,7 @@
     "year": "",
     "school": "",
     "pinyin": "xiaopeng",
+    "pinyin_initials": "xp",
     "is_valid": true
   },
   {
@@ -1167,6 +1283,7 @@
     "year": "",
     "school": "",
     "pinyin": "sunzhengyang",
+    "pinyin_initials": "szy",
     "is_valid": true
   },
   {
@@ -1177,6 +1294,7 @@
     "year": "",
     "school": "",
     "pinyin": "gaolei",
+    "pinyin_initials": "gl",
     "is_valid": true
   },
   {
@@ -1187,6 +1305,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangqiuyi",
+    "pinyin_initials": "zqy",
     "is_valid": true
   },
   {
@@ -1197,6 +1316,7 @@
     "year": "",
     "school": "",
     "pinyin": "limoran",
+    "pinyin_initials": "lmr",
     "is_valid": true
   },
   {
@@ -1207,6 +1327,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangwenhao",
+    "pinyin_initials": "ywh",
     "is_valid": true
   },
   {
@@ -1217,6 +1338,7 @@
     "year": "",
     "school": "",
     "pinyin": "shencong",
+    "pinyin_initials": "sc",
     "is_valid": true
   },
   {
@@ -1227,6 +1349,7 @@
     "year": "",
     "school": "",
     "pinyin": "fengqi",
+    "pinyin_initials": "fq",
     "is_valid": true
   },
   {
@@ -1237,6 +1360,7 @@
     "year": "",
     "school": "",
     "pinyin": "kuaijian",
+    "pinyin_initials": "kj",
     "is_valid": true
   },
   {
@@ -1247,6 +1371,7 @@
     "year": "",
     "school": "",
     "pinyin": "yebilin",
+    "pinyin_initials": "ybl",
     "is_valid": true
   },
   {
@@ -1257,6 +1382,7 @@
     "year": "",
     "school": "",
     "pinyin": "songzhe",
+    "pinyin_initials": "sz",
     "is_valid": true
   },
   {
@@ -1267,6 +1393,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhouqihang",
+    "pinyin_initials": "zqh",
     "is_valid": true
   },
   {
@@ -1277,6 +1404,7 @@
     "year": "",
     "school": "",
     "pinyin": "yanglintao",
+    "pinyin_initials": "ylt",
     "is_valid": true
   },
   {
@@ -1287,6 +1415,7 @@
     "year": "",
     "school": "",
     "pinyin": "xujiazheng",
+    "pinyin_initials": "xjz",
     "is_valid": true
   },
   {
@@ -1297,6 +1426,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangye",
+    "pinyin_initials": "wy",
     "is_valid": true
   },
   {
@@ -1307,6 +1437,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhujiaqi",
+    "pinyin_initials": "zjq",
     "is_valid": true
   },
   {
@@ -1317,6 +1448,7 @@
     "year": "",
     "school": "",
     "pinyin": "shenyuqi",
+    "pinyin_initials": "syq",
     "is_valid": true
   },
   {
@@ -1327,6 +1459,7 @@
     "year": "",
     "school": "",
     "pinyin": "jianming",
+    "pinyin_initials": "jm",
     "is_valid": true
   },
   {
@@ -1337,6 +1470,7 @@
     "year": "",
     "school": "",
     "pinyin": "yetongxin",
+    "pinyin_initials": "ytx",
     "is_valid": true
   },
   {
@@ -1347,6 +1481,7 @@
     "year": "",
     "school": "",
     "pinyin": "choushangqing",
+    "pinyin_initials": "csq",
     "is_valid": true
   },
   {
@@ -1357,6 +1492,7 @@
     "year": "",
     "school": "",
     "pinyin": "xuanyuanmeidai",
+    "pinyin_initials": "xymd",
     "is_valid": true
   },
   {
@@ -1367,6 +1503,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangyanlai",
+    "pinyin_initials": "yyl",
     "is_valid": true
   },
   {
@@ -1377,6 +1514,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangxinyu",
+    "pinyin_initials": "zxy",
     "is_valid": true
   },
   {
@@ -1387,6 +1525,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangjianke",
+    "pinyin_initials": "yjk",
     "is_valid": true
   },
   {
@@ -1397,6 +1536,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangdaojing",
+    "pinyin_initials": "wdj",
     "is_valid": true
   },
   {
@@ -1407,6 +1547,7 @@
     "year": "",
     "school": "",
     "pinyin": "shaoyuhong",
+    "pinyin_initials": "syh",
     "is_valid": true
   },
   {
@@ -1417,6 +1558,7 @@
     "year": "",
     "school": "",
     "pinyin": "yaoyuexin",
+    "pinyin_initials": "yyx",
     "is_valid": true
   },
   {
@@ -1427,6 +1569,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhanghuiyi",
+    "pinyin_initials": "zhy",
     "is_valid": true
   },
   {
@@ -1437,6 +1580,7 @@
     "year": "",
     "school": "",
     "pinyin": "nikeyang",
+    "pinyin_initials": "nky",
     "is_valid": true
   },
   {
@@ -1447,6 +1591,7 @@
     "year": "",
     "school": "",
     "pinyin": "yuchenghui",
+    "pinyin_initials": "ych",
     "is_valid": true
   },
   {
@@ -1457,6 +1602,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangyan",
+    "pinyin_initials": "wy",
     "is_valid": true
   },
   {
@@ -1467,6 +1613,7 @@
     "year": "",
     "school": "",
     "pinyin": "hufan",
+    "pinyin_initials": "hf",
     "is_valid": true
   },
   {
@@ -1477,6 +1624,7 @@
     "year": "",
     "school": "",
     "pinyin": "liujingwen",
+    "pinyin_initials": "ljw",
     "is_valid": true
   },
   {
@@ -1487,6 +1635,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangyunfan",
+    "pinyin_initials": "yyf",
     "is_valid": true
   },
   {
@@ -1497,6 +1646,7 @@
     "year": "",
     "school": "",
     "pinyin": "diqianmeng",
+    "pinyin_initials": "dqm",
     "is_valid": true
   },
   {
@@ -1507,6 +1657,7 @@
     "year": "",
     "school": "",
     "pinyin": "xujiawei",
+    "pinyin_initials": "xjw",
     "is_valid": true
   },
   {
@@ -1517,6 +1668,7 @@
     "year": "",
     "school": "",
     "pinyin": "mouyunlei",
+    "pinyin_initials": "myl",
     "is_valid": true
   },
   {
@@ -1527,6 +1679,7 @@
     "year": "",
     "school": "",
     "pinyin": "caowei",
+    "pinyin_initials": "cw",
     "is_valid": true
   },
   {
@@ -1537,6 +1690,7 @@
     "year": "",
     "school": "",
     "pinyin": "wudiewei",
+    "pinyin_initials": "wdw",
     "is_valid": true
   },
   {
@@ -1547,6 +1701,7 @@
     "year": "",
     "school": "",
     "pinyin": "liangendong",
+    "pinyin_initials": "led",
     "is_valid": true
   },
   {
@@ -1557,6 +1712,7 @@
     "year": "",
     "school": "",
     "pinyin": "lufengjie",
+    "pinyin_initials": "lfj",
     "is_valid": true
   },
   {
@@ -1567,6 +1723,7 @@
     "year": "",
     "school": "",
     "pinyin": "liuxinwei",
+    "pinyin_initials": "lxw",
     "is_valid": true
   },
   {
@@ -1577,6 +1734,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangyiwei",
+    "pinyin_initials": "wyw",
     "is_valid": true
   },
   {
@@ -1587,6 +1745,7 @@
     "year": "",
     "school": "",
     "pinyin": "dashaohua",
+    "pinyin_initials": "dsh",
     "is_valid": true
   },
   {
@@ -1597,6 +1756,7 @@
     "year": "",
     "school": "",
     "pinyin": "cuiyuanchen",
+    "pinyin_initials": "cyc",
     "is_valid": true
   },
   {
@@ -1607,6 +1767,7 @@
     "year": "",
     "school": "",
     "pinyin": "litingyu",
+    "pinyin_initials": "lty",
     "is_valid": true
   },
   {
@@ -1617,6 +1778,7 @@
     "year": "",
     "school": "",
     "pinyin": "qiandonghang",
+    "pinyin_initials": "qdh",
     "is_valid": true
   },
   {
@@ -1627,6 +1789,7 @@
     "year": "",
     "school": "",
     "pinyin": "xuyang",
+    "pinyin_initials": "xy",
     "is_valid": true
   },
   {
@@ -1637,6 +1800,7 @@
     "year": "",
     "school": "",
     "pinyin": "xuruitong",
+    "pinyin_initials": "xrt",
     "is_valid": true
   },
   {
@@ -1647,6 +1811,7 @@
     "year": "",
     "school": "",
     "pinyin": "wuwentian",
+    "pinyin_initials": "wwt",
     "is_valid": true
   },
   {
@@ -1657,6 +1822,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhuyufei",
+    "pinyin_initials": "zyf",
     "is_valid": true
   },
   {
@@ -1667,6 +1833,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangyunjing",
+    "pinyin_initials": "zyj",
     "is_valid": true
   },
   {
@@ -1677,6 +1844,7 @@
     "year": "",
     "school": "",
     "pinyin": "heyiwen",
+    "pinyin_initials": "hyw",
     "is_valid": true
   },
   {
@@ -1687,6 +1855,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangqiyu",
+    "pinyin_initials": "wqy",
     "is_valid": true
   },
   {
@@ -1697,6 +1866,7 @@
     "year": "",
     "school": "",
     "pinyin": "kangwenfan",
+    "pinyin_initials": "kwf",
     "is_valid": true
   },
   {
@@ -1707,6 +1877,7 @@
     "year": "",
     "school": "",
     "pinyin": "shenyuheng",
+    "pinyin_initials": "syh",
     "is_valid": true
   },
   {
@@ -1717,6 +1888,7 @@
     "year": "",
     "school": "",
     "pinyin": "tongyichen",
+    "pinyin_initials": "tyc",
     "is_valid": true
   },
   {
@@ -1727,6 +1899,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangxiandong",
+    "pinyin_initials": "wxd",
     "is_valid": true
   },
   {
@@ -1737,6 +1910,7 @@
     "year": "",
     "school": "",
     "pinyin": "tantianyun",
+    "pinyin_initials": "tty",
     "is_valid": true
   },
   {
@@ -1747,6 +1921,7 @@
     "year": "",
     "school": "",
     "pinyin": "linxiaoyi",
+    "pinyin_initials": "lxy",
     "is_valid": true
   },
   {
@@ -1757,6 +1932,7 @@
     "year": "",
     "school": "",
     "pinyin": "yinyixuan",
+    "pinyin_initials": "yyx",
     "is_valid": true
   },
   {
@@ -1767,6 +1943,7 @@
     "year": "",
     "school": "",
     "pinyin": "yinshuxiao",
+    "pinyin_initials": "ysx",
     "is_valid": true
   },
   {
@@ -1777,6 +1954,7 @@
     "year": "",
     "school": "",
     "pinyin": "lidehao",
+    "pinyin_initials": "ldh",
     "is_valid": true
   },
   {
@@ -1787,6 +1965,7 @@
     "year": "",
     "school": "",
     "pinyin": "huaiying",
+    "pinyin_initials": "hy",
     "is_valid": true
   },
   {
@@ -1797,6 +1976,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhengwenchen",
+    "pinyin_initials": "zwc",
     "is_valid": true
   },
   {
@@ -1807,6 +1987,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhuxueyang",
+    "pinyin_initials": "zxy",
     "is_valid": true
   },
   {
@@ -1817,6 +1998,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangzuojing",
+    "pinyin_initials": "zzj",
     "is_valid": true
   },
   {
@@ -1827,6 +2009,7 @@
     "year": "",
     "school": "",
     "pinyin": "yaowenxuan",
+    "pinyin_initials": "ywx",
     "is_valid": true
   },
   {
@@ -1837,6 +2020,7 @@
     "year": "",
     "school": "",
     "pinyin": "niyi",
+    "pinyin_initials": "ny",
     "is_valid": true
   },
   {
@@ -1847,6 +2031,7 @@
     "year": "",
     "school": "",
     "pinyin": "nizhenjia",
+    "pinyin_initials": "nzj",
     "is_valid": true
   },
   {
@@ -1857,6 +2042,7 @@
     "year": "",
     "school": "",
     "pinyin": "chixiaoyi",
+    "pinyin_initials": "cxy",
     "is_valid": true
   },
   {
@@ -1867,6 +2053,7 @@
     "year": "",
     "school": "",
     "pinyin": "jinhuili",
+    "pinyin_initials": "jhl",
     "is_valid": true
   },
   {
@@ -1877,6 +2064,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhengyaoxiao",
+    "pinyin_initials": "zyx",
     "is_valid": true
   },
   {
@@ -1887,6 +2075,7 @@
     "year": "",
     "school": "",
     "pinyin": "wengwangjia",
+    "pinyin_initials": "wwj",
     "is_valid": true
   },
   {
@@ -1897,6 +2086,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenxiaoxiao",
+    "pinyin_initials": "cxx",
     "is_valid": true
   },
   {
@@ -1907,6 +2097,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenwenjing",
+    "pinyin_initials": "cwj",
     "is_valid": true
   },
   {
@@ -1917,6 +2108,7 @@
     "year": "",
     "school": "",
     "pinyin": "liusiying",
+    "pinyin_initials": "lsy",
     "is_valid": true
   },
   {
@@ -1927,6 +2119,7 @@
     "year": "",
     "school": "",
     "pinyin": "tianmengxin",
+    "pinyin_initials": "tmx",
     "is_valid": true
   },
   {
@@ -1937,6 +2130,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhouwenjie",
+    "pinyin_initials": "zwj",
     "is_valid": true
   },
   {
@@ -1947,6 +2141,7 @@
     "year": "",
     "school": "",
     "pinyin": "liujiahao",
+    "pinyin_initials": "ljh",
     "is_valid": true
   },
   {
@@ -1957,6 +2152,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangxiaoyuan",
+    "pinyin_initials": "zxy",
     "is_valid": true
   },
   {
@@ -1967,6 +2163,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangbianjiang",
+    "pinyin_initials": "ybj",
     "is_valid": true
   },
   {
@@ -1977,6 +2174,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangxiaoqiang",
+    "pinyin_initials": "wxq",
     "is_valid": true
   },
   {
@@ -1987,6 +2185,7 @@
     "year": "",
     "school": "",
     "pinyin": "fanmengqi",
+    "pinyin_initials": "fmq",
     "is_valid": true
   },
   {
@@ -1997,6 +2196,7 @@
     "year": "",
     "school": "",
     "pinyin": "wujunkang",
+    "pinyin_initials": "wjk",
     "is_valid": true
   },
   {
@@ -2007,6 +2207,7 @@
     "year": "",
     "school": "",
     "pinyin": "tongyonggang",
+    "pinyin_initials": "tyg",
     "is_valid": true
   },
   {
@@ -2017,6 +2218,7 @@
     "year": "",
     "school": "",
     "pinyin": "wanchengyi",
+    "pinyin_initials": "wcy",
     "is_valid": true
   },
   {
@@ -2027,6 +2229,7 @@
     "year": "",
     "school": "",
     "pinyin": "huangbangdong",
+    "pinyin_initials": "hbd",
     "is_valid": true
   },
   {
@@ -2037,6 +2240,7 @@
     "year": "",
     "school": "",
     "pinyin": "ouxuli",
+    "pinyin_initials": "oxl",
     "is_valid": true
   },
   {
@@ -2047,6 +2251,7 @@
     "year": "",
     "school": "",
     "pinyin": "songxinyi",
+    "pinyin_initials": "sxy",
     "is_valid": true
   },
   {
@@ -2057,6 +2262,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenyijing",
+    "pinyin_initials": "cyj",
     "is_valid": true
   },
   {
@@ -2067,6 +2273,7 @@
     "year": "",
     "school": "",
     "pinyin": "jinglantian",
+    "pinyin_initials": "jlt",
     "is_valid": true
   },
   {
@@ -2077,6 +2284,7 @@
     "year": "",
     "school": "",
     "pinyin": "kangni",
+    "pinyin_initials": "kn",
     "is_valid": true
   },
   {
@@ -2087,6 +2295,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhouyilun",
+    "pinyin_initials": "zyl",
     "is_valid": true
   },
   {
@@ -2097,6 +2306,7 @@
     "year": "",
     "school": "",
     "pinyin": "xingyibing",
+    "pinyin_initials": "xyb",
     "is_valid": true
   },
   {
@@ -2107,6 +2317,7 @@
     "year": "",
     "school": "",
     "pinyin": "bingxiaoqi",
+    "pinyin_initials": "bxq",
     "is_valid": true
   },
   {
@@ -2117,6 +2328,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangzhoujin",
+    "pinyin_initials": "yzj",
     "is_valid": true
   },
   {
@@ -2127,6 +2339,7 @@
     "year": "",
     "school": "",
     "pinyin": "qujingyi",
+    "pinyin_initials": "qjy",
     "is_valid": true
   },
   {
@@ -2137,6 +2350,7 @@
     "year": "",
     "school": "",
     "pinyin": "liuyufeng",
+    "pinyin_initials": "lyf",
     "is_valid": true
   },
   {
@@ -2147,6 +2361,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangsizhe",
+    "pinyin_initials": "zsz",
     "is_valid": true
   },
   {
@@ -2157,6 +2372,7 @@
     "year": "",
     "school": "",
     "pinyin": "liuhaiyue",
+    "pinyin_initials": "lhy",
     "is_valid": true
   },
   {
@@ -2167,6 +2383,7 @@
     "year": "",
     "school": "",
     "pinyin": "taijiaxuan",
+    "pinyin_initials": "tjx",
     "is_valid": true
   },
   {
@@ -2177,6 +2394,7 @@
     "year": "",
     "school": "",
     "pinyin": "hansiyu",
+    "pinyin_initials": "hsy",
     "is_valid": true
   },
   {
@@ -2187,6 +2405,7 @@
     "year": "",
     "school": "",
     "pinyin": "daijinlin",
+    "pinyin_initials": "djl",
     "is_valid": true
   },
   {
@@ -2197,6 +2416,7 @@
     "year": "",
     "school": "",
     "pinyin": "yanyuqi",
+    "pinyin_initials": "yyq",
     "is_valid": true
   },
   {
@@ -2207,6 +2427,7 @@
     "year": "",
     "school": "",
     "pinyin": "jiye",
+    "pinyin_initials": "jy",
     "is_valid": true
   },
   {
@@ -2217,6 +2438,7 @@
     "year": "",
     "school": "",
     "pinyin": "baixueyang",
+    "pinyin_initials": "bxy",
     "is_valid": true
   },
   {
@@ -2227,6 +2449,7 @@
     "year": "",
     "school": "",
     "pinyin": "guojingchi",
+    "pinyin_initials": "gjc",
     "is_valid": true
   },
   {
@@ -2237,6 +2460,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhaoyihan",
+    "pinyin_initials": "zyh",
     "is_valid": true
   },
   {
@@ -2247,6 +2471,7 @@
     "year": "",
     "school": "",
     "pinyin": "wujiachen",
+    "pinyin_initials": "wjc",
     "is_valid": true
   },
   {
@@ -2257,6 +2482,7 @@
     "year": "",
     "school": "",
     "pinyin": "limeiru",
+    "pinyin_initials": "lmr",
     "is_valid": true
   },
   {
@@ -2267,6 +2493,7 @@
     "year": "",
     "school": "",
     "pinyin": "danzengduoji",
+    "pinyin_initials": "dzdj",
     "is_valid": true
   },
   {
@@ -2277,6 +2504,7 @@
     "year": "",
     "school": "",
     "pinyin": "gesangquzhen",
+    "pinyin_initials": "gsqz",
     "is_valid": true
   },
   {
@@ -2287,6 +2515,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangboya",
+    "pinyin_initials": "zby",
     "is_valid": true
   },
   {
@@ -2297,6 +2526,7 @@
     "year": "",
     "school": "",
     "pinyin": "gaolingxiao",
+    "pinyin_initials": "glx",
     "is_valid": true
   },
   {
@@ -2307,6 +2537,7 @@
     "year": "",
     "school": "",
     "pinyin": "suncheran",
+    "pinyin_initials": "scr",
     "is_valid": true
   },
   {
@@ -2317,6 +2548,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangjiayi",
+    "pinyin_initials": "wjy",
     "is_valid": true
   },
   {
@@ -2327,6 +2559,7 @@
     "year": "",
     "school": "",
     "pinyin": "liudongbo",
+    "pinyin_initials": "ldb",
     "is_valid": true
   },
   {
@@ -2337,6 +2570,7 @@
     "year": "",
     "school": "",
     "pinyin": "mayuwei",
+    "pinyin_initials": "myw",
     "is_valid": true
   },
   {
@@ -2347,6 +2581,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenxinghe",
+    "pinyin_initials": "cxh",
     "is_valid": true
   },
   {
@@ -2357,6 +2592,7 @@
     "year": "",
     "school": "",
     "pinyin": "lirunze",
+    "pinyin_initials": "lrz",
     "is_valid": true
   },
   {
@@ -2367,6 +2603,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangshu",
+    "pinyin_initials": "zs",
     "is_valid": true
   },
   {
@@ -2377,6 +2614,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenzijun",
+    "pinyin_initials": "czj",
     "is_valid": true
   },
   {
@@ -2387,6 +2625,7 @@
     "year": "",
     "school": "",
     "pinyin": "ouzhumeiduo",
+    "pinyin_initials": "ozmd",
     "is_valid": true
   },
   {
@@ -2397,6 +2636,7 @@
     "year": "",
     "school": "",
     "pinyin": "danzengquzhen",
+    "pinyin_initials": "dzqz",
     "is_valid": true
   },
   {
@@ -2407,6 +2647,7 @@
     "year": "",
     "school": "",
     "pinyin": "cidanduojie",
+    "pinyin_initials": "cddj",
     "is_valid": true
   },
   {
@@ -2417,6 +2658,7 @@
     "year": "",
     "school": "",
     "pinyin": "yuanjiayin",
+    "pinyin_initials": "yjy",
     "is_valid": true
   },
   {
@@ -2427,6 +2669,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangxueying",
+    "pinyin_initials": "zxy",
     "is_valid": true
   },
   {
@@ -2437,6 +2680,7 @@
     "year": "",
     "school": "",
     "pinyin": "leilu",
+    "pinyin_initials": "ll",
     "is_valid": true
   },
   {
@@ -2447,6 +2691,7 @@
     "year": "",
     "school": "",
     "pinyin": "jiamengchen",
+    "pinyin_initials": "jmc",
     "is_valid": true
   },
   {
@@ -2457,6 +2702,7 @@
     "year": "",
     "school": "",
     "pinyin": "haokexin",
+    "pinyin_initials": "hkx",
     "is_valid": true
   },
   {
@@ -2467,6 +2713,7 @@
     "year": "",
     "school": "",
     "pinyin": "fengjunhao",
+    "pinyin_initials": "fjh",
     "is_valid": true
   },
   {
@@ -2477,6 +2724,7 @@
     "year": "",
     "school": "",
     "pinyin": "liuziang",
+    "pinyin_initials": "lza",
     "is_valid": true
   },
   {
@@ -2487,6 +2735,7 @@
     "year": "",
     "school": "",
     "pinyin": "lingxiao",
+    "pinyin_initials": "lx",
     "is_valid": true
   },
   {
@@ -2497,6 +2746,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangyuqing",
+    "pinyin_initials": "zyq",
     "is_valid": true
   },
   {
@@ -2507,6 +2757,7 @@
     "year": "",
     "school": "",
     "pinyin": "xiewenjun",
+    "pinyin_initials": "xwj",
     "is_valid": true
   },
   {
@@ -2517,6 +2768,7 @@
     "year": "",
     "school": "",
     "pinyin": "yuejiaxin",
+    "pinyin_initials": "yjx",
     "is_valid": true
   },
   {
@@ -2527,6 +2779,7 @@
     "year": "",
     "school": "",
     "pinyin": "yumohan",
+    "pinyin_initials": "ymh",
     "is_valid": true
   },
   {
@@ -2537,6 +2790,7 @@
     "year": "",
     "school": "",
     "pinyin": "liyifan",
+    "pinyin_initials": "lyf",
     "is_valid": true
   },
   {
@@ -2547,6 +2801,7 @@
     "year": "",
     "school": "",
     "pinyin": "kangwen",
+    "pinyin_initials": "kw",
     "is_valid": true
   },
   {
@@ -2557,6 +2812,7 @@
     "year": "",
     "school": "",
     "pinyin": "liwanyi",
+    "pinyin_initials": "lwy",
     "is_valid": true
   },
   {
@@ -2567,6 +2823,7 @@
     "year": "",
     "school": "",
     "pinyin": "daixinyu",
+    "pinyin_initials": "dxy",
     "is_valid": true
   },
   {
@@ -2577,6 +2834,7 @@
     "year": "",
     "school": "",
     "pinyin": "lijingjing",
+    "pinyin_initials": "ljj",
     "is_valid": true
   },
   {
@@ -2587,6 +2845,7 @@
     "year": "",
     "school": "",
     "pinyin": "maxiran",
+    "pinyin_initials": "mxr",
     "is_valid": true
   },
   {
@@ -2597,6 +2856,7 @@
     "year": "",
     "school": "",
     "pinyin": "jingwenjing",
+    "pinyin_initials": "jwj",
     "is_valid": true
   },
   {
@@ -2607,6 +2867,7 @@
     "year": "",
     "school": "",
     "pinyin": "chensiliang",
+    "pinyin_initials": "csl",
     "is_valid": true
   },
   {
@@ -2617,6 +2878,7 @@
     "year": "",
     "school": "",
     "pinyin": "shenzixiang",
+    "pinyin_initials": "szx",
     "is_valid": true
   },
   {
@@ -2627,6 +2889,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhujiawei",
+    "pinyin_initials": "zjw",
     "is_valid": true
   },
   {
@@ -2637,6 +2900,7 @@
     "year": "",
     "school": "",
     "pinyin": "jinxinxing",
+    "pinyin_initials": "jxx",
     "is_valid": true
   },
   {
@@ -2647,6 +2911,7 @@
     "year": "",
     "school": "",
     "pinyin": "jindi",
+    "pinyin_initials": "jd",
     "is_valid": true
   },
   {
@@ -2657,6 +2922,7 @@
     "year": "",
     "school": "",
     "pinyin": "miaohuilei",
+    "pinyin_initials": "mhl",
     "is_valid": true
   },
   {
@@ -2667,6 +2933,7 @@
     "year": "",
     "school": "",
     "pinyin": "gaoxiaoying",
+    "pinyin_initials": "gxy",
     "is_valid": true
   },
   {
@@ -2677,6 +2944,7 @@
     "year": "",
     "school": "",
     "pinyin": "songqinfeng",
+    "pinyin_initials": "sqf",
     "is_valid": true
   },
   {
@@ -2687,6 +2955,7 @@
     "year": "",
     "school": "",
     "pinyin": "yetian",
+    "pinyin_initials": "yt",
     "is_valid": true
   },
   {
@@ -2697,6 +2966,7 @@
     "year": "",
     "school": "",
     "pinyin": "yanjialuo",
+    "pinyin_initials": "yjl",
     "is_valid": true
   },
   {
@@ -2707,6 +2977,7 @@
     "year": "",
     "school": "",
     "pinyin": "guoguanchen",
+    "pinyin_initials": "ggc",
     "is_valid": true
   },
   {
@@ -2717,6 +2988,7 @@
     "year": "",
     "school": "",
     "pinyin": "leiyang",
+    "pinyin_initials": "ly",
     "is_valid": true
   },
   {
@@ -2727,6 +2999,7 @@
     "year": "",
     "school": "",
     "pinyin": "wanganqi",
+    "pinyin_initials": "waq",
     "is_valid": true
   },
   {
@@ -2737,6 +3010,7 @@
     "year": "",
     "school": "",
     "pinyin": "huxinnong",
+    "pinyin_initials": "hxn",
     "is_valid": true
   },
   {
@@ -2747,6 +3021,7 @@
     "year": "",
     "school": "",
     "pinyin": "liucaoyi",
+    "pinyin_initials": "lcy",
     "is_valid": true
   },
   {
@@ -2757,6 +3032,7 @@
     "year": "",
     "school": "",
     "pinyin": "gaoyue",
+    "pinyin_initials": "gy",
     "is_valid": true
   },
   {
@@ -2767,6 +3043,7 @@
     "year": "",
     "school": "",
     "pinyin": "jiebimeng",
+    "pinyin_initials": "jbm",
     "is_valid": true
   },
   {
@@ -2777,6 +3054,7 @@
     "year": "",
     "school": "",
     "pinyin": "lihaiwei",
+    "pinyin_initials": "lhw",
     "is_valid": true
   },
   {
@@ -2787,6 +3065,7 @@
     "year": "",
     "school": "",
     "pinyin": "wujuan",
+    "pinyin_initials": "wj",
     "is_valid": true
   },
   {
@@ -2797,6 +3076,7 @@
     "year": "",
     "school": "",
     "pinyin": "wanghaixu",
+    "pinyin_initials": "whx",
     "is_valid": true
   },
   {
@@ -2807,6 +3087,7 @@
     "year": "",
     "school": "",
     "pinyin": "yinzhechen",
+    "pinyin_initials": "yzc",
     "is_valid": true
   },
   {
@@ -2817,6 +3098,7 @@
     "year": "",
     "school": "",
     "pinyin": "hanxiang",
+    "pinyin_initials": "hx",
     "is_valid": true
   },
   {
@@ -2827,6 +3109,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhongyuchen",
+    "pinyin_initials": "zyc",
     "is_valid": true
   },
   {
@@ -2837,6 +3120,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhuwenming",
+    "pinyin_initials": "zwm",
     "is_valid": true
   },
   {
@@ -2847,6 +3131,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhouhuashan",
+    "pinyin_initials": "zhs",
     "is_valid": true
   },
   {
@@ -2857,6 +3142,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhengxiaorui",
+    "pinyin_initials": "zxr",
     "is_valid": true
   },
   {
@@ -2867,6 +3153,7 @@
     "year": "",
     "school": "",
     "pinyin": "daixiaoyue",
+    "pinyin_initials": "dxy",
     "is_valid": true
   },
   {
@@ -2877,6 +3164,7 @@
     "year": "",
     "school": "",
     "pinyin": "jiangyizhou",
+    "pinyin_initials": "jyz",
     "is_valid": true
   },
   {
@@ -2887,6 +3175,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangjiaqi",
+    "pinyin_initials": "zjq",
     "is_valid": true
   },
   {
@@ -2897,6 +3186,7 @@
     "year": "",
     "school": "",
     "pinyin": "yanbei",
+    "pinyin_initials": "yb",
     "is_valid": true
   },
   {
@@ -2907,6 +3197,7 @@
     "year": "",
     "school": "",
     "pinyin": "xiayu",
+    "pinyin_initials": "xy",
     "is_valid": true
   },
   {
@@ -2917,6 +3208,7 @@
     "year": "",
     "school": "",
     "pinyin": "shenyiyan",
+    "pinyin_initials": "syy",
     "is_valid": true
   },
   {
@@ -2927,6 +3219,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhouhe",
+    "pinyin_initials": "zh",
     "is_valid": true
   },
   {
@@ -2937,6 +3230,7 @@
     "year": "",
     "school": "",
     "pinyin": "wanghongyu",
+    "pinyin_initials": "why",
     "is_valid": true
   },
   {
@@ -2947,6 +3241,7 @@
     "year": "",
     "school": "",
     "pinyin": "panyueyang",
+    "pinyin_initials": "pyy",
     "is_valid": true
   },
   {
@@ -2957,6 +3252,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenmengqi",
+    "pinyin_initials": "cmq",
     "is_valid": true
   },
   {
@@ -2967,6 +3263,7 @@
     "year": "",
     "school": "",
     "pinyin": "yejuntao",
+    "pinyin_initials": "yjt",
     "is_valid": true
   },
   {
@@ -2977,6 +3274,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenhao",
+    "pinyin_initials": "ch",
     "is_valid": true
   },
   {
@@ -2987,6 +3285,7 @@
     "year": "",
     "school": "",
     "pinyin": "xiekejuan",
+    "pinyin_initials": "xkj",
     "is_valid": true
   },
   {
@@ -2997,6 +3296,7 @@
     "year": "",
     "school": "",
     "pinyin": "lvyue",
+    "pinyin_initials": "ly",
     "is_valid": true
   },
   {
@@ -3007,6 +3307,7 @@
     "year": "",
     "school": "",
     "pinyin": "xuchenyi",
+    "pinyin_initials": "xcy",
     "is_valid": true
   },
   {
@@ -3017,6 +3318,7 @@
     "year": "",
     "school": "",
     "pinyin": "yaozhutao",
+    "pinyin_initials": "yzt",
     "is_valid": true
   },
   {
@@ -3027,6 +3329,7 @@
     "year": "",
     "school": "",
     "pinyin": "liuyishu",
+    "pinyin_initials": "lys",
     "is_valid": true
   },
   {
@@ -3037,6 +3340,7 @@
     "year": "",
     "school": "",
     "pinyin": "yuqian",
+    "pinyin_initials": "yq",
     "is_valid": true
   },
   {
@@ -3047,6 +3351,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhouyueyue",
+    "pinyin_initials": "zyy",
     "is_valid": true
   },
   {
@@ -3057,6 +3362,7 @@
     "year": "",
     "school": "",
     "pinyin": "hanying",
+    "pinyin_initials": "hy",
     "is_valid": true
   },
   {
@@ -3067,6 +3373,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangchao",
+    "pinyin_initials": "yc",
     "is_valid": true
   },
   {
@@ -3077,6 +3384,7 @@
     "year": "",
     "school": "",
     "pinyin": "shaoyuxin",
+    "pinyin_initials": "syx",
     "is_valid": true
   },
   {
@@ -3087,6 +3395,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangzhihao",
+    "pinyin_initials": "zzh",
     "is_valid": true
   },
   {
@@ -3097,6 +3406,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenanqi",
+    "pinyin_initials": "caq",
     "is_valid": true
   },
   {
@@ -3107,6 +3417,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhouyihan",
+    "pinyin_initials": "zyh",
     "is_valid": true
   },
   {
@@ -3117,6 +3428,7 @@
     "year": "",
     "school": "",
     "pinyin": "caixuqiang",
+    "pinyin_initials": "cxq",
     "is_valid": true
   },
   {
@@ -3127,6 +3439,7 @@
     "year": "",
     "school": "",
     "pinyin": "shenzhiyuan",
+    "pinyin_initials": "szy",
     "is_valid": true
   },
   {
@@ -3137,6 +3450,7 @@
     "year": "",
     "school": "",
     "pinyin": "hezhen",
+    "pinyin_initials": "hz",
     "is_valid": true
   },
   {
@@ -3147,6 +3461,7 @@
     "year": "",
     "school": "",
     "pinyin": "guyiyang",
+    "pinyin_initials": "gyy",
     "is_valid": true
   },
   {
@@ -3157,6 +3472,7 @@
     "year": "",
     "school": "",
     "pinyin": "shensiyi",
+    "pinyin_initials": "ssy",
     "is_valid": true
   },
   {
@@ -3167,6 +3483,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangyao",
+    "pinyin_initials": "wy",
     "is_valid": true
   },
   {
@@ -3177,6 +3494,7 @@
     "year": "",
     "school": "",
     "pinyin": "shenqinqin",
+    "pinyin_initials": "sqq",
     "is_valid": true
   },
   {
@@ -3187,6 +3505,7 @@
     "year": "",
     "school": "",
     "pinyin": "shilingyu",
+    "pinyin_initials": "sly",
     "is_valid": true
   },
   {
@@ -3197,6 +3516,7 @@
     "year": "",
     "school": "",
     "pinyin": "shenyao",
+    "pinyin_initials": "sy",
     "is_valid": true
   },
   {
@@ -3207,6 +3527,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhurenhao",
+    "pinyin_initials": "zrh",
     "is_valid": true
   },
   {
@@ -3217,6 +3538,7 @@
     "year": "",
     "school": "",
     "pinyin": "xiaoyao",
+    "pinyin_initials": "xy",
     "is_valid": true
   },
   {
@@ -3227,6 +3549,7 @@
     "year": "",
     "school": "",
     "pinyin": "shenwanlin",
+    "pinyin_initials": "swl",
     "is_valid": true
   },
   {
@@ -3237,6 +3560,7 @@
     "year": "",
     "school": "",
     "pinyin": "fangbeini",
+    "pinyin_initials": "fbn",
     "is_valid": true
   },
   {
@@ -3247,6 +3571,7 @@
     "year": "",
     "school": "",
     "pinyin": "nixiaowei",
+    "pinyin_initials": "nxw",
     "is_valid": true
   },
   {
@@ -3257,6 +3582,7 @@
     "year": "",
     "school": "",
     "pinyin": "jijiayi",
+    "pinyin_initials": "jjy",
     "is_valid": true
   },
   {
@@ -3267,6 +3593,7 @@
     "year": "",
     "school": "",
     "pinyin": "jiangyunhao",
+    "pinyin_initials": "jyh",
     "is_valid": true
   },
   {
@@ -3277,6 +3604,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangmingjia",
+    "pinyin_initials": "zmj",
     "is_valid": true
   },
   {
@@ -3287,6 +3615,7 @@
     "year": "",
     "school": "",
     "pinyin": "majiaming",
+    "pinyin_initials": "mjm",
     "is_valid": true
   },
   {
@@ -3297,6 +3626,7 @@
     "year": "",
     "school": "",
     "pinyin": "fengzhengyang",
+    "pinyin_initials": "fzy",
     "is_valid": true
   },
   {
@@ -3307,6 +3637,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhuxiaoyang",
+    "pinyin_initials": "zxy",
     "is_valid": true
   },
   {
@@ -3317,6 +3648,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhuyuyan",
+    "pinyin_initials": "zyy",
     "is_valid": true
   },
   {
@@ -3327,6 +3659,7 @@
     "year": "",
     "school": "",
     "pinyin": "dongxuanyang",
+    "pinyin_initials": "dxy",
     "is_valid": true
   },
   {
@@ -3337,6 +3670,7 @@
     "year": "",
     "school": "",
     "pinyin": "caiwenxin",
+    "pinyin_initials": "cwx",
     "is_valid": true
   },
   {
@@ -3347,6 +3681,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangjuntao",
+    "pinyin_initials": "zjt",
     "is_valid": true
   },
   {
@@ -3357,6 +3692,7 @@
     "year": "",
     "school": "",
     "pinyin": "yeqianwen",
+    "pinyin_initials": "yqw",
     "is_valid": true
   },
   {
@@ -3367,6 +3703,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangyixian",
+    "pinyin_initials": "yyx",
     "is_valid": true
   },
   {
@@ -3377,6 +3714,7 @@
     "year": "",
     "school": "",
     "pinyin": "lvshi",
+    "pinyin_initials": "ls",
     "is_valid": true
   },
   {
@@ -3387,6 +3725,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangqingyu",
+    "pinyin_initials": "yqy",
     "is_valid": true
   },
   {
@@ -3397,6 +3736,7 @@
     "year": "",
     "school": "",
     "pinyin": "shihaoxiang",
+    "pinyin_initials": "shx",
     "is_valid": true
   },
   {
@@ -3407,6 +3747,7 @@
     "year": "",
     "school": "",
     "pinyin": "shenzipei",
+    "pinyin_initials": "szp",
     "is_valid": true
   },
   {
@@ -3417,6 +3758,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangsiyi",
+    "pinyin_initials": "ysy",
     "is_valid": true
   },
   {
@@ -3427,6 +3769,7 @@
     "year": "",
     "school": "",
     "pinyin": "linshuhua",
+    "pinyin_initials": "lsh",
     "is_valid": true
   },
   {
@@ -3437,6 +3780,7 @@
     "year": "",
     "school": "",
     "pinyin": "tanyang",
+    "pinyin_initials": "ty",
     "is_valid": true
   },
   {
@@ -3447,6 +3791,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangyujie",
+    "pinyin_initials": "yyj",
     "is_valid": true
   },
   {
@@ -3457,6 +3802,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangtaian",
+    "pinyin_initials": "wta",
     "is_valid": true
   },
   {
@@ -3467,6 +3813,7 @@
     "year": "",
     "school": "",
     "pinyin": "songjunyao",
+    "pinyin_initials": "sjy",
     "is_valid": true
   },
   {
@@ -3477,6 +3824,7 @@
     "year": "",
     "school": "",
     "pinyin": "panjingying",
+    "pinyin_initials": "pjy",
     "is_valid": true
   },
   {
@@ -3487,6 +3835,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangjing",
+    "pinyin_initials": "wj",
     "is_valid": true
   },
   {
@@ -3497,6 +3846,7 @@
     "year": "",
     "school": "",
     "pinyin": "xucaoyi",
+    "pinyin_initials": "xcy",
     "is_valid": true
   },
   {
@@ -3507,6 +3857,7 @@
     "year": "",
     "school": "",
     "pinyin": "xumeiren",
+    "pinyin_initials": "xmr",
     "is_valid": true
   },
   {
@@ -3517,6 +3868,7 @@
     "year": "",
     "school": "",
     "pinyin": "leiliheng",
+    "pinyin_initials": "llh",
     "is_valid": true
   },
   {
@@ -3527,6 +3879,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhouzixuan",
+    "pinyin_initials": "zzx",
     "is_valid": true
   },
   {
@@ -3537,6 +3890,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhuchenlang",
+    "pinyin_initials": "zcl",
     "is_valid": true
   },
   {
@@ -3547,6 +3901,7 @@
     "year": "",
     "school": "",
     "pinyin": "shijingcheng",
+    "pinyin_initials": "sjc",
     "is_valid": true
   },
   {
@@ -3557,6 +3912,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhenglu",
+    "pinyin_initials": "zl",
     "is_valid": true
   },
   {
@@ -3567,6 +3923,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhouruihong",
+    "pinyin_initials": "zrh",
     "is_valid": true
   },
   {
@@ -3577,6 +3934,7 @@
     "year": "",
     "school": "",
     "pinyin": "sunqiannan",
+    "pinyin_initials": "sqn",
     "is_valid": true
   },
   {
@@ -3587,6 +3945,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhulitao",
+    "pinyin_initials": "zlt",
     "is_valid": true
   },
   {
@@ -3597,6 +3956,7 @@
     "year": "",
     "school": "",
     "pinyin": "guohaozhe",
+    "pinyin_initials": "ghz",
     "is_valid": true
   },
   {
@@ -3607,6 +3967,7 @@
     "year": "",
     "school": "",
     "pinyin": "sunquanwei",
+    "pinyin_initials": "sqw",
     "is_valid": true
   },
   {
@@ -3617,6 +3978,7 @@
     "year": "",
     "school": "",
     "pinyin": "gongwenwen",
+    "pinyin_initials": "gww",
     "is_valid": true
   },
   {
@@ -3627,6 +3989,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangwenhao",
+    "pinyin_initials": "wwh",
     "is_valid": true
   },
   {
@@ -3637,6 +4000,7 @@
     "year": "",
     "school": "",
     "pinyin": "anmingjia",
+    "pinyin_initials": "amj",
     "is_valid": true
   },
   {
@@ -3647,6 +4011,7 @@
     "year": "",
     "school": "",
     "pinyin": "sunqinyi",
+    "pinyin_initials": "sqy",
     "is_valid": true
   },
   {
@@ -3657,6 +4022,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangcheng",
+    "pinyin_initials": "zc",
     "is_valid": true
   },
   {
@@ -3667,6 +4033,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangzixuan",
+    "pinyin_initials": "wzx",
     "is_valid": true
   },
   {
@@ -3677,6 +4044,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangjiajing",
+    "pinyin_initials": "wjj",
     "is_valid": true
   },
   {
@@ -3687,6 +4055,7 @@
     "year": "",
     "school": "",
     "pinyin": "taoweilin",
+    "pinyin_initials": "twl",
     "is_valid": true
   },
   {
@@ -3697,6 +4066,7 @@
     "year": "",
     "school": "",
     "pinyin": "luqinglan",
+    "pinyin_initials": "lql",
     "is_valid": true
   },
   {
@@ -3707,6 +4077,7 @@
     "year": "",
     "school": "",
     "pinyin": "songkeyuan",
+    "pinyin_initials": "sky",
     "is_valid": true
   },
   {
@@ -3717,6 +4088,7 @@
     "year": "",
     "school": "",
     "pinyin": "liuxukai",
+    "pinyin_initials": "lxk",
     "is_valid": true
   },
   {
@@ -3727,6 +4099,7 @@
     "year": "",
     "school": "",
     "pinyin": "xiongruosi",
+    "pinyin_initials": "xrs",
     "is_valid": true
   },
   {
@@ -3737,6 +4110,7 @@
     "year": "",
     "school": "",
     "pinyin": "jiangziwei",
+    "pinyin_initials": "jzw",
     "is_valid": true
   },
   {
@@ -3747,6 +4121,7 @@
     "year": "",
     "school": "",
     "pinyin": "xiaying",
+    "pinyin_initials": "xy",
     "is_valid": true
   },
   {
@@ -3757,6 +4132,7 @@
     "year": "",
     "school": "",
     "pinyin": "wuwenjie",
+    "pinyin_initials": "wwj",
     "is_valid": true
   },
   {
@@ -3767,6 +4143,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangzhouyu",
+    "pinyin_initials": "zzy",
     "is_valid": true
   },
   {
@@ -3777,6 +4154,7 @@
     "year": "",
     "school": "",
     "pinyin": "lichenjian",
+    "pinyin_initials": "lcj",
     "is_valid": true
   },
   {
@@ -3787,6 +4165,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhouyun",
+    "pinyin_initials": "zy",
     "is_valid": true
   },
   {
@@ -3797,6 +4176,7 @@
     "year": "",
     "school": "",
     "pinyin": "jiangyichao",
+    "pinyin_initials": "jyc",
     "is_valid": true
   },
   {
@@ -3807,6 +4187,7 @@
     "year": "",
     "school": "",
     "pinyin": "jijiabao",
+    "pinyin_initials": "jjb",
     "is_valid": true
   },
   {
@@ -3817,6 +4198,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhanghaoqian",
+    "pinyin_initials": "zhq",
     "is_valid": true
   },
   {
@@ -3827,6 +4209,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangweiwei",
+    "pinyin_initials": "zww",
     "is_valid": true
   },
   {
@@ -3837,6 +4220,7 @@
     "year": "",
     "school": "",
     "pinyin": "dingjunran",
+    "pinyin_initials": "djr",
     "is_valid": true
   },
   {
@@ -3847,6 +4231,7 @@
     "year": "",
     "school": "",
     "pinyin": "yuwenwei",
+    "pinyin_initials": "yww",
     "is_valid": true
   },
   {
@@ -3857,6 +4242,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenzifeng",
+    "pinyin_initials": "czf",
     "is_valid": true
   },
   {
@@ -3867,6 +4253,7 @@
     "year": "",
     "school": "",
     "pinyin": "linyulong",
+    "pinyin_initials": "lyl",
     "is_valid": true
   },
   {
@@ -3877,6 +4264,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangchenhao",
+    "pinyin_initials": "wch",
     "is_valid": true
   },
   {
@@ -3887,6 +4275,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhaoxinying",
+    "pinyin_initials": "zxy",
     "is_valid": true
   },
   {
@@ -3897,6 +4286,7 @@
     "year": "",
     "school": "",
     "pinyin": "wulizhou",
+    "pinyin_initials": "wlz",
     "is_valid": true
   },
   {
@@ -3907,6 +4297,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangyantao",
+    "pinyin_initials": "zyt",
     "is_valid": true
   },
   {
@@ -3917,6 +4308,7 @@
     "year": "",
     "school": "",
     "pinyin": "liuqianyi",
+    "pinyin_initials": "lqy",
     "is_valid": true
   },
   {
@@ -3927,6 +4319,7 @@
     "year": "",
     "school": "",
     "pinyin": "wuyantian",
+    "pinyin_initials": "wyt",
     "is_valid": true
   },
   {
@@ -3937,6 +4330,7 @@
     "year": "",
     "school": "",
     "pinyin": "pangke",
+    "pinyin_initials": "pk",
     "is_valid": true
   },
   {
@@ -3947,6 +4341,7 @@
     "year": "",
     "school": "",
     "pinyin": "huxiao",
+    "pinyin_initials": "hx",
     "is_valid": true
   },
   {
@@ -3957,6 +4352,7 @@
     "year": "",
     "school": "",
     "pinyin": "wuyichen",
+    "pinyin_initials": "wyc",
     "is_valid": true
   },
   {
@@ -3967,6 +4363,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenguangyao",
+    "pinyin_initials": "cgy",
     "is_valid": true
   },
   {
@@ -3977,6 +4374,7 @@
     "year": "",
     "school": "",
     "pinyin": "sunqinyu",
+    "pinyin_initials": "sqy",
     "is_valid": true
   },
   {
@@ -3987,6 +4385,7 @@
     "year": "",
     "school": "",
     "pinyin": "liuyi",
+    "pinyin_initials": "ly",
     "is_valid": true
   },
   {
@@ -3997,6 +4396,7 @@
     "year": "",
     "school": "",
     "pinyin": "daiyutao",
+    "pinyin_initials": "dyt",
     "is_valid": true
   },
   {
@@ -4007,6 +4407,7 @@
     "year": "",
     "school": "",
     "pinyin": "fangbaole",
+    "pinyin_initials": "fbl",
     "is_valid": true
   },
   {
@@ -4017,6 +4418,7 @@
     "year": "",
     "school": "",
     "pinyin": "huzhiyuan",
+    "pinyin_initials": "hzy",
     "is_valid": true
   },
   {
@@ -4027,6 +4429,7 @@
     "year": "",
     "school": "",
     "pinyin": "chensihan",
+    "pinyin_initials": "csh",
     "is_valid": true
   },
   {
@@ -4037,6 +4440,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenruizhe",
+    "pinyin_initials": "crz",
     "is_valid": true
   },
   {
@@ -4047,6 +4451,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangyingze",
+    "pinyin_initials": "zyz",
     "is_valid": true
   },
   {
@@ -4057,6 +4462,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangshuofei",
+    "pinyin_initials": "ysf",
     "is_valid": true
   },
   {
@@ -4067,6 +4473,7 @@
     "year": "",
     "school": "",
     "pinyin": "huangsirui",
+    "pinyin_initials": "hsr",
     "is_valid": true
   },
   {
@@ -4077,6 +4484,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangyao",
+    "pinyin_initials": "zy",
     "is_valid": true
   },
   {
@@ -4087,6 +4495,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenshu",
+    "pinyin_initials": "cs",
     "is_valid": true
   },
   {
@@ -4097,6 +4506,7 @@
     "year": "",
     "school": "",
     "pinyin": "doujingwei",
+    "pinyin_initials": "djw",
     "is_valid": true
   },
   {
@@ -4107,6 +4517,7 @@
     "year": "",
     "school": "",
     "pinyin": "liushengwei",
+    "pinyin_initials": "lsw",
     "is_valid": true
   },
   {
@@ -4117,6 +4528,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhouhuiyu",
+    "pinyin_initials": "zhy",
     "is_valid": true
   },
   {
@@ -4127,6 +4539,7 @@
     "year": "",
     "school": "",
     "pinyin": "luotianchen",
+    "pinyin_initials": "ltc",
     "is_valid": true
   },
   {
@@ -4137,6 +4550,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhouxinying",
+    "pinyin_initials": "zxy",
     "is_valid": true
   },
   {
@@ -4147,6 +4561,7 @@
     "year": "",
     "school": "",
     "pinyin": "fengqiaochu",
+    "pinyin_initials": "fqc",
     "is_valid": true
   },
   {
@@ -4157,6 +4572,7 @@
     "year": "",
     "school": "",
     "pinyin": "xiangxinye",
+    "pinyin_initials": "xxy",
     "is_valid": true
   },
   {
@@ -4167,6 +4583,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangshihao",
+    "pinyin_initials": "wsh",
     "is_valid": true
   },
   {
@@ -4177,6 +4594,7 @@
     "year": "",
     "school": "",
     "pinyin": "gaoyuan",
+    "pinyin_initials": "gy",
     "is_valid": true
   },
   {
@@ -4187,6 +4605,7 @@
     "year": "",
     "school": "",
     "pinyin": "panyi",
+    "pinyin_initials": "py",
     "is_valid": true
   },
   {
@@ -4197,6 +4616,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhaominyu",
+    "pinyin_initials": "zmy",
     "is_valid": true
   },
   {
@@ -4207,6 +4627,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangxingyun",
+    "pinyin_initials": "yxy",
     "is_valid": true
   },
   {
@@ -4217,6 +4638,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangming",
+    "pinyin_initials": "wm",
     "is_valid": true
   },
   {
@@ -4227,6 +4649,7 @@
     "year": "",
     "school": "",
     "pinyin": "cuikangxin",
+    "pinyin_initials": "ckx",
     "is_valid": true
   },
   {
@@ -4237,6 +4660,7 @@
     "year": "",
     "school": "",
     "pinyin": "ruanying",
+    "pinyin_initials": "ry",
     "is_valid": true
   },
   {
@@ -4247,6 +4671,7 @@
     "year": "",
     "school": "",
     "pinyin": "libaoyuan",
+    "pinyin_initials": "lby",
     "is_valid": true
   },
   {
@@ -4257,6 +4682,7 @@
     "year": "",
     "school": "",
     "pinyin": "lizhixiao",
+    "pinyin_initials": "lzx",
     "is_valid": true
   },
   {
@@ -4267,6 +4693,7 @@
     "year": "",
     "school": "",
     "pinyin": "yukunju",
+    "pinyin_initials": "ykj",
     "is_valid": true
   },
   {
@@ -4277,6 +4704,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenbingbing",
+    "pinyin_initials": "cbb",
     "is_valid": true
   },
   {
@@ -4287,6 +4715,7 @@
     "year": "",
     "school": "",
     "pinyin": "yuhui",
+    "pinyin_initials": "yh",
     "is_valid": true
   },
   {
@@ -4297,6 +4726,7 @@
     "year": "",
     "school": "",
     "pinyin": "caoyuhuai",
+    "pinyin_initials": "cyh",
     "is_valid": true
   },
   {
@@ -4307,6 +4737,7 @@
     "year": "",
     "school": "",
     "pinyin": "liuxuqi",
+    "pinyin_initials": "lxq",
     "is_valid": true
   },
   {
@@ -4317,6 +4748,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangyunmengge",
+    "pinyin_initials": "zymg",
     "is_valid": true
   },
   {
@@ -4327,6 +4759,7 @@
     "year": "",
     "school": "",
     "pinyin": "maqi",
+    "pinyin_initials": "mq",
     "is_valid": true
   },
   {
@@ -4337,6 +4770,7 @@
     "year": "",
     "school": "",
     "pinyin": "guomin",
+    "pinyin_initials": "gm",
     "is_valid": true
   },
   {
@@ -4347,6 +4781,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenjiahui",
+    "pinyin_initials": "cjh",
     "is_valid": true
   },
   {
@@ -4357,6 +4792,7 @@
     "year": "",
     "school": "",
     "pinyin": "weichunyan",
+    "pinyin_initials": "wcy",
     "is_valid": true
   },
   {
@@ -4367,6 +4803,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangjuan",
+    "pinyin_initials": "yj",
     "is_valid": true
   },
   {
@@ -4377,6 +4814,7 @@
     "year": "",
     "school": "",
     "pinyin": "wusilin",
+    "pinyin_initials": "wsl",
     "is_valid": true
   },
   {
@@ -4387,6 +4825,7 @@
     "year": "",
     "school": "",
     "pinyin": "jiangyujiu",
+    "pinyin_initials": "jyj",
     "is_valid": true
   },
   {
@@ -4397,6 +4836,7 @@
     "year": "",
     "school": "",
     "pinyin": "lurongmin",
+    "pinyin_initials": "lrm",
     "is_valid": true
   },
   {
@@ -4407,6 +4847,7 @@
     "year": "",
     "school": "",
     "pinyin": "hanyuchen",
+    "pinyin_initials": "hyc",
     "is_valid": true
   },
   {
@@ -4417,6 +4858,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhengyantao",
+    "pinyin_initials": "zyt",
     "is_valid": true
   },
   {
@@ -4427,6 +4869,7 @@
     "year": "",
     "school": "",
     "pinyin": "liuruojin",
+    "pinyin_initials": "lrj",
     "is_valid": true
   },
   {
@@ -4437,6 +4880,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenweiqi",
+    "pinyin_initials": "cwq",
     "is_valid": true
   },
   {
@@ -4447,6 +4891,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhujing",
+    "pinyin_initials": "zj",
     "is_valid": true
   },
   {
@@ -4457,6 +4902,7 @@
     "year": "",
     "school": "",
     "pinyin": "wenxu",
+    "pinyin_initials": "wx",
     "is_valid": true
   },
   {
@@ -4467,6 +4913,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangzaiyang",
+    "pinyin_initials": "zzy",
     "is_valid": true
   },
   {
@@ -4477,6 +4924,7 @@
     "year": "",
     "school": "",
     "pinyin": "jibingyin",
+    "pinyin_initials": "jby",
     "is_valid": true
   },
   {
@@ -4487,6 +4935,7 @@
     "year": "",
     "school": "",
     "pinyin": "liuxirui",
+    "pinyin_initials": "lxr",
     "is_valid": true
   },
   {
@@ -4497,6 +4946,7 @@
     "year": "",
     "school": "",
     "pinyin": "liusuhao",
+    "pinyin_initials": "lsh",
     "is_valid": true
   },
   {
@@ -4507,6 +4957,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangluoning",
+    "pinyin_initials": "zln",
     "is_valid": true
   },
   {
@@ -4517,6 +4968,7 @@
     "year": "",
     "school": "",
     "pinyin": "jianghaochen",
+    "pinyin_initials": "jhc",
     "is_valid": true
   },
   {
@@ -4527,6 +4979,7 @@
     "year": "",
     "school": "",
     "pinyin": "shiyujie",
+    "pinyin_initials": "syj",
     "is_valid": true
   },
   {
@@ -4537,6 +4990,7 @@
     "year": "",
     "school": "",
     "pinyin": "lijiayang",
+    "pinyin_initials": "ljy",
     "is_valid": true
   },
   {
@@ -4547,6 +5001,7 @@
     "year": "",
     "school": "",
     "pinyin": "caozexuan",
+    "pinyin_initials": "czx",
     "is_valid": true
   },
   {
@@ -4557,6 +5012,7 @@
     "year": "",
     "school": "",
     "pinyin": "zuoyuge",
+    "pinyin_initials": "zyg",
     "is_valid": true
   },
   {
@@ -4567,6 +5023,7 @@
     "year": "",
     "school": "",
     "pinyin": "huangbiting",
+    "pinyin_initials": "hbt",
     "is_valid": true
   },
   {
@@ -4577,6 +5034,7 @@
     "year": "",
     "school": "",
     "pinyin": "jinhao",
+    "pinyin_initials": "jh",
     "is_valid": true
   },
   {
@@ -4587,6 +5045,7 @@
     "year": "",
     "school": "",
     "pinyin": "suyuzhuo",
+    "pinyin_initials": "syz",
     "is_valid": true
   },
   {
@@ -4597,6 +5056,7 @@
     "year": "",
     "school": "",
     "pinyin": "cengche",
+    "pinyin_initials": "cc",
     "is_valid": true
   },
   {
@@ -4607,6 +5067,7 @@
     "year": "",
     "school": "",
     "pinyin": "cirenlada",
+    "pinyin_initials": "crld",
     "is_valid": true
   },
   {
@@ -4617,6 +5078,7 @@
     "year": "",
     "school": "",
     "pinyin": "dejiquzhen",
+    "pinyin_initials": "djqz",
     "is_valid": true
   },
   {
@@ -4627,6 +5089,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangjixiao",
+    "pinyin_initials": "yjx",
     "is_valid": true
   },
   {
@@ -4637,6 +5100,7 @@
     "year": "",
     "school": "",
     "pinyin": "huxinyuan",
+    "pinyin_initials": "hxy",
     "is_valid": true
   },
   {
@@ -4647,6 +5111,7 @@
     "year": "",
     "school": "",
     "pinyin": "huangheying",
+    "pinyin_initials": "hhy",
     "is_valid": true
   },
   {
@@ -4657,6 +5122,7 @@
     "year": "",
     "school": "",
     "pinyin": "miaoduohao",
+    "pinyin_initials": "mdh",
     "is_valid": true
   },
   {
@@ -4667,6 +5133,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangmingtong",
+    "pinyin_initials": "ymt",
     "is_valid": true
   },
   {
@@ -4677,6 +5144,7 @@
     "year": "",
     "school": "",
     "pinyin": "guyu",
+    "pinyin_initials": "gy",
     "is_valid": true
   },
   {
@@ -4687,6 +5155,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangmanqing",
+    "pinyin_initials": "wmq",
     "is_valid": true
   },
   {
@@ -4697,6 +5166,7 @@
     "year": "",
     "school": "",
     "pinyin": "quxinchang",
+    "pinyin_initials": "qxc",
     "is_valid": true
   },
   {
@@ -4707,6 +5177,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhoufeifan",
+    "pinyin_initials": "zff",
     "is_valid": true
   },
   {
@@ -4717,6 +5188,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangzikun",
+    "pinyin_initials": "wzk",
     "is_valid": true
   },
   {
@@ -4727,6 +5199,7 @@
     "year": "",
     "school": "",
     "pinyin": "baimasangmu",
+    "pinyin_initials": "bmsm",
     "is_valid": true
   },
   {
@@ -4737,6 +5210,7 @@
     "year": "",
     "school": "",
     "pinyin": "xieyujing",
+    "pinyin_initials": "xyj",
     "is_valid": true
   },
   {
@@ -4747,6 +5221,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenqiong",
+    "pinyin_initials": "cq",
     "is_valid": true
   },
   {
@@ -4757,6 +5232,7 @@
     "year": "",
     "school": "",
     "pinyin": "lisihan",
+    "pinyin_initials": "lsh",
     "is_valid": true
   },
   {
@@ -4767,6 +5243,7 @@
     "year": "",
     "school": "",
     "pinyin": "liukaiwen",
+    "pinyin_initials": "lkw",
     "is_valid": true
   },
   {
@@ -4777,6 +5254,7 @@
     "year": "",
     "school": "",
     "pinyin": "shiyiming",
+    "pinyin_initials": "sym",
     "is_valid": true
   },
   {
@@ -4787,6 +5265,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangziyi",
+    "pinyin_initials": "wzy",
     "is_valid": true
   },
   {
@@ -4797,6 +5276,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangyiran",
+    "pinyin_initials": "zyr",
     "is_valid": true
   },
   {
@@ -4807,6 +5287,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhengzhiyue",
+    "pinyin_initials": "zzy",
     "is_valid": true
   },
   {
@@ -4817,6 +5298,7 @@
     "year": "",
     "school": "",
     "pinyin": "maweitao",
+    "pinyin_initials": "mwt",
     "is_valid": true
   },
   {
@@ -4827,6 +5309,7 @@
     "year": "",
     "school": "",
     "pinyin": "tanziyue",
+    "pinyin_initials": "tzy",
     "is_valid": true
   },
   {
@@ -4837,6 +5320,7 @@
     "year": "",
     "school": "",
     "pinyin": "yangxue",
+    "pinyin_initials": "yx",
     "is_valid": true
   },
   {
@@ -4847,6 +5331,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhaoxue",
+    "pinyin_initials": "zx",
     "is_valid": true
   },
   {
@@ -4857,6 +5342,7 @@
     "year": "",
     "school": "",
     "pinyin": "yuyueying",
+    "pinyin_initials": "yyy",
     "is_valid": true
   },
   {
@@ -4867,6 +5353,7 @@
     "year": "",
     "school": "",
     "pinyin": "sunsiwen",
+    "pinyin_initials": "ssw",
     "is_valid": true
   },
   {
@@ -4877,6 +5364,7 @@
     "year": "",
     "school": "",
     "pinyin": "dengxin",
+    "pinyin_initials": "dx",
     "is_valid": true
   },
   {
@@ -4887,6 +5375,7 @@
     "year": "",
     "school": "",
     "pinyin": "sixiang",
+    "pinyin_initials": "sx",
     "is_valid": true
   },
   {
@@ -4897,6 +5386,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangruoxi",
+    "pinyin_initials": "zrx",
     "is_valid": true
   },
   {
@@ -4907,6 +5397,7 @@
     "year": "",
     "school": "",
     "pinyin": "xieyingru",
+    "pinyin_initials": "xyr",
     "is_valid": true
   },
   {
@@ -4917,6 +5408,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangduojia",
+    "pinyin_initials": "wdj",
     "is_valid": true
   },
   {
@@ -4927,6 +5419,7 @@
     "year": "",
     "school": "",
     "pinyin": "tengwanlu",
+    "pinyin_initials": "twl",
     "is_valid": true
   },
   {
@@ -4937,6 +5430,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangyexizi",
+    "pinyin_initials": "zyxz",
     "is_valid": true
   },
   {
@@ -4947,6 +5441,7 @@
     "year": "",
     "school": "",
     "pinyin": "wangzhixian",
+    "pinyin_initials": "wzx",
     "is_valid": true
   },
   {
@@ -4957,6 +5452,7 @@
     "year": "",
     "school": "",
     "pinyin": "liangjiatong",
+    "pinyin_initials": "ljt",
     "is_valid": true
   },
   {
@@ -4967,6 +5463,7 @@
     "year": "",
     "school": "",
     "pinyin": "limuzi",
+    "pinyin_initials": "lmz",
     "is_valid": true
   },
   {
@@ -4977,6 +5474,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhengxinjing",
+    "pinyin_initials": "zxj",
     "is_valid": true
   },
   {
@@ -4987,6 +5485,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhaoqing",
+    "pinyin_initials": "zq",
     "is_valid": true
   },
   {
@@ -4997,6 +5496,7 @@
     "year": "",
     "school": "",
     "pinyin": "niujiali",
+    "pinyin_initials": "njl",
     "is_valid": true
   },
   {
@@ -5007,6 +5507,7 @@
     "year": "",
     "school": "",
     "pinyin": "huangyongfa",
+    "pinyin_initials": "hyf",
     "is_valid": true
   },
   {
@@ -5017,6 +5518,7 @@
     "year": "",
     "school": "",
     "pinyin": "liusihua",
+    "pinyin_initials": "lsh",
     "is_valid": true
   },
   {
@@ -5027,6 +5529,7 @@
     "year": "",
     "school": "",
     "pinyin": "dongqi",
+    "pinyin_initials": "dq",
     "is_valid": true
   },
   {
@@ -5037,6 +5540,7 @@
     "year": "",
     "school": "",
     "pinyin": "chengsida",
+    "pinyin_initials": "csd",
     "is_valid": true
   },
   {
@@ -5047,6 +5551,7 @@
     "year": "",
     "school": "",
     "pinyin": "fengzheng",
+    "pinyin_initials": "fz",
     "is_valid": true
   },
   {
@@ -5057,6 +5562,7 @@
     "year": "",
     "school": "",
     "pinyin": "likaisen",
+    "pinyin_initials": "lks",
     "is_valid": true
   },
   {
@@ -5067,6 +5573,7 @@
     "year": "",
     "school": "",
     "pinyin": "caizhihuan",
+    "pinyin_initials": "czh",
     "is_valid": true
   },
   {
@@ -5077,6 +5584,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhangjiawei",
+    "pinyin_initials": "zjw",
     "is_valid": true
   },
   {
@@ -5087,6 +5595,7 @@
     "year": "",
     "school": "",
     "pinyin": "liyahui",
+    "pinyin_initials": "lyh",
     "is_valid": true
   },
   {
@@ -5097,6 +5606,7 @@
     "year": "",
     "school": "",
     "pinyin": "yanhuige",
+    "pinyin_initials": "yhg",
     "is_valid": true
   },
   {
@@ -5107,6 +5617,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhanglingyun",
+    "pinyin_initials": "zly",
     "is_valid": true
   },
   {
@@ -5117,6 +5628,7 @@
     "year": "",
     "school": "",
     "pinyin": "chenpeng",
+    "pinyin_initials": "cp",
     "is_valid": true
   },
   {
@@ -5127,6 +5639,7 @@
     "year": "",
     "school": "",
     "pinyin": "pangjintao",
+    "pinyin_initials": "pjt",
     "is_valid": true
   },
   {
@@ -5137,6 +5650,7 @@
     "year": "",
     "school": "",
     "pinyin": "ayijiang·yisimayi",
+    "pinyin_initials": "ayj·ysmy",
     "is_valid": true
   },
   {
@@ -5147,6 +5661,7 @@
     "year": "",
     "school": "",
     "pinyin": "jinjiaqi",
+    "pinyin_initials": "jjq",
     "is_valid": true
   },
   {
@@ -5157,6 +5672,7 @@
     "year": "",
     "school": "",
     "pinyin": "huyanfang",
+    "pinyin_initials": "hyf",
     "is_valid": true
   },
   {
@@ -5167,6 +5683,7 @@
     "year": "",
     "school": "",
     "pinyin": "liuyue",
+    "pinyin_initials": "ly",
     "is_valid": true
   },
   {
@@ -5177,6 +5694,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhoutianxiu",
+    "pinyin_initials": "ztx",
     "is_valid": true
   },
   {
@@ -5187,6 +5705,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhaomengsheng",
+    "pinyin_initials": "zms",
     "is_valid": true
   },
   {
@@ -5197,6 +5716,7 @@
     "year": "",
     "school": "",
     "pinyin": "zhoubingyang",
+    "pinyin_initials": "zby",
     "is_valid": true
   },
   {
@@ -5207,6 +5727,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "haoweidong",
+    "pinyin_initials": "hwd",
     "is_valid": true
   },
   {
@@ -5217,6 +5738,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "shibowen",
+    "pinyin_initials": "sbw",
     "is_valid": true
   },
   {
@@ -5227,6 +5749,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wuyaowei",
+    "pinyin_initials": "wyw",
     "is_valid": true
   },
   {
@@ -5237,6 +5760,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "fengshuyao",
+    "pinyin_initials": "fsy",
     "is_valid": true
   },
   {
@@ -5247,6 +5771,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "dinghao",
+    "pinyin_initials": "dh",
     "is_valid": true
   },
   {
@@ -5257,6 +5782,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "hetianxiao",
+    "pinyin_initials": "htx",
     "is_valid": true
   },
   {
@@ -5267,6 +5793,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "meiyichen",
+    "pinyin_initials": "myc",
     "is_valid": true
   },
   {
@@ -5277,6 +5804,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangsunyi",
+    "pinyin_initials": "wsy",
     "is_valid": true
   },
   {
@@ -5287,6 +5815,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "heqifan",
+    "pinyin_initials": "hqf",
     "is_valid": true
   },
   {
@@ -5297,6 +5826,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "mashuyang",
+    "pinyin_initials": "msy",
     "is_valid": true
   },
   {
@@ -5307,6 +5837,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "huangyutong",
+    "pinyin_initials": "hyt",
     "is_valid": true
   },
   {
@@ -5317,6 +5848,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "xinyu",
+    "pinyin_initials": "xy",
     "is_valid": true
   },
   {
@@ -5327,6 +5859,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhouzhenyang",
+    "pinyin_initials": "zzy",
     "is_valid": true
   },
   {
@@ -5337,6 +5870,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "shenyue",
+    "pinyin_initials": "sy",
     "is_valid": true
   },
   {
@@ -5347,6 +5881,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "shenxupanjing",
+    "pinyin_initials": "sxpj",
     "is_valid": true
   },
   {
@@ -5357,6 +5892,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhengwangxu",
+    "pinyin_initials": "zwx",
     "is_valid": true
   },
   {
@@ -5367,6 +5903,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "chensiyu",
+    "pinyin_initials": "csy",
     "is_valid": true
   },
   {
@@ -5377,6 +5914,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangjiayu",
+    "pinyin_initials": "wjy",
     "is_valid": true
   },
   {
@@ -5387,6 +5925,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "caoyingfang",
+    "pinyin_initials": "cyf",
     "is_valid": true
   },
   {
@@ -5397,6 +5936,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "chenjiazhen",
+    "pinyin_initials": "cjz",
     "is_valid": true
   },
   {
@@ -5407,6 +5947,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yuankangning",
+    "pinyin_initials": "ykn",
     "is_valid": true
   },
   {
@@ -5417,6 +5958,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "louqianling",
+    "pinyin_initials": "lql",
     "is_valid": true
   },
   {
@@ -5427,6 +5969,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "longhao",
+    "pinyin_initials": "lh",
     "is_valid": true
   },
   {
@@ -5437,6 +5980,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangsiqi",
+    "pinyin_initials": "wsq",
     "is_valid": true
   },
   {
@@ -5447,6 +5991,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "shensiyin",
+    "pinyin_initials": "ssy",
     "is_valid": true
   },
   {
@@ -5457,6 +6002,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "jihaonan",
+    "pinyin_initials": "jhn",
     "is_valid": true
   },
   {
@@ -5467,6 +6013,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "chenxuyang",
+    "pinyin_initials": "cxy",
     "is_valid": true
   },
   {
@@ -5477,6 +6024,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhengning",
+    "pinyin_initials": "zn",
     "is_valid": true
   },
   {
@@ -5487,6 +6035,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "chensiqi",
+    "pinyin_initials": "csq",
     "is_valid": true
   },
   {
@@ -5497,6 +6046,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhongruining",
+    "pinyin_initials": "zrn",
     "is_valid": true
   },
   {
@@ -5507,6 +6057,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "songzhehan",
+    "pinyin_initials": "szh",
     "is_valid": true
   },
   {
@@ -5517,6 +6068,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "liuhongxin",
+    "pinyin_initials": "lhx",
     "is_valid": true
   },
   {
@@ -5527,6 +6079,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "chenkaiyin",
+    "pinyin_initials": "cky",
     "is_valid": true
   },
   {
@@ -5537,6 +6090,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "shenzheyu",
+    "pinyin_initials": "szy",
     "is_valid": true
   },
   {
@@ -5547,6 +6101,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhujingdong",
+    "pinyin_initials": "zjd",
     "is_valid": true
   },
   {
@@ -5557,6 +6112,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "tangchao",
+    "pinyin_initials": "tc",
     "is_valid": true
   },
   {
@@ -5567,6 +6123,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yuanfengxiang",
+    "pinyin_initials": "yfx",
     "is_valid": true
   },
   {
@@ -5577,6 +6134,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "guoyingying",
+    "pinyin_initials": "gyy",
     "is_valid": true
   },
   {
@@ -5587,6 +6145,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yinjiamin",
+    "pinyin_initials": "yjm",
     "is_valid": true
   },
   {
@@ -5597,6 +6156,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "nichaoyi",
+    "pinyin_initials": "ncy",
     "is_valid": true
   },
   {
@@ -5607,6 +6167,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "huxiaoyu",
+    "pinyin_initials": "hxy",
     "is_valid": true
   },
   {
@@ -5617,6 +6178,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "huayan",
+    "pinyin_initials": "hy",
     "is_valid": true
   },
   {
@@ -5627,6 +6189,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wenshenyi",
+    "pinyin_initials": "wsy",
     "is_valid": true
   },
   {
@@ -5637,6 +6200,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "shensiying",
+    "pinyin_initials": "ssy",
     "is_valid": true
   },
   {
@@ -5647,6 +6211,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yangzhongxin",
+    "pinyin_initials": "yzx",
     "is_valid": true
   },
   {
@@ -5657,6 +6222,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yanjijia",
+    "pinyin_initials": "yjj",
     "is_valid": true
   },
   {
@@ -5667,6 +6233,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yupanyang",
+    "pinyin_initials": "ypy",
     "is_valid": true
   },
   {
@@ -5677,6 +6244,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "shenxiaoyuan",
+    "pinyin_initials": "sxy",
     "is_valid": true
   },
   {
@@ -5687,6 +6255,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "chenyaohui",
+    "pinyin_initials": "cyh",
     "is_valid": true
   },
   {
@@ -5697,6 +6266,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhangchaopeng",
+    "pinyin_initials": "zcp",
     "is_valid": true
   },
   {
@@ -5707,6 +6277,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "baoyueheng",
+    "pinyin_initials": "byh",
     "is_valid": true
   },
   {
@@ -5717,6 +6288,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "lishujun",
+    "pinyin_initials": "lsj",
     "is_valid": true
   },
   {
@@ -5727,6 +6299,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wujunjie",
+    "pinyin_initials": "wjj",
     "is_valid": true
   },
   {
@@ -5737,6 +6310,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yaoliwen",
+    "pinyin_initials": "ylw",
     "is_valid": true
   },
   {
@@ -5747,6 +6321,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wengzhuangji",
+    "pinyin_initials": "wzj",
     "is_valid": true
   },
   {
@@ -5757,6 +6332,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "shenhongquan",
+    "pinyin_initials": "shq",
     "is_valid": true
   },
   {
@@ -5767,6 +6343,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wenfeiyang",
+    "pinyin_initials": "wfy",
     "is_valid": true
   },
   {
@@ -5777,6 +6354,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "shiruoyi",
+    "pinyin_initials": "sry",
     "is_valid": true
   },
   {
@@ -5787,6 +6365,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "shenkai",
+    "pinyin_initials": "sk",
     "is_valid": true
   },
   {
@@ -5797,6 +6376,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "tangjiahui",
+    "pinyin_initials": "tjh",
     "is_valid": true
   },
   {
@@ -5807,6 +6387,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wuyiyang",
+    "pinyin_initials": "wyy",
     "is_valid": true
   },
   {
@@ -5817,6 +6398,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "cuixue",
+    "pinyin_initials": "cx",
     "is_valid": true
   },
   {
@@ -5827,6 +6409,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "liangshiyun",
+    "pinyin_initials": "lsy",
     "is_valid": true
   },
   {
@@ -5837,6 +6420,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "furunyi",
+    "pinyin_initials": "fry",
     "is_valid": true
   },
   {
@@ -5847,6 +6431,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "liuminghao",
+    "pinyin_initials": "lmh",
     "is_valid": true
   },
   {
@@ -5857,6 +6442,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhangruoxi",
+    "pinyin_initials": "zrx",
     "is_valid": true
   },
   {
@@ -5867,6 +6453,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "xiaoke",
+    "pinyin_initials": "xk",
     "is_valid": true
   },
   {
@@ -5877,6 +6464,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "bailing",
+    "pinyin_initials": "bl",
     "is_valid": true
   },
   {
@@ -5887,6 +6475,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "youchenxi",
+    "pinyin_initials": "ycx",
     "is_valid": true
   },
   {
@@ -5897,6 +6486,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhongshizhe",
+    "pinyin_initials": "zsz",
     "is_valid": true
   },
   {
@@ -5907,6 +6497,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "jingyiru",
+    "pinyin_initials": "jyr",
     "is_valid": true
   },
   {
@@ -5917,6 +6508,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "gaoyuan",
+    "pinyin_initials": "gy",
     "is_valid": true
   },
   {
@@ -5927,6 +6519,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "houwangxinran",
+    "pinyin_initials": "hwxr",
     "is_valid": true
   },
   {
@@ -5937,6 +6530,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "huyiwen",
+    "pinyin_initials": "hyw",
     "is_valid": true
   },
   {
@@ -5947,6 +6541,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "shizhefei",
+    "pinyin_initials": "szf",
     "is_valid": true
   },
   {
@@ -5957,6 +6552,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "sunchenyue",
+    "pinyin_initials": "scy",
     "is_valid": true
   },
   {
@@ -5967,6 +6563,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "huangyifan",
+    "pinyin_initials": "hyf",
     "is_valid": true
   },
   {
@@ -5977,6 +6574,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhengzhangyun",
+    "pinyin_initials": "zzy",
     "is_valid": true
   },
   {
@@ -5987,6 +6585,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wuqingyang",
+    "pinyin_initials": "wqy",
     "is_valid": true
   },
   {
@@ -5997,6 +6596,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yangyue",
+    "pinyin_initials": "yy",
     "is_valid": true
   },
   {
@@ -6007,6 +6607,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhengchenxin",
+    "pinyin_initials": "zcx",
     "is_valid": true
   },
   {
@@ -6017,6 +6618,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "chensiyang",
+    "pinyin_initials": "csy",
     "is_valid": true
   },
   {
@@ -6027,6 +6629,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangchenyi",
+    "pinyin_initials": "wcy",
     "is_valid": true
   },
   {
@@ -6037,6 +6640,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "xiezhiqin",
+    "pinyin_initials": "xzq",
     "is_valid": true
   },
   {
@@ -6047,6 +6651,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "qiyunqing",
+    "pinyin_initials": "qyq",
     "is_valid": true
   },
   {
@@ -6057,6 +6662,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhengbo",
+    "pinyin_initials": "zb",
     "is_valid": true
   },
   {
@@ -6067,6 +6673,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "lisiqi",
+    "pinyin_initials": "lsq",
     "is_valid": true
   },
   {
@@ -6077,6 +6684,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "guxuan",
+    "pinyin_initials": "gx",
     "is_valid": true
   },
   {
@@ -6087,6 +6695,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhusiyu",
+    "pinyin_initials": "zsy",
     "is_valid": true
   },
   {
@@ -6097,6 +6706,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "gaomengdi",
+    "pinyin_initials": "gmd",
     "is_valid": true
   },
   {
@@ -6107,6 +6717,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhangzhehong",
+    "pinyin_initials": "zzh",
     "is_valid": true
   },
   {
@@ -6117,6 +6728,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wuxiejia",
+    "pinyin_initials": "wxj",
     "is_valid": true
   },
   {
@@ -6127,6 +6739,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "jixinran",
+    "pinyin_initials": "jxr",
     "is_valid": true
   },
   {
@@ -6137,6 +6750,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "chenyizhe",
+    "pinyin_initials": "cyz",
     "is_valid": true
   },
   {
@@ -6147,6 +6761,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "jinye",
+    "pinyin_initials": "jy",
     "is_valid": true
   },
   {
@@ -6157,6 +6772,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yangyunqi",
+    "pinyin_initials": "yyq",
     "is_valid": true
   },
   {
@@ -6167,6 +6783,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "shengkai",
+    "pinyin_initials": "sk",
     "is_valid": true
   },
   {
@@ -6177,6 +6794,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zuweitao",
+    "pinyin_initials": "zwt",
     "is_valid": true
   },
   {
@@ -6187,6 +6805,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangzihuan",
+    "pinyin_initials": "wzh",
     "is_valid": true
   },
   {
@@ -6197,6 +6816,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "xuzhongling",
+    "pinyin_initials": "xzl",
     "is_valid": true
   },
   {
@@ -6207,6 +6827,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "lushihan",
+    "pinyin_initials": "lsh",
     "is_valid": true
   },
   {
@@ -6217,6 +6838,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "caosiying",
+    "pinyin_initials": "csy",
     "is_valid": true
   },
   {
@@ -6227,6 +6849,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhanrui",
+    "pinyin_initials": "zr",
     "is_valid": true
   },
   {
@@ -6237,6 +6860,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "chouqingyang",
+    "pinyin_initials": "cqy",
     "is_valid": true
   },
   {
@@ -6247,6 +6871,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "liyuqi",
+    "pinyin_initials": "lyq",
     "is_valid": true
   },
   {
@@ -6257,6 +6882,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "luyang",
+    "pinyin_initials": "ly",
     "is_valid": true
   },
   {
@@ -6267,6 +6893,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "shenchenrong",
+    "pinyin_initials": "scr",
     "is_valid": true
   },
   {
@@ -6277,6 +6904,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "chentianhao",
+    "pinyin_initials": "cth",
     "is_valid": true
   },
   {
@@ -6287,6 +6915,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "gaorunze",
+    "pinyin_initials": "grz",
     "is_valid": true
   },
   {
@@ -6297,6 +6926,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yuruiqi",
+    "pinyin_initials": "yrq",
     "is_valid": true
   },
   {
@@ -6307,6 +6937,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhouziqing",
+    "pinyin_initials": "zzq",
     "is_valid": true
   },
   {
@@ -6317,6 +6948,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhaozhangyi",
+    "pinyin_initials": "zzy",
     "is_valid": true
   },
   {
@@ -6327,6 +6959,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangshi",
+    "pinyin_initials": "ws",
     "is_valid": true
   },
   {
@@ -6337,6 +6970,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhangyihong",
+    "pinyin_initials": "zyh",
     "is_valid": true
   },
   {
@@ -6347,6 +6981,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhoujingle",
+    "pinyin_initials": "zjl",
     "is_valid": true
   },
   {
@@ -6357,6 +6992,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "liuyuhe",
+    "pinyin_initials": "lyh",
     "is_valid": true
   },
   {
@@ -6367,6 +7003,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "liuchenghao",
+    "pinyin_initials": "lch",
     "is_valid": true
   },
   {
@@ -6377,6 +7014,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "linnongying",
+    "pinyin_initials": "lny",
     "is_valid": true
   },
   {
@@ -6387,6 +7025,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "luxiongyannan",
+    "pinyin_initials": "lxyn",
     "is_valid": true
   },
   {
@@ -6397,6 +7036,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangyi",
+    "pinyin_initials": "wy",
     "is_valid": true
   },
   {
@@ -6407,6 +7047,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "liupengcheng",
+    "pinyin_initials": "lpc",
     "is_valid": true
   },
   {
@@ -6417,6 +7058,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhangmingze",
+    "pinyin_initials": "zmz",
     "is_valid": true
   },
   {
@@ -6427,6 +7069,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "liuyiwei",
+    "pinyin_initials": "lyw",
     "is_valid": true
   },
   {
@@ -6437,6 +7080,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "youxingyu",
+    "pinyin_initials": "yxy",
     "is_valid": true
   },
   {
@@ -6447,6 +7091,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhukexin",
+    "pinyin_initials": "zkx",
     "is_valid": true
   },
   {
@@ -6457,6 +7102,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhaokunhan",
+    "pinyin_initials": "zkh",
     "is_valid": true
   },
   {
@@ -6467,6 +7113,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "huxiaoling",
+    "pinyin_initials": "hxl",
     "is_valid": true
   },
   {
@@ -6477,6 +7124,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhangshengyi",
+    "pinyin_initials": "zsy",
     "is_valid": true
   },
   {
@@ -6487,6 +7135,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "lihui",
+    "pinyin_initials": "lh",
     "is_valid": true
   },
   {
@@ -6497,6 +7146,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wucencen",
+    "pinyin_initials": "wcc",
     "is_valid": true
   },
   {
@@ -6507,6 +7157,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangrong",
+    "pinyin_initials": "wr",
     "is_valid": true
   },
   {
@@ -6517,6 +7168,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangyueyue",
+    "pinyin_initials": "wyy",
     "is_valid": true
   },
   {
@@ -6527,6 +7179,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangleyi",
+    "pinyin_initials": "wly",
     "is_valid": true
   },
   {
@@ -6537,6 +7190,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "chenlingling",
+    "pinyin_initials": "cll",
     "is_valid": true
   },
   {
@@ -6547,6 +7201,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "liuwengang",
+    "pinyin_initials": "lwg",
     "is_valid": true
   },
   {
@@ -6557,6 +7212,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wanghaocheng",
+    "pinyin_initials": "whc",
     "is_valid": true
   },
   {
@@ -6567,6 +7223,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yangrui",
+    "pinyin_initials": "yr",
     "is_valid": true
   },
   {
@@ -6577,6 +7234,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "sunyi",
+    "pinyin_initials": "sy",
     "is_valid": true
   },
   {
@@ -6587,6 +7245,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangruilong",
+    "pinyin_initials": "wrl",
     "is_valid": true
   },
   {
@@ -6597,6 +7256,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "guopengfei",
+    "pinyin_initials": "gpf",
     "is_valid": true
   },
   {
@@ -6607,6 +7267,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhaoxi",
+    "pinyin_initials": "zx",
     "is_valid": true
   },
   {
@@ -6617,6 +7278,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yangqiming",
+    "pinyin_initials": "yqm",
     "is_valid": true
   },
   {
@@ -6627,6 +7289,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "qijiahui",
+    "pinyin_initials": "qjh",
     "is_valid": true
   },
   {
@@ -6637,6 +7300,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "sunjiayu",
+    "pinyin_initials": "sjy",
     "is_valid": true
   },
   {
@@ -6647,6 +7311,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wuyongqin",
+    "pinyin_initials": "wyq",
     "is_valid": true
   },
   {
@@ -6657,6 +7322,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "puning",
+    "pinyin_initials": "pn",
     "is_valid": true
   },
   {
@@ -6667,6 +7333,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "panlinyue",
+    "pinyin_initials": "ply",
     "is_valid": true
   },
   {
@@ -6677,6 +7344,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "heziyu",
+    "pinyin_initials": "hzy",
     "is_valid": true
   },
   {
@@ -6687,6 +7355,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "liujiayu",
+    "pinyin_initials": "ljy",
     "is_valid": true
   },
   {
@@ -6697,6 +7366,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "liuxinlin",
+    "pinyin_initials": "lxl",
     "is_valid": true
   },
   {
@@ -6707,6 +7377,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangqiuyue",
+    "pinyin_initials": "wqy",
     "is_valid": true
   },
   {
@@ -6717,6 +7388,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "genghaoyang",
+    "pinyin_initials": "ghy",
     "is_valid": true
   },
   {
@@ -6727,6 +7399,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "lupingyun",
+    "pinyin_initials": "lpy",
     "is_valid": true
   },
   {
@@ -6737,6 +7410,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhaoyiwen",
+    "pinyin_initials": "zyw",
     "is_valid": true
   },
   {
@@ -6747,6 +7421,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "liuguohao",
+    "pinyin_initials": "lgh",
     "is_valid": true
   },
   {
@@ -6757,6 +7432,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "panleyi",
+    "pinyin_initials": "ply",
     "is_valid": true
   },
   {
@@ -6767,6 +7443,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "jubeichuan",
+    "pinyin_initials": "jbc",
     "is_valid": true
   },
   {
@@ -6777,6 +7454,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "mengjiani",
+    "pinyin_initials": "mjn",
     "is_valid": true
   },
   {
@@ -6787,6 +7465,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "gengsiyuan",
+    "pinyin_initials": "gsy",
     "is_valid": true
   },
   {
@@ -6797,6 +7476,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "mengyan",
+    "pinyin_initials": "my",
     "is_valid": true
   },
   {
@@ -6807,6 +7487,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wunanshuo",
+    "pinyin_initials": "wns",
     "is_valid": true
   },
   {
@@ -6817,6 +7498,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yunjing",
+    "pinyin_initials": "yj",
     "is_valid": true
   },
   {
@@ -6827,6 +7509,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "liyihan",
+    "pinyin_initials": "lyh",
     "is_valid": true
   },
   {
@@ -6837,6 +7520,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "lizhao",
+    "pinyin_initials": "lz",
     "is_valid": true
   },
   {
@@ -6847,6 +7531,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "songgaoge",
+    "pinyin_initials": "sgg",
     "is_valid": true
   },
   {
@@ -6857,6 +7542,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yaosuyuan",
+    "pinyin_initials": "ysy",
     "is_valid": true
   },
   {
@@ -6867,6 +7553,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "xuyixian",
+    "pinyin_initials": "xyx",
     "is_valid": true
   },
   {
@@ -6877,6 +7564,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "caoyuqi",
+    "pinyin_initials": "cyq",
     "is_valid": true
   },
   {
@@ -6887,6 +7575,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangyilin",
+    "pinyin_initials": "wyl",
     "is_valid": true
   },
   {
@@ -6897,6 +7586,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "renqing",
+    "pinyin_initials": "rq",
     "is_valid": true
   },
   {
@@ -6907,6 +7597,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhengqi",
+    "pinyin_initials": "zq",
     "is_valid": true
   },
   {
@@ -6917,6 +7608,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yaodi",
+    "pinyin_initials": "yd",
     "is_valid": true
   },
   {
@@ -6927,6 +7619,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "hezichang",
+    "pinyin_initials": "hzc",
     "is_valid": true
   },
   {
@@ -6937,6 +7630,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "songyuanjie",
+    "pinyin_initials": "syj",
     "is_valid": true
   },
   {
@@ -6947,6 +7641,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangchuyuan",
+    "pinyin_initials": "wcy",
     "is_valid": true
   },
   {
@@ -6957,6 +7652,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yangziming",
+    "pinyin_initials": "yzm",
     "is_valid": true
   },
   {
@@ -6967,6 +7663,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangyuezhou",
+    "pinyin_initials": "wyz",
     "is_valid": true
   },
   {
@@ -6977,6 +7674,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "fujingxuan",
+    "pinyin_initials": "fjx",
     "is_valid": true
   },
   {
@@ -6987,6 +7685,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "heqian",
+    "pinyin_initials": "hq",
     "is_valid": true
   },
   {
@@ -6997,6 +7696,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "guoqi",
+    "pinyin_initials": "gq",
     "is_valid": true
   },
   {
@@ -7007,6 +7707,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "dongzhirao",
+    "pinyin_initials": "dzr",
     "is_valid": true
   },
   {
@@ -7017,6 +7718,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "hejingmiao",
+    "pinyin_initials": "hjm",
     "is_valid": true
   },
   {
@@ -7027,6 +7729,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "jizixun",
+    "pinyin_initials": "jzx",
     "is_valid": true
   },
   {
@@ -7037,6 +7740,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wuke",
+    "pinyin_initials": "wk",
     "is_valid": true
   },
   {
@@ -7047,6 +7751,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yangjingxu",
+    "pinyin_initials": "yjx",
     "is_valid": true
   },
   {
@@ -7057,6 +7762,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yangxi",
+    "pinyin_initials": "yx",
     "is_valid": true
   },
   {
@@ -7067,6 +7773,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangyilan",
+    "pinyin_initials": "wyl",
     "is_valid": true
   },
   {
@@ -7077,6 +7784,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "zhangdingrong",
+    "pinyin_initials": "zdr",
     "is_valid": true
   },
   {
@@ -7087,6 +7795,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "dingxinyi",
+    "pinyin_initials": "dxy",
     "is_valid": true
   },
   {
@@ -7097,6 +7806,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "xingrong",
+    "pinyin_initials": "xr",
     "is_valid": true
   },
   {
@@ -7107,6 +7817,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangyikai",
+    "pinyin_initials": "wyk",
     "is_valid": true
   },
   {
@@ -7117,6 +7828,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yangmeixi",
+    "pinyin_initials": "ymx",
     "is_valid": true
   },
   {
@@ -7127,6 +7839,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "niujiaxin",
+    "pinyin_initials": "njx",
     "is_valid": true
   },
   {
@@ -7137,6 +7850,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "dingyan",
+    "pinyin_initials": "dy",
     "is_valid": true
   },
   {
@@ -7147,6 +7861,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "fangtianqi",
+    "pinyin_initials": "ftq",
     "is_valid": true
   },
   {
@@ -7157,6 +7872,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "shiqingyang",
+    "pinyin_initials": "sqy",
     "is_valid": true
   },
   {
@@ -7167,6 +7883,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wumanqi",
+    "pinyin_initials": "wmq",
     "is_valid": true
   },
   {
@@ -7177,6 +7894,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wanglu",
+    "pinyin_initials": "wl",
     "is_valid": true
   },
   {
@@ -7187,6 +7905,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "liubowen",
+    "pinyin_initials": "lbw",
     "is_valid": true
   },
   {
@@ -7197,6 +7916,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yangjianian",
+    "pinyin_initials": "yjn",
     "is_valid": true
   },
   {
@@ -7207,6 +7927,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "linjianfeng",
+    "pinyin_initials": "ljf",
     "is_valid": true
   },
   {
@@ -7217,6 +7938,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "gaoyajuan",
+    "pinyin_initials": "gyj",
     "is_valid": true
   },
   {
@@ -7227,6 +7949,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yangfan",
+    "pinyin_initials": "yf",
     "is_valid": true
   },
   {
@@ -7237,6 +7960,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "chensiyuan",
+    "pinyin_initials": "csy",
     "is_valid": true
   },
   {
@@ -7247,6 +7971,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "lixueying",
+    "pinyin_initials": "lxy",
     "is_valid": true
   },
   {
@@ -7257,6 +7982,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yaoqiuqi",
+    "pinyin_initials": "yqq",
     "is_valid": true
   },
   {
@@ -7267,6 +7993,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wangchen",
+    "pinyin_initials": "wc",
     "is_valid": true
   },
   {
@@ -7277,6 +8004,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "lishan",
+    "pinyin_initials": "ls",
     "is_valid": true
   },
   {
@@ -7287,6 +8015,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "laixuefeng",
+    "pinyin_initials": "lxf",
     "is_valid": true
   },
   {
@@ -7297,6 +8026,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "lizhujun",
+    "pinyin_initials": "lzj",
     "is_valid": true
   },
   {
@@ -7307,6 +8037,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "cairuyi",
+    "pinyin_initials": "cry",
     "is_valid": true
   },
   {
@@ -7317,6 +8048,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "dongweidong",
+    "pinyin_initials": "dwd",
     "is_valid": true
   },
   {
@@ -7327,6 +8059,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "panyannan",
+    "pinyin_initials": "pyn",
     "is_valid": true
   },
   {
@@ -7337,6 +8070,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "yuanjieling",
+    "pinyin_initials": "yjl",
     "is_valid": true
   },
   {
@@ -7347,6 +8081,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "wanglingfeng",
+    "pinyin_initials": "wlf",
     "is_valid": true
   },
   {
@@ -7357,6 +8092,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "anqi",
+    "pinyin_initials": "aq",
     "is_valid": true
   },
   {
@@ -7367,6 +8103,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "caoyifei",
+    "pinyin_initials": "cyf",
     "is_valid": true
   },
   {
@@ -7377,6 +8114,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "liuyingjie",
+    "pinyin_initials": "lyj",
     "is_valid": true
   },
   {
@@ -7387,6 +8125,7 @@
     "year": "2018",
     "school": "",
     "pinyin": "chenguolan",
+    "pinyin_initials": "cgl",
     "is_valid": true
   },
   {
@@ -7397,6 +8136,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "shaochenyu",
+    "pinyin_initials": "scy",
     "is_valid": true
   },
   {
@@ -7407,6 +8147,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangxinyi",
+    "pinyin_initials": "wxy",
     "is_valid": true
   },
   {
@@ -7417,6 +8158,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xujun",
+    "pinyin_initials": "xj",
     "is_valid": true
   },
   {
@@ -7427,6 +8169,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "chenyuheng",
+    "pinyin_initials": "cyh",
     "is_valid": true
   },
   {
@@ -7437,6 +8180,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "lixin",
+    "pinyin_initials": "lx",
     "is_valid": true
   },
   {
@@ -7447,6 +8191,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "qianqicong",
+    "pinyin_initials": "qqc",
     "is_valid": true
   },
   {
@@ -7457,6 +8202,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "luxiaoqi",
+    "pinyin_initials": "lxq",
     "is_valid": true
   },
   {
@@ -7467,6 +8213,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "yubintao",
+    "pinyin_initials": "ybt",
     "is_valid": true
   },
   {
@@ -7477,6 +8224,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "guosen",
+    "pinyin_initials": "gs",
     "is_valid": true
   },
   {
@@ -7487,6 +8235,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "caiqingjian",
+    "pinyin_initials": "cqj",
     "is_valid": true
   },
   {
@@ -7497,6 +8246,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "fushuqin",
+    "pinyin_initials": "fsq",
     "is_valid": true
   },
   {
@@ -7507,6 +8257,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "caixinhao",
+    "pinyin_initials": "cxh",
     "is_valid": true
   },
   {
@@ -7517,6 +8268,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "chenjunming",
+    "pinyin_initials": "cjm",
     "is_valid": true
   },
   {
@@ -7527,6 +8279,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "qiuyun",
+    "pinyin_initials": "qy",
     "is_valid": true
   },
   {
@@ -7537,6 +8290,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "mayuyang",
+    "pinyin_initials": "myy",
     "is_valid": true
   },
   {
@@ -7547,6 +8301,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangqianyi",
+    "pinyin_initials": "zqy",
     "is_valid": true
   },
   {
@@ -7557,6 +8312,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "yangchengyu",
+    "pinyin_initials": "ycy",
     "is_valid": true
   },
   {
@@ -7567,6 +8323,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "shenjiajun",
+    "pinyin_initials": "sjj",
     "is_valid": true
   },
   {
@@ -7577,6 +8334,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "chengyuyuan",
+    "pinyin_initials": "cyy",
     "is_valid": true
   },
   {
@@ -7587,6 +8345,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zoujie",
+    "pinyin_initials": "zj",
     "is_valid": true
   },
   {
@@ -7597,6 +8356,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "qiubangyan",
+    "pinyin_initials": "qby",
     "is_valid": true
   },
   {
@@ -7607,6 +8367,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "tianhao",
+    "pinyin_initials": "th",
     "is_valid": true
   },
   {
@@ -7617,6 +8378,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "linfangqian",
+    "pinyin_initials": "lfq",
     "is_valid": true
   },
   {
@@ -7627,6 +8389,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangchuanmin",
+    "pinyin_initials": "zcm",
     "is_valid": true
   },
   {
@@ -7637,6 +8400,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xuehao",
+    "pinyin_initials": "xh",
     "is_valid": true
   },
   {
@@ -7647,6 +8411,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xuzongyan",
+    "pinyin_initials": "xzy",
     "is_valid": true
   },
   {
@@ -7657,6 +8422,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "shensiqi",
+    "pinyin_initials": "ssq",
     "is_valid": true
   },
   {
@@ -7667,6 +8433,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "chenruixi",
+    "pinyin_initials": "crx",
     "is_valid": true
   },
   {
@@ -7677,6 +8444,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhuyifan",
+    "pinyin_initials": "zyf",
     "is_valid": true
   },
   {
@@ -7687,6 +8455,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "chenmingjia",
+    "pinyin_initials": "cmj",
     "is_valid": true
   },
   {
@@ -7697,6 +8466,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "jijingyi",
+    "pinyin_initials": "jjy",
     "is_valid": true
   },
   {
@@ -7707,6 +8477,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhoushuqi",
+    "pinyin_initials": "zsq",
     "is_valid": true
   },
   {
@@ -7717,6 +8488,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xuxian",
+    "pinyin_initials": "xx",
     "is_valid": true
   },
   {
@@ -7727,6 +8499,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhuyongfei",
+    "pinyin_initials": "zyf",
     "is_valid": true
   },
   {
@@ -7737,6 +8510,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhanglixia",
+    "pinyin_initials": "zlx",
     "is_valid": true
   },
   {
@@ -7747,6 +8521,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "caizheqian",
+    "pinyin_initials": "czq",
     "is_valid": true
   },
   {
@@ -7757,6 +8532,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "panting",
+    "pinyin_initials": "pt",
     "is_valid": true
   },
   {
@@ -7767,6 +8543,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhouxintong",
+    "pinyin_initials": "zxt",
     "is_valid": true
   },
   {
@@ -7777,6 +8554,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhujingyi",
+    "pinyin_initials": "zjy",
     "is_valid": true
   },
   {
@@ -7787,6 +8565,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "shenbeixuan",
+    "pinyin_initials": "sbx",
     "is_valid": true
   },
   {
@@ -7797,6 +8576,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wujiali",
+    "pinyin_initials": "wjl",
     "is_valid": true
   },
   {
@@ -7807,6 +8587,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "chenwei",
+    "pinyin_initials": "cw",
     "is_valid": true
   },
   {
@@ -7817,6 +8598,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "jinlijuan",
+    "pinyin_initials": "jlj",
     "is_valid": true
   },
   {
@@ -7827,6 +8609,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangwanqiu",
+    "pinyin_initials": "zwq",
     "is_valid": true
   },
   {
@@ -7837,6 +8620,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xuxinyi",
+    "pinyin_initials": "xxy",
     "is_valid": true
   },
   {
@@ -7847,6 +8631,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "linqianwen",
+    "pinyin_initials": "lqw",
     "is_valid": true
   },
   {
@@ -7857,6 +8642,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "qiuxingyu",
+    "pinyin_initials": "qxy",
     "is_valid": true
   },
   {
@@ -7867,6 +8653,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "baoxiying",
+    "pinyin_initials": "bxy",
     "is_valid": true
   },
   {
@@ -7877,6 +8664,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "jiangfeiran",
+    "pinyin_initials": "jfr",
     "is_valid": true
   },
   {
@@ -7887,6 +8675,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "keyunshu",
+    "pinyin_initials": "kys",
     "is_valid": true
   },
   {
@@ -7897,6 +8686,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangyiyang",
+    "pinyin_initials": "zyy",
     "is_valid": true
   },
   {
@@ -7907,6 +8697,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "qiwang",
+    "pinyin_initials": "qw",
     "is_valid": true
   },
   {
@@ -7917,6 +8708,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "yaoyuanle",
+    "pinyin_initials": "yyl",
     "is_valid": true
   },
   {
@@ -7927,6 +8719,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangxinyu",
+    "pinyin_initials": "wxy",
     "is_valid": true
   },
   {
@@ -7937,6 +8730,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "yaojiafeng",
+    "pinyin_initials": "yjf",
     "is_valid": true
   },
   {
@@ -7947,6 +8741,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhanghongmin",
+    "pinyin_initials": "zhm",
     "is_valid": true
   },
   {
@@ -7957,6 +8752,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "dongyan",
+    "pinyin_initials": "dy",
     "is_valid": true
   },
   {
@@ -7967,6 +8763,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhaoyiyang",
+    "pinyin_initials": "zyy",
     "is_valid": true
   },
   {
@@ -7977,6 +8774,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangyu",
+    "pinyin_initials": "zy",
     "is_valid": true
   },
   {
@@ -7987,6 +8785,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "pengzimu",
+    "pinyin_initials": "pzm",
     "is_valid": true
   },
   {
@@ -7997,6 +8796,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhulingnan",
+    "pinyin_initials": "zln",
     "is_valid": true
   },
   {
@@ -8007,6 +8807,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "mojiatao",
+    "pinyin_initials": "mjt",
     "is_valid": true
   },
   {
@@ -8017,6 +8818,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xulin",
+    "pinyin_initials": "xl",
     "is_valid": true
   },
   {
@@ -8027,6 +8829,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangjiahao",
+    "pinyin_initials": "zjh",
     "is_valid": true
   },
   {
@@ -8037,6 +8840,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "huawei",
+    "pinyin_initials": "hw",
     "is_valid": true
   },
   {
@@ -8047,6 +8851,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangpeng",
+    "pinyin_initials": "zp",
     "is_valid": true
   },
   {
@@ -8057,6 +8862,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wuyifan",
+    "pinyin_initials": "wyf",
     "is_valid": true
   },
   {
@@ -8067,6 +8873,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "donghanyu",
+    "pinyin_initials": "dhy",
     "is_valid": true
   },
   {
@@ -8077,6 +8884,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "shenlingyi",
+    "pinyin_initials": "sly",
     "is_valid": true
   },
   {
@@ -8087,6 +8895,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhujingyi",
+    "pinyin_initials": "zjy",
     "is_valid": true
   },
   {
@@ -8097,6 +8906,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangqiyuan",
+    "pinyin_initials": "zqy",
     "is_valid": true
   },
   {
@@ -8107,6 +8917,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "yaojianyang",
+    "pinyin_initials": "yjy",
     "is_valid": true
   },
   {
@@ -8117,6 +8928,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangyunzhe",
+    "pinyin_initials": "zyz",
     "is_valid": true
   },
   {
@@ -8127,6 +8939,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhengshengyi",
+    "pinyin_initials": "zsy",
     "is_valid": true
   },
   {
@@ -8137,6 +8950,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xiongzhixiao",
+    "pinyin_initials": "xzx",
     "is_valid": true
   },
   {
@@ -8147,6 +8961,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "liyayue",
+    "pinyin_initials": "lyy",
     "is_valid": true
   },
   {
@@ -8157,6 +8972,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangji",
+    "pinyin_initials": "wj",
     "is_valid": true
   },
   {
@@ -8167,6 +8983,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangjingning",
+    "pinyin_initials": "wjn",
     "is_valid": true
   },
   {
@@ -8177,6 +8994,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhouzihan",
+    "pinyin_initials": "zzh",
     "is_valid": true
   },
   {
@@ -8187,6 +9005,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangjinhong",
+    "pinyin_initials": "wjh",
     "is_valid": true
   },
   {
@@ -8197,6 +9016,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangyiqun",
+    "pinyin_initials": "zyq",
     "is_valid": true
   },
   {
@@ -8207,6 +9027,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "pangyawen",
+    "pinyin_initials": "pyw",
     "is_valid": true
   },
   {
@@ -8217,6 +9038,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "gaoyining",
+    "pinyin_initials": "gyn",
     "is_valid": true
   },
   {
@@ -8227,6 +9049,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "duchenchen",
+    "pinyin_initials": "dcc",
     "is_valid": true
   },
   {
@@ -8237,6 +9060,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "jijiayao",
+    "pinyin_initials": "jjy",
     "is_valid": true
   },
   {
@@ -8247,6 +9071,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "panyue",
+    "pinyin_initials": "py",
     "is_valid": true
   },
   {
@@ -8257,6 +9082,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "jixiangyu",
+    "pinyin_initials": "jxy",
     "is_valid": true
   },
   {
@@ -8267,6 +9093,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "hezhen",
+    "pinyin_initials": "hz",
     "is_valid": true
   },
   {
@@ -8277,6 +9104,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "yutongfei",
+    "pinyin_initials": "ytf",
     "is_valid": true
   },
   {
@@ -8287,6 +9115,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "dingtingting",
+    "pinyin_initials": "dtt",
     "is_valid": true
   },
   {
@@ -8297,6 +9126,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "lutian",
+    "pinyin_initials": "lt",
     "is_valid": true
   },
   {
@@ -8307,6 +9137,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xuyang",
+    "pinyin_initials": "xy",
     "is_valid": true
   },
   {
@@ -8317,6 +9148,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "caosinuo",
+    "pinyin_initials": "csn",
     "is_valid": true
   },
   {
@@ -8327,6 +9159,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "qiaoyichen",
+    "pinyin_initials": "qyc",
     "is_valid": true
   },
   {
@@ -8337,6 +9170,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangzaiji",
+    "pinyin_initials": "wzj",
     "is_valid": true
   },
   {
@@ -8347,6 +9181,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xuweihao",
+    "pinyin_initials": "xwh",
     "is_valid": true
   },
   {
@@ -8357,6 +9192,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "dengzijie",
+    "pinyin_initials": "dzj",
     "is_valid": true
   },
   {
@@ -8367,6 +9203,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "liuyiting",
+    "pinyin_initials": "lyt",
     "is_valid": true
   },
   {
@@ -8377,6 +9214,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xuyiqin",
+    "pinyin_initials": "xyq",
     "is_valid": true
   },
   {
@@ -8387,6 +9225,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "huanglingtao",
+    "pinyin_initials": "hlt",
     "is_valid": true
   },
   {
@@ -8397,6 +9236,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "huangzheng",
+    "pinyin_initials": "hz",
     "is_valid": true
   },
   {
@@ -8407,6 +9247,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "yeyi",
+    "pinyin_initials": "yy",
     "is_valid": true
   },
   {
@@ -8417,6 +9258,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangxinyu",
+    "pinyin_initials": "zxy",
     "is_valid": true
   },
   {
@@ -8427,6 +9269,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhoujie",
+    "pinyin_initials": "zj",
     "is_valid": true
   },
   {
@@ -8437,6 +9280,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangzheng",
+    "pinyin_initials": "wz",
     "is_valid": true
   },
   {
@@ -8447,6 +9291,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "gumingqi",
+    "pinyin_initials": "gmq",
     "is_valid": true
   },
   {
@@ -8457,6 +9302,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "jiangpengyue",
+    "pinyin_initials": "jpy",
     "is_valid": true
   },
   {
@@ -8467,6 +9313,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangchenxu",
+    "pinyin_initials": "wcx",
     "is_valid": true
   },
   {
@@ -8477,6 +9324,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xujing",
+    "pinyin_initials": "xj",
     "is_valid": true
   },
   {
@@ -8487,6 +9335,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "shenminqi",
+    "pinyin_initials": "smq",
     "is_valid": true
   },
   {
@@ -8497,6 +9346,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "shiweili",
+    "pinyin_initials": "swl",
     "is_valid": true
   },
   {
@@ -8507,6 +9357,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangyuyan",
+    "pinyin_initials": "wyy",
     "is_valid": true
   },
   {
@@ -8517,6 +9368,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhouxuan",
+    "pinyin_initials": "zx",
     "is_valid": true
   },
   {
@@ -8527,6 +9379,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "pengyifan",
+    "pinyin_initials": "pyf",
     "is_valid": true
   },
   {
@@ -8537,6 +9390,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "chenshenglang",
+    "pinyin_initials": "csl",
     "is_valid": true
   },
   {
@@ -8547,6 +9401,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangshijie",
+    "pinyin_initials": "zsj",
     "is_valid": true
   },
   {
@@ -8557,6 +9412,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "tangwenxu",
+    "pinyin_initials": "twx",
     "is_valid": true
   },
   {
@@ -8567,6 +9423,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "diyicheng",
+    "pinyin_initials": "dyc",
     "is_valid": true
   },
   {
@@ -8577,6 +9434,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "linsijia",
+    "pinyin_initials": "lsj",
     "is_valid": true
   },
   {
@@ -8587,6 +9445,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "liuzikun",
+    "pinyin_initials": "lzk",
     "is_valid": true
   },
   {
@@ -8597,6 +9456,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "liuyilan",
+    "pinyin_initials": "lyl",
     "is_valid": true
   },
   {
@@ -8607,6 +9467,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangchujun",
+    "pinyin_initials": "zcj",
     "is_valid": true
   },
   {
@@ -8617,6 +9478,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "jinzhenghao",
+    "pinyin_initials": "jzh",
     "is_valid": true
   },
   {
@@ -8627,6 +9489,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "bianruiqi",
+    "pinyin_initials": "brq",
     "is_valid": true
   },
   {
@@ -8637,6 +9500,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "chentianxu",
+    "pinyin_initials": "ctx",
     "is_valid": true
   },
   {
@@ -8647,6 +9511,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "youchang",
+    "pinyin_initials": "yc",
     "is_valid": true
   },
   {
@@ -8657,6 +9522,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangshiyuan",
+    "pinyin_initials": "zsy",
     "is_valid": true
   },
   {
@@ -8667,6 +9533,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangpeiyu",
+    "pinyin_initials": "zpy",
     "is_valid": true
   },
   {
@@ -8677,6 +9544,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "liaoyunfan",
+    "pinyin_initials": "lyf",
     "is_valid": true
   },
   {
@@ -8687,6 +9555,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "hanyongyan",
+    "pinyin_initials": "hyy",
     "is_valid": true
   },
   {
@@ -8697,6 +9566,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "shichenhao",
+    "pinyin_initials": "sch",
     "is_valid": true
   },
   {
@@ -8707,6 +9577,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "niuyanzhao",
+    "pinyin_initials": "nyz",
     "is_valid": true
   },
   {
@@ -8717,6 +9588,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xiejiaxuan",
+    "pinyin_initials": "xjx",
     "is_valid": true
   },
   {
@@ -8727,6 +9599,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangchenran",
+    "pinyin_initials": "wcr",
     "is_valid": true
   },
   {
@@ -8737,6 +9610,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "lixinrong",
+    "pinyin_initials": "lxr",
     "is_valid": true
   },
   {
@@ -8747,6 +9621,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "daiyi",
+    "pinyin_initials": "dy",
     "is_valid": true
   },
   {
@@ -8757,6 +9632,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhouwanglan",
+    "pinyin_initials": "zwl",
     "is_valid": true
   },
   {
@@ -8767,6 +9643,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "heyixin",
+    "pinyin_initials": "hyx",
     "is_valid": true
   },
   {
@@ -8777,6 +9654,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "huangxinyu",
+    "pinyin_initials": "hxy",
     "is_valid": true
   },
   {
@@ -8787,6 +9665,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xiaosien",
+    "pinyin_initials": "xse",
     "is_valid": true
   },
   {
@@ -8797,6 +9676,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangjing",
+    "pinyin_initials": "zj",
     "is_valid": true
   },
   {
@@ -8807,6 +9687,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "fanxueying",
+    "pinyin_initials": "fxy",
     "is_valid": true
   },
   {
@@ -8817,6 +9698,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangqi",
+    "pinyin_initials": "zq",
     "is_valid": true
   },
   {
@@ -8827,6 +9709,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "luxinyi",
+    "pinyin_initials": "lxy",
     "is_valid": true
   },
   {
@@ -8837,6 +9720,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhuwan",
+    "pinyin_initials": "zw",
     "is_valid": true
   },
   {
@@ -8847,6 +9731,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "chentian",
+    "pinyin_initials": "ct",
     "is_valid": true
   },
   {
@@ -8857,6 +9742,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "fujianan",
+    "pinyin_initials": "fjn",
     "is_valid": true
   },
   {
@@ -8867,6 +9753,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhaoyaqi",
+    "pinyin_initials": "zyq",
     "is_valid": true
   },
   {
@@ -8877,6 +9764,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangmengqian",
+    "pinyin_initials": "zmq",
     "is_valid": true
   },
   {
@@ -8887,6 +9775,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "yuanliya",
+    "pinyin_initials": "yly",
     "is_valid": true
   },
   {
@@ -8897,6 +9786,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "adilijiang·aili",
+    "pinyin_initials": "adlj·al",
     "is_valid": true
   },
   {
@@ -8907,6 +9797,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "gasongwangmu",
+    "pinyin_initials": "gswm",
     "is_valid": true
   },
   {
@@ -8917,6 +9808,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "shiyanshun",
+    "pinyin_initials": "sys",
     "is_valid": true
   },
   {
@@ -8927,6 +9819,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangxiaochuan",
+    "pinyin_initials": "zxc",
     "is_valid": true
   },
   {
@@ -8937,6 +9830,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "shaobenqi",
+    "pinyin_initials": "sbq",
     "is_valid": true
   },
   {
@@ -8947,6 +9841,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "heteng",
+    "pinyin_initials": "ht",
     "is_valid": true
   },
   {
@@ -8957,6 +9852,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "jiarui",
+    "pinyin_initials": "jr",
     "is_valid": true
   },
   {
@@ -8967,6 +9863,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "hanjunkai",
+    "pinyin_initials": "hjk",
     "is_valid": true
   },
   {
@@ -8977,6 +9874,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "duanruiwei",
+    "pinyin_initials": "drw",
     "is_valid": true
   },
   {
@@ -8987,6 +9885,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "chexiaoxia",
+    "pinyin_initials": "cxx",
     "is_valid": true
   },
   {
@@ -8997,6 +9896,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "lijiawei",
+    "pinyin_initials": "ljw",
     "is_valid": true
   },
   {
@@ -9007,6 +9907,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "lishengkun",
+    "pinyin_initials": "lsk",
     "is_valid": true
   },
   {
@@ -9017,6 +9918,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "sunshunrong",
+    "pinyin_initials": "ssr",
     "is_valid": true
   },
   {
@@ -9027,6 +9929,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangyoujia",
+    "pinyin_initials": "zyj",
     "is_valid": true
   },
   {
@@ -9037,6 +9940,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "chenyanchao",
+    "pinyin_initials": "cyc",
     "is_valid": true
   },
   {
@@ -9047,6 +9951,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "hururui",
+    "pinyin_initials": "hrr",
     "is_valid": true
   },
   {
@@ -9057,6 +9962,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "liaoxinyi",
+    "pinyin_initials": "lxy",
     "is_valid": true
   },
   {
@@ -9067,6 +9973,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "tanyingting",
+    "pinyin_initials": "tyt",
     "is_valid": true
   },
   {
@@ -9077,6 +9984,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "qutian",
+    "pinyin_initials": "qt",
     "is_valid": true
   },
   {
@@ -9087,6 +9995,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangbiyun",
+    "pinyin_initials": "zby",
     "is_valid": true
   },
   {
@@ -9097,6 +10006,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangyan",
+    "pinyin_initials": "wy",
     "is_valid": true
   },
   {
@@ -9107,6 +10017,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangyuzhu",
+    "pinyin_initials": "wyz",
     "is_valid": true
   },
   {
@@ -9117,6 +10028,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xieguilan",
+    "pinyin_initials": "xgl",
     "is_valid": true
   },
   {
@@ -9127,6 +10039,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "huangwenchu",
+    "pinyin_initials": "hwc",
     "is_valid": true
   },
   {
@@ -9137,6 +10050,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "yangfan",
+    "pinyin_initials": "yf",
     "is_valid": true
   },
   {
@@ -9147,6 +10061,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "mengshushi",
+    "pinyin_initials": "mss",
     "is_valid": true
   },
   {
@@ -9157,6 +10072,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangshuang",
+    "pinyin_initials": "zs",
     "is_valid": true
   },
   {
@@ -9167,6 +10083,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhouchenyu",
+    "pinyin_initials": "zcy",
     "is_valid": true
   },
   {
@@ -9177,6 +10094,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "jiangyuwei",
+    "pinyin_initials": "jyw",
     "is_valid": true
   },
   {
@@ -9187,6 +10105,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xutingting",
+    "pinyin_initials": "xtt",
     "is_valid": true
   },
   {
@@ -9197,6 +10116,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangyujie",
+    "pinyin_initials": "wyj",
     "is_valid": true
   },
   {
@@ -9207,6 +10127,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "chenjunyi",
+    "pinyin_initials": "cjy",
     "is_valid": true
   },
   {
@@ -9217,6 +10138,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "gaoshiqi",
+    "pinyin_initials": "gsq",
     "is_valid": true
   },
   {
@@ -9227,6 +10149,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "huangtianze",
+    "pinyin_initials": "htz",
     "is_valid": true
   },
   {
@@ -9237,6 +10160,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "jinshijie",
+    "pinyin_initials": "jsj",
     "is_valid": true
   },
   {
@@ -9247,6 +10171,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangxun",
+    "pinyin_initials": "wx",
     "is_valid": true
   },
   {
@@ -9257,6 +10182,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "lilinqing",
+    "pinyin_initials": "llq",
     "is_valid": true
   },
   {
@@ -9267,6 +10193,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "daiwenxu",
+    "pinyin_initials": "dwx",
     "is_valid": true
   },
   {
@@ -9277,6 +10204,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "liumeilin",
+    "pinyin_initials": "lml",
     "is_valid": true
   },
   {
@@ -9287,6 +10215,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xuyibo",
+    "pinyin_initials": "xyb",
     "is_valid": true
   },
   {
@@ -9297,6 +10226,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "chenyilong",
+    "pinyin_initials": "cyl",
     "is_valid": true
   },
   {
@@ -9307,6 +10237,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "liyuxin",
+    "pinyin_initials": "lyx",
     "is_valid": true
   },
   {
@@ -9317,6 +10248,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangshengru",
+    "pinyin_initials": "zsr",
     "is_valid": true
   },
   {
@@ -9327,6 +10259,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xuyanli",
+    "pinyin_initials": "xyl",
     "is_valid": true
   },
   {
@@ -9337,6 +10270,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangjingwen",
+    "pinyin_initials": "zjw",
     "is_valid": true
   },
   {
@@ -9347,6 +10281,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "yuxiaoyi",
+    "pinyin_initials": "yxy",
     "is_valid": true
   },
   {
@@ -9357,6 +10292,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "liuyuxin",
+    "pinyin_initials": "lyx",
     "is_valid": true
   },
   {
@@ -9367,6 +10303,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "liuhaoyu",
+    "pinyin_initials": "lhy",
     "is_valid": true
   },
   {
@@ -9377,6 +10314,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "chengcheng",
+    "pinyin_initials": "cc",
     "is_valid": true
   },
   {
@@ -9387,6 +10325,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhangyuxuan",
+    "pinyin_initials": "zyx",
     "is_valid": true
   },
   {
@@ -9397,6 +10336,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "shenjinbo",
+    "pinyin_initials": "sjb",
     "is_valid": true
   },
   {
@@ -9407,6 +10347,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "jiangzijun",
+    "pinyin_initials": "jzj",
     "is_valid": true
   },
   {
@@ -9417,6 +10358,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "chenyuchang",
+    "pinyin_initials": "cyc",
     "is_valid": true
   },
   {
@@ -9427,6 +10369,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhaoyin",
+    "pinyin_initials": "zy",
     "is_valid": true
   },
   {
@@ -9437,6 +10380,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "fujingyao",
+    "pinyin_initials": "fjy",
     "is_valid": true
   },
   {
@@ -9447,6 +10391,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "lizonghao",
+    "pinyin_initials": "lzh",
     "is_valid": true
   },
   {
@@ -9457,6 +10402,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "lijiayi",
+    "pinyin_initials": "ljy",
     "is_valid": true
   },
   {
@@ -9467,6 +10413,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "duyuyang",
+    "pinyin_initials": "dyy",
     "is_valid": true
   },
   {
@@ -9477,6 +10424,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangyueyi",
+    "pinyin_initials": "wyy",
     "is_valid": true
   },
   {
@@ -9487,6 +10435,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "lisuyi",
+    "pinyin_initials": "lsy",
     "is_valid": true
   },
   {
@@ -9497,6 +10446,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "puxuanrong",
+    "pinyin_initials": "pxr",
     "is_valid": true
   },
   {
@@ -9507,6 +10457,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "suziyue",
+    "pinyin_initials": "szy",
     "is_valid": true
   },
   {
@@ -9517,6 +10468,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "caoruoxuan",
+    "pinyin_initials": "crx",
     "is_valid": true
   },
   {
@@ -9527,6 +10479,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wanyi",
+    "pinyin_initials": "wy",
     "is_valid": true
   },
   {
@@ -9537,6 +10490,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "gexinran",
+    "pinyin_initials": "gxr",
     "is_valid": true
   },
   {
@@ -9547,6 +10501,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangminjia",
+    "pinyin_initials": "wmj",
     "is_valid": true
   },
   {
@@ -9557,6 +10512,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "jiangshaoyun",
+    "pinyin_initials": "jsy",
     "is_valid": true
   },
   {
@@ -9567,6 +10523,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wanghaoxiang",
+    "pinyin_initials": "whx",
     "is_valid": true
   },
   {
@@ -9577,6 +10534,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "liteng",
+    "pinyin_initials": "lt",
     "is_valid": true
   },
   {
@@ -9587,6 +10545,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "heyujie",
+    "pinyin_initials": "hyj",
     "is_valid": true
   },
   {
@@ -9597,6 +10556,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wuyinghan",
+    "pinyin_initials": "wyh",
     "is_valid": true
   },
   {
@@ -9607,6 +10567,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "lisuhui",
+    "pinyin_initials": "lsh",
     "is_valid": true
   },
   {
@@ -9617,6 +10578,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "fudexin",
+    "pinyin_initials": "fdx",
     "is_valid": true
   },
   {
@@ -9627,6 +10589,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "yukejin",
+    "pinyin_initials": "ykj",
     "is_valid": true
   },
   {
@@ -9637,6 +10600,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "suntianyi",
+    "pinyin_initials": "sty",
     "is_valid": true
   },
   {
@@ -9647,6 +10611,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "linqiushi",
+    "pinyin_initials": "lqs",
     "is_valid": true
   },
   {
@@ -9657,6 +10622,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "dairan",
+    "pinyin_initials": "dr",
     "is_valid": true
   },
   {
@@ -9667,6 +10633,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wuyuchang",
+    "pinyin_initials": "wyc",
     "is_valid": true
   },
   {
@@ -9677,6 +10644,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhilin",
+    "pinyin_initials": "zl",
     "is_valid": true
   },
   {
@@ -9687,6 +10655,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "suyi",
+    "pinyin_initials": "sy",
     "is_valid": true
   },
   {
@@ -9697,6 +10666,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhaoshuo",
+    "pinyin_initials": "zs",
     "is_valid": true
   },
   {
@@ -9707,6 +10677,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "gaowenqi",
+    "pinyin_initials": "gwq",
     "is_valid": true
   },
   {
@@ -9717,6 +10688,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "jingyuhan",
+    "pinyin_initials": "jyh",
     "is_valid": true
   },
   {
@@ -9727,6 +10699,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wuerwen",
+    "pinyin_initials": "wew",
     "is_valid": true
   },
   {
@@ -9737,6 +10710,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhaoyibo",
+    "pinyin_initials": "zyb",
     "is_valid": true
   },
   {
@@ -9747,6 +10721,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "qimeizhi",
+    "pinyin_initials": "qmz",
     "is_valid": true
   },
   {
@@ -9757,6 +10732,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhutianyi",
+    "pinyin_initials": "zty",
     "is_valid": true
   },
   {
@@ -9767,6 +10743,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangbinrong",
+    "pinyin_initials": "wbr",
     "is_valid": true
   },
   {
@@ -9777,6 +10754,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "yuhaijing",
+    "pinyin_initials": "yhj",
     "is_valid": true
   },
   {
@@ -9787,6 +10765,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "basangciren",
+    "pinyin_initials": "bscr",
     "is_valid": true
   },
   {
@@ -9797,6 +10776,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "layong",
+    "pinyin_initials": "ly",
     "is_valid": true
   },
   {
@@ -9807,6 +10787,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "tianjiahe",
+    "pinyin_initials": "tjh",
     "is_valid": true
   },
   {
@@ -9817,6 +10798,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "xiezhixuan",
+    "pinyin_initials": "xzx",
     "is_valid": true
   },
   {
@@ -9827,6 +10809,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "yangzhen",
+    "pinyin_initials": "yz",
     "is_valid": true
   },
   {
@@ -9837,6 +10820,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "mouzelin",
+    "pinyin_initials": "mzl",
     "is_valid": true
   },
   {
@@ -9847,6 +10831,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "hanyuzhe",
+    "pinyin_initials": "hyz",
     "is_valid": true
   },
   {
@@ -9857,6 +10842,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "liuyupeng",
+    "pinyin_initials": "lyp",
     "is_valid": true
   },
   {
@@ -9867,6 +10853,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "guojialu",
+    "pinyin_initials": "gjl",
     "is_valid": true
   },
   {
@@ -9877,6 +10864,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangshuyang",
+    "pinyin_initials": "wsy",
     "is_valid": true
   },
   {
@@ -9887,6 +10875,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wanglebei",
+    "pinyin_initials": "wlb",
     "is_valid": true
   },
   {
@@ -9897,6 +10886,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "liuyufei",
+    "pinyin_initials": "lyf",
     "is_valid": true
   },
   {
@@ -9907,6 +10897,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "liuyiman",
+    "pinyin_initials": "lym",
     "is_valid": true
   },
   {
@@ -9917,6 +10908,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhaozhijie",
+    "pinyin_initials": "zzj",
     "is_valid": true
   },
   {
@@ -9927,6 +10919,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wangxiuqi",
+    "pinyin_initials": "wxq",
     "is_valid": true
   },
   {
@@ -9937,6 +10930,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "changzixiangfei",
+    "pinyin_initials": "czxf",
     "is_valid": true
   },
   {
@@ -9947,6 +10941,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "bairunsheng",
+    "pinyin_initials": "brs",
     "is_valid": true
   },
   {
@@ -9957,6 +10952,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wanghanzhi",
+    "pinyin_initials": "whz",
     "is_valid": true
   },
   {
@@ -9967,6 +10963,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "zhaojinyang",
+    "pinyin_initials": "zjy",
     "is_valid": true
   },
   {
@@ -9977,6 +10974,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "yaoyuanchi",
+    "pinyin_initials": "yyc",
     "is_valid": true
   },
   {
@@ -9987,6 +10985,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "yujinzhuo",
+    "pinyin_initials": "yjz",
     "is_valid": true
   },
   {
@@ -9997,6 +10996,7 @@
     "year": "2019",
     "school": "",
     "pinyin": "wutianyu",
+    "pinyin_initials": "wty",
     "is_valid": true
   }
 ]

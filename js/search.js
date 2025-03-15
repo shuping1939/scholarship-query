@@ -1,7 +1,7 @@
 // 配置参数
 const CDN_BASE = 'https://cdn.jsdelivr.net/gh/kangningyuan/scholarship-query@main';
 const CHUNK_COUNT = 10; // 根据实际分片数量修改
-const DEBOUNCE_TIME = 500; // 防抖时间(ms)
+const DEBOUNCE_TIME = 400; // 防抖时间(ms)
 
 // 全局变量
 let allData = [];
@@ -35,18 +35,31 @@ async function loadAllData() {
     }
 }
 
-// 搜索功能
-function search(keyword) {
-    const cleanKeyword = keyword.trim().toLowerCase();
-    if (!cleanKeyword) return [];
+// 输入解析函数（新增）
+function parseQuery(input) {
+    const chinesePart = input.replace(/[^\u4e00-\u9fa5]/g, ''); // 提取中文
+    const pinyinPart = input.replace(/[\u4e00-\u9fa5]/g, '').toLowerCase(); // 提取拼音
+    return { chinesePart, pinyinPart };
+}
 
+// 增强搜索功能（修改）
+function search(keyword) {
+    const { chinesePart, pinyinPart } = parseQuery(keyword);
+    
     return allData.filter(item => {
-        return (
-            item.base_id.startsWith(cleanKeyword) ||     // 学号前缀匹配
-            item.name.includes(cleanKeyword) ||           // 姓名匹配
-            item.pinyin.includes(cleanKeyword) ||        // 拼音匹配
-            item.school.includes(cleanKeyword)           // 学校匹配
-        );
+        // 中文匹配 (姓名或学校)
+        const chineseMatch = chinesePart ? 
+            (item.name.includes(chinesePart) || 
+            item.school.includes(chinesePart)) : 
+            true;
+
+        // 拼音匹配 (全拼或首字母)
+        const pinyinMatch = pinyinPart ?
+            (item.pinyin.includes(pinyinPart) ||
+            item.pinyin_initials.includes(pinyinPart)) : 
+            true;
+
+        return chineseMatch && pinyinMatch;
     });
 }
 
