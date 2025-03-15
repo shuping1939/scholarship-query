@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>叔蘋奖学金得奖信息查询系统</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🏅 叔蘋奖学金查询</h1>
+        
+        <!-- 搜索框 -->
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="输入学号/姓名">
+            <div id="loading">支持同音字模糊搜索</div>
+        </div>
+
+        <!-- 结果展示 -->
+        <div id="results"></div>
+
+        <!-- 统计信息 -->
+        <div id="stats"></div>
+    </div>
+
+    <script src="js/search.js"></script>
+</body>
+</html>

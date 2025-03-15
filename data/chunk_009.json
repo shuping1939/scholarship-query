@@ -1,0 +1,7722 @@
+[
+  {
+    "name": "张茹棋",
+    "full_id": "9564/87-88",
+    "base_id": "9564",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "zhangruqi",
+    "is_valid": true
+  },
+  {
+    "name": "闫金源",
+    "full_id": "9565/87-88",
+    "base_id": "9565",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "yanjinyuan",
+    "is_valid": true
+  },
+  {
+    "name": "王杰晶",
+    "full_id": "9566/87-88",
+    "base_id": "9566",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "wangjiejing",
+    "is_valid": true
+  },
+  {
+    "name": "夏书文",
+    "full_id": "9567/87-88",
+    "base_id": "9567",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "xiashuwen",
+    "is_valid": true
+  },
+  {
+    "name": "徐鑫",
+    "full_id": "9568/87-88",
+    "base_id": "9568",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "xuxin",
+    "is_valid": true
+  },
+  {
+    "name": "赵雪丹妮",
+    "full_id": "9569/87-88",
+    "base_id": "9569",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "zhaoxuedanni",
+    "is_valid": true
+  },
+  {
+    "name": "马诗涵",
+    "full_id": "9570/87-88",
+    "base_id": "9570",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "mashihan",
+    "is_valid": true
+  },
+  {
+    "name": "王若涵",
+    "full_id": "9571/87-88",
+    "base_id": "9571",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "wangruohan",
+    "is_valid": true
+  },
+  {
+    "name": "杨印心",
+    "full_id": "9572/87-88",
+    "base_id": "9572",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "yangyinxin",
+    "is_valid": true
+  },
+  {
+    "name": "曹文慧",
+    "full_id": "9573/87-88",
+    "base_id": "9573",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "caowenhui",
+    "is_valid": true
+  },
+  {
+    "name": "夏瑞雪",
+    "full_id": "9574/87-88",
+    "base_id": "9574",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "xiaruixue",
+    "is_valid": true
+  },
+  {
+    "name": "乔歆然",
+    "full_id": "9575/87-88",
+    "base_id": "9575",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "qiaoxinran",
+    "is_valid": true
+  },
+  {
+    "name": "刘力瑄",
+    "full_id": "9576/87-88",
+    "base_id": "9576",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "liulixuan",
+    "is_valid": true
+  },
+  {
+    "name": "余佳诺",
+    "full_id": "9577/87-88",
+    "base_id": "9577",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "yujianuo",
+    "is_valid": true
+  },
+  {
+    "name": "徐静雯",
+    "full_id": "9578/87-88",
+    "base_id": "9578",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "xujingwen",
+    "is_valid": true
+  },
+  {
+    "name": "郭昱辰",
+    "full_id": "9579/87-88",
+    "base_id": "9579",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "guoyuchen",
+    "is_valid": true
+  },
+  {
+    "name": "刘妙琳",
+    "full_id": "9580/87-88",
+    "base_id": "9580",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "liumiaolin",
+    "is_valid": true
+  },
+  {
+    "name": "黄新悦",
+    "full_id": "9581/87-88",
+    "base_id": "9581",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "huangxinyue",
+    "is_valid": true
+  },
+  {
+    "name": "王菁菁",
+    "full_id": "9623/89-90",
+    "base_id": "9623",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wangjingjing",
+    "is_valid": true
+  },
+  {
+    "name": "杨淮备",
+    "full_id": "9624/89-90",
+    "base_id": "9624",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "yanghuaibei",
+    "is_valid": true
+  },
+  {
+    "name": "黄雨欣",
+    "full_id": "9625/89-90",
+    "base_id": "9625",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "huangyuxin",
+    "is_valid": true
+  },
+  {
+    "name": "陆昊",
+    "full_id": "9626/89-90",
+    "base_id": "9626",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "luhao",
+    "is_valid": true
+  },
+  {
+    "name": "何谐",
+    "full_id": "9627/89-90",
+    "base_id": "9627",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "hexie",
+    "is_valid": true
+  },
+  {
+    "name": "潘可扬",
+    "full_id": "9628/89-90",
+    "base_id": "9628",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "pankeyang",
+    "is_valid": true
+  },
+  {
+    "name": "罗心悦",
+    "full_id": "9629/89-90",
+    "base_id": "9629",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "luoxinyue",
+    "is_valid": true
+  },
+  {
+    "name": "费泽国",
+    "full_id": "9630/89-90",
+    "base_id": "9630",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "feizeguo",
+    "is_valid": true
+  },
+  {
+    "name": "温恩洁",
+    "full_id": "9631/89-90",
+    "base_id": "9631",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wenenjie",
+    "is_valid": true
+  },
+  {
+    "name": "徐轶枰",
+    "full_id": "9632/89-90",
+    "base_id": "9632",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "xuyiping",
+    "is_valid": true
+  },
+  {
+    "name": "程晟",
+    "full_id": "9633/89-90",
+    "base_id": "9633",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chengcheng",
+    "is_valid": true
+  },
+  {
+    "name": "吴文涛",
+    "full_id": "9634/89-90",
+    "base_id": "9634",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wuwentao",
+    "is_valid": true
+  },
+  {
+    "name": "徐乐烨",
+    "full_id": "9635/89-90",
+    "base_id": "9635",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "xuleye",
+    "is_valid": true
+  },
+  {
+    "name": "黄欣",
+    "full_id": "9636/89-90",
+    "base_id": "9636",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "huangxin",
+    "is_valid": true
+  },
+  {
+    "name": "陈硕",
+    "full_id": "9637/89-90",
+    "base_id": "9637",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chenshuo",
+    "is_valid": true
+  },
+  {
+    "name": "姚林子仪",
+    "full_id": "9638/89-90",
+    "base_id": "9638",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "yaolinziyi",
+    "is_valid": true
+  },
+  {
+    "name": "朱可涵",
+    "full_id": "9639/89-90",
+    "base_id": "9639",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhukehan",
+    "is_valid": true
+  },
+  {
+    "name": "江林蔚",
+    "full_id": "9640/89-90",
+    "base_id": "9640",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "jianglinwei",
+    "is_valid": true
+  },
+  {
+    "name": "张怀",
+    "full_id": "9641/89-90",
+    "base_id": "9641",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhanghuai",
+    "is_valid": true
+  },
+  {
+    "name": "全欣怡",
+    "full_id": "9642/89-90",
+    "base_id": "9642",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "quanxinyi",
+    "is_valid": true
+  },
+  {
+    "name": "张鹏",
+    "full_id": "9643/89-90",
+    "base_id": "9643",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhangpeng",
+    "is_valid": true
+  },
+  {
+    "name": "焦哲睿",
+    "full_id": "9644/89-90",
+    "base_id": "9644",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "jiaozherui",
+    "is_valid": true
+  },
+  {
+    "name": "黄宇扬",
+    "full_id": "9645/89-90",
+    "base_id": "9645",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "huangyuyang",
+    "is_valid": true
+  },
+  {
+    "name": "翁逢泽",
+    "full_id": "9646/89-90",
+    "base_id": "9646",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wengfengze",
+    "is_valid": true
+  },
+  {
+    "name": "周畅",
+    "full_id": "9647/89-90",
+    "base_id": "9647",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhouchang",
+    "is_valid": true
+  },
+  {
+    "name": "邵泽宇",
+    "full_id": "9649/89-90",
+    "base_id": "9649",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "shaozeyu",
+    "is_valid": true
+  },
+  {
+    "name": "李儆义",
+    "full_id": "9650/89-90",
+    "base_id": "9650",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "lijingyi",
+    "is_valid": true
+  },
+  {
+    "name": "叶秋瑜",
+    "full_id": "9652/89-90",
+    "base_id": "9652",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "yeqiuyu",
+    "is_valid": true
+  },
+  {
+    "name": "朱天乐",
+    "full_id": "9653/89-90",
+    "base_id": "9653",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhutianle",
+    "is_valid": true
+  },
+  {
+    "name": "周锦",
+    "full_id": "9654/89-90",
+    "base_id": "9654",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhoujin",
+    "is_valid": true
+  },
+  {
+    "name": "李思佳",
+    "full_id": "9655/89-90",
+    "base_id": "9655",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "lisijia",
+    "is_valid": true
+  },
+  {
+    "name": "潘秋芸",
+    "full_id": "9656/89-90",
+    "base_id": "9656",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "panqiuyun",
+    "is_valid": true
+  },
+  {
+    "name": "王丹婷",
+    "full_id": "9657/89-90",
+    "base_id": "9657",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wangdanting",
+    "is_valid": true
+  },
+  {
+    "name": "邱美琪",
+    "full_id": "9658/89-90",
+    "base_id": "9658",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "qiumeiqi",
+    "is_valid": true
+  },
+  {
+    "name": "朱文希",
+    "full_id": "9659/89-90",
+    "base_id": "9659",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhuwenxi",
+    "is_valid": true
+  },
+  {
+    "name": "胡博宇",
+    "full_id": "9660/89-90",
+    "base_id": "9660",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "huboyu",
+    "is_valid": true
+  },
+  {
+    "name": "王清婷",
+    "full_id": "9661/89-90",
+    "base_id": "9661",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wangqingting",
+    "is_valid": true
+  },
+  {
+    "name": "倪文琪",
+    "full_id": "9662/89-90",
+    "base_id": "9662",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "niwenqi",
+    "is_valid": true
+  },
+  {
+    "name": "赵昕怡",
+    "full_id": "9663/89-90",
+    "base_id": "9663",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhaoxinyi",
+    "is_valid": true
+  },
+  {
+    "name": "浦易诚",
+    "full_id": "9664/89-90",
+    "base_id": "9664",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "puyicheng",
+    "is_valid": true
+  },
+  {
+    "name": "陈心怡",
+    "full_id": "9665/89-90",
+    "base_id": "9665",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chenxinyi",
+    "is_valid": true
+  },
+  {
+    "name": "曾忻雨",
+    "full_id": "9666/89-90",
+    "base_id": "9666",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "cengxinyu",
+    "is_valid": true
+  },
+  {
+    "name": "李博",
+    "full_id": "9667/89-90",
+    "base_id": "9667",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "libo",
+    "is_valid": true
+  },
+  {
+    "name": "陈婕",
+    "full_id": "9668/89-90",
+    "base_id": "9668",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chenjie",
+    "is_valid": true
+  },
+  {
+    "name": "朱政",
+    "full_id": "9669/89-90",
+    "base_id": "9669",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhuzheng",
+    "is_valid": true
+  },
+  {
+    "name": "潘奕羽",
+    "full_id": "9670/89-90",
+    "base_id": "9670",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "panyiyu",
+    "is_valid": true
+  },
+  {
+    "name": "高于涵",
+    "full_id": "9671/89-90",
+    "base_id": "9671",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "gaoyuhan",
+    "is_valid": true
+  },
+  {
+    "name": "李婷婷",
+    "full_id": "9672/89-90",
+    "base_id": "9672",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "litingting",
+    "is_valid": true
+  },
+  {
+    "name": "刘瑾",
+    "full_id": "9673/89-90",
+    "base_id": "9673",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liujin",
+    "is_valid": true
+  },
+  {
+    "name": "刘欣媛",
+    "full_id": "9674/89-90",
+    "base_id": "9674",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liuxinyuan",
+    "is_valid": true
+  },
+  {
+    "name": "潘彦哲",
+    "full_id": "9675/89-90",
+    "base_id": "9675",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "panyanzhe",
+    "is_valid": true
+  },
+  {
+    "name": "钱邹屹",
+    "full_id": "9676/89-90",
+    "base_id": "9676",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "qianzouyi",
+    "is_valid": true
+  },
+  {
+    "name": "蒋笑阳",
+    "full_id": "9677/89-90",
+    "base_id": "9677",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "jiangxiaoyang",
+    "is_valid": true
+  },
+  {
+    "name": "刘卓达",
+    "full_id": "9678/89-90",
+    "base_id": "9678",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liuzhuoda",
+    "is_valid": true
+  },
+  {
+    "name": "唐晴",
+    "full_id": "9679/89-90",
+    "base_id": "9679",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "tangqing",
+    "is_valid": true
+  },
+  {
+    "name": "高涛",
+    "full_id": "9680/89-90",
+    "base_id": "9680",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "gaotao",
+    "is_valid": true
+  },
+  {
+    "name": "李雨彤",
+    "full_id": "9681/89-90",
+    "base_id": "9681",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liyutong",
+    "is_valid": true
+  },
+  {
+    "name": "李瑶",
+    "full_id": "9682/89-90",
+    "base_id": "9682",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liyao",
+    "is_valid": true
+  },
+  {
+    "name": "宁思婷",
+    "full_id": "9683/89-90",
+    "base_id": "9683",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "ningsiting",
+    "is_valid": true
+  },
+  {
+    "name": "钱芸曦",
+    "full_id": "9684/89-90",
+    "base_id": "9684",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "qianyunxi",
+    "is_valid": true
+  },
+  {
+    "name": "吴子垚",
+    "full_id": "9685/89-90",
+    "base_id": "9685",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wuziyao",
+    "is_valid": true
+  },
+  {
+    "name": "付锦洲",
+    "full_id": "9686/89-90",
+    "base_id": "9686",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "fujinzhou",
+    "is_valid": true
+  },
+  {
+    "name": "代千慧",
+    "full_id": "9687/89-90",
+    "base_id": "9687",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "daiqianhui",
+    "is_valid": true
+  },
+  {
+    "name": "马家豪",
+    "full_id": "9688/89-90",
+    "base_id": "9688",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "majiahao",
+    "is_valid": true
+  },
+  {
+    "name": "张佳乐",
+    "full_id": "9689/89-90",
+    "base_id": "9689",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhangjiale",
+    "is_valid": true
+  },
+  {
+    "name": "何跃成",
+    "full_id": "9690/89-90",
+    "base_id": "9690",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "heyuecheng",
+    "is_valid": true
+  },
+  {
+    "name": "石鎔诚",
+    "full_id": "9691/89-90",
+    "base_id": "9691",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "shirongcheng",
+    "is_valid": true
+  },
+  {
+    "name": "韩晴昊",
+    "full_id": "9692/89-90",
+    "base_id": "9692",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "hanqinghao",
+    "is_valid": true
+  },
+  {
+    "name": "梁雨柯",
+    "full_id": "9693/89-90",
+    "base_id": "9693",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liangyuke",
+    "is_valid": true
+  },
+  {
+    "name": "郑轶凯",
+    "full_id": "9694/89-90",
+    "base_id": "9694",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhengyikai",
+    "is_valid": true
+  },
+  {
+    "name": "芮子航",
+    "full_id": "9695/89-90",
+    "base_id": "9695",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "ruizihang",
+    "is_valid": true
+  },
+  {
+    "name": "陈修安",
+    "full_id": "9696/89-90",
+    "base_id": "9696",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chenxiuan",
+    "is_valid": true
+  },
+  {
+    "name": "孙郡泽",
+    "full_id": "9697/89-90",
+    "base_id": "9697",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "sunjunze",
+    "is_valid": true
+  },
+  {
+    "name": "郭嘉怡",
+    "full_id": "9698/89-90",
+    "base_id": "9698",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "guojiayi",
+    "is_valid": true
+  },
+  {
+    "name": "李舫洁",
+    "full_id": "9699/89-90",
+    "base_id": "9699",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "lifangjie",
+    "is_valid": true
+  },
+  {
+    "name": "陈旭蕾",
+    "full_id": "9700/89-90",
+    "base_id": "9700",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chenxulei",
+    "is_valid": true
+  },
+  {
+    "name": "杨朝欣",
+    "full_id": "9701/89-90",
+    "base_id": "9701",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "yangchaoxin",
+    "is_valid": true
+  },
+  {
+    "name": "孙黎纹",
+    "full_id": "9702/89-90",
+    "base_id": "9702",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "sunliwen",
+    "is_valid": true
+  },
+  {
+    "name": "王婧怡",
+    "full_id": "9703/89-90",
+    "base_id": "9703",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wangjingyi",
+    "is_valid": true
+  },
+  {
+    "name": "强婉沁",
+    "full_id": "9704/89-90",
+    "base_id": "9704",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "qiangwanqin",
+    "is_valid": true
+  },
+  {
+    "name": "万陈陈",
+    "full_id": "9705/89-90",
+    "base_id": "9705",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wanchenchen",
+    "is_valid": true
+  },
+  {
+    "name": "陈曦",
+    "full_id": "9706/89-90",
+    "base_id": "9706",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chenxi",
+    "is_valid": true
+  },
+  {
+    "name": "马梓涵",
+    "full_id": "9707/89-90",
+    "base_id": "9707",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "mazihan",
+    "is_valid": true
+  },
+  {
+    "name": "汪天成",
+    "full_id": "9708/89-90",
+    "base_id": "9708",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wangtiancheng",
+    "is_valid": true
+  },
+  {
+    "name": "刘明澄",
+    "full_id": "9709/89-90",
+    "base_id": "9709",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liumingcheng",
+    "is_valid": true
+  },
+  {
+    "name": "海阳",
+    "full_id": "9710/89-90",
+    "base_id": "9710",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "haiyang",
+    "is_valid": true
+  },
+  {
+    "name": "胡瑀轩",
+    "full_id": "9711/89-90",
+    "base_id": "9711",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "huyuxuan",
+    "is_valid": true
+  },
+  {
+    "name": "姚轶恺",
+    "full_id": "9712/89-90",
+    "base_id": "9712",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "yaoyikai",
+    "is_valid": true
+  },
+  {
+    "name": "庄晶晶",
+    "full_id": "9713/89-90",
+    "base_id": "9713",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhuangjingjing",
+    "is_valid": true
+  },
+  {
+    "name": "张骏",
+    "full_id": "9714/89-90",
+    "base_id": "9714",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhangjun",
+    "is_valid": true
+  },
+  {
+    "name": "陈瑜辉",
+    "full_id": "9715/89-90",
+    "base_id": "9715",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chenyuhui",
+    "is_valid": true
+  },
+  {
+    "name": "刘广成",
+    "full_id": "9716/89-90",
+    "base_id": "9716",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liuguangcheng",
+    "is_valid": true
+  },
+  {
+    "name": "杨昕玥",
+    "full_id": "9717/89-90",
+    "base_id": "9717",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "yangxinyue",
+    "is_valid": true
+  },
+  {
+    "name": "顾君怡",
+    "full_id": "9718/89-90",
+    "base_id": "9718",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "gujunyi",
+    "is_valid": true
+  },
+  {
+    "name": "丹增桑确",
+    "full_id": "9719/89-90",
+    "base_id": "9719",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "danzengsangque",
+    "is_valid": true
+  },
+  {
+    "name": "胡哲元",
+    "full_id": "9720/89-90",
+    "base_id": "9720",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "huzheyuan",
+    "is_valid": true
+  },
+  {
+    "name": "陆誉爵",
+    "full_id": "9721/89-90",
+    "base_id": "9721",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "luyujue",
+    "is_valid": true
+  },
+  {
+    "name": "傅冰清",
+    "full_id": "9722/89-90",
+    "base_id": "9722",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "fubingqing",
+    "is_valid": true
+  },
+  {
+    "name": "毛睿",
+    "full_id": "9723/89-90",
+    "base_id": "9723",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "maorui",
+    "is_valid": true
+  },
+  {
+    "name": "牟旸",
+    "full_id": "9724/89-90",
+    "base_id": "9724",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "mouyang",
+    "is_valid": true
+  },
+  {
+    "name": "张雨佳",
+    "full_id": "9725/89-90",
+    "base_id": "9725",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhangyujia",
+    "is_valid": true
+  },
+  {
+    "name": "张思瑶",
+    "full_id": "9726/89-90",
+    "base_id": "9726",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhangsiyao",
+    "is_valid": true
+  },
+  {
+    "name": "顾祎文",
+    "full_id": "9727/89-90",
+    "base_id": "9727",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "guyiwen",
+    "is_valid": true
+  },
+  {
+    "name": "陈凌杰",
+    "full_id": "9728/89-90",
+    "base_id": "9728",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chenlingjie",
+    "is_valid": true
+  },
+  {
+    "name": "李洵昊",
+    "full_id": "9729/89-90",
+    "base_id": "9729",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "lixunhao",
+    "is_valid": true
+  },
+  {
+    "name": "许若菲",
+    "full_id": "9730/89-90",
+    "base_id": "9730",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "xuruofei",
+    "is_valid": true
+  },
+  {
+    "name": "王婉琳",
+    "full_id": "9731/89-90",
+    "base_id": "9731",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wangwanlin",
+    "is_valid": true
+  },
+  {
+    "name": "邢天昊",
+    "full_id": "9732/89-90",
+    "base_id": "9732",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "xingtianhao",
+    "is_valid": true
+  },
+  {
+    "name": "沈铭茗",
+    "full_id": "9733/89-90",
+    "base_id": "9733",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "shenmingming",
+    "is_valid": true
+  },
+  {
+    "name": "盛欣悦",
+    "full_id": "9734/89-90",
+    "base_id": "9734",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "shengxinyue",
+    "is_valid": true
+  },
+  {
+    "name": "李金昕",
+    "full_id": "9735/89-90",
+    "base_id": "9735",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "lijinxin",
+    "is_valid": true
+  },
+  {
+    "name": "陈令懿",
+    "full_id": "9736/89-90",
+    "base_id": "9736",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chenlingyi",
+    "is_valid": true
+  },
+  {
+    "name": "邱劭文",
+    "full_id": "9737/89-90",
+    "base_id": "9737",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "qiushaowen",
+    "is_valid": true
+  },
+  {
+    "name": "周北辰",
+    "full_id": "9738/89-90",
+    "base_id": "9738",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhoubeichen",
+    "is_valid": true
+  },
+  {
+    "name": "蔡昕玥",
+    "full_id": "9739/89-90",
+    "base_id": "9739",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "caixinyue",
+    "is_valid": true
+  },
+  {
+    "name": "侯靖添",
+    "full_id": "9740/89-90",
+    "base_id": "9740",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "houjingtian",
+    "is_valid": true
+  },
+  {
+    "name": "明浩龙",
+    "full_id": "9741/89-90",
+    "base_id": "9741",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "minghaolong",
+    "is_valid": true
+  },
+  {
+    "name": "邢宇琪",
+    "full_id": "9742/89-90",
+    "base_id": "9742",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "xingyuqi",
+    "is_valid": true
+  },
+  {
+    "name": "舒正勤",
+    "full_id": "9743/89-90",
+    "base_id": "9743",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "shuzhengqin",
+    "is_valid": true
+  },
+  {
+    "name": "刘亦钒",
+    "full_id": "9744/89-90",
+    "base_id": "9744",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liuyifan",
+    "is_valid": true
+  },
+  {
+    "name": "陈曦源",
+    "full_id": "9745/89-90",
+    "base_id": "9745",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chenxiyuan",
+    "is_valid": true
+  },
+  {
+    "name": "徐陈皓",
+    "full_id": "9746/89-90",
+    "base_id": "9746",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "xuchenhao",
+    "is_valid": true
+  },
+  {
+    "name": "姜文宜",
+    "full_id": "9747/89-90",
+    "base_id": "9747",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "jiangwenyi",
+    "is_valid": true
+  },
+  {
+    "name": "唐纯宜",
+    "full_id": "9748/89-90",
+    "base_id": "9748",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "tangchunyi",
+    "is_valid": true
+  },
+  {
+    "name": "倪姝萌",
+    "full_id": "9749/89-90",
+    "base_id": "9749",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "nishumeng",
+    "is_valid": true
+  },
+  {
+    "name": "高梓珊",
+    "full_id": "9750/89-90",
+    "base_id": "9750",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "gaozishan",
+    "is_valid": true
+  },
+  {
+    "name": "毛靖玉",
+    "full_id": "9751/89-90",
+    "base_id": "9751",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "maojingyu",
+    "is_valid": true
+  },
+  {
+    "name": "张祥群",
+    "full_id": "9752/89-90",
+    "base_id": "9752",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhangxiangqun",
+    "is_valid": true
+  },
+  {
+    "name": "奚紫欣",
+    "full_id": "9753/89-90",
+    "base_id": "9753",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "xizixin",
+    "is_valid": true
+  },
+  {
+    "name": "司马心怡",
+    "full_id": "9754/89-90",
+    "base_id": "9754",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "simaxinyi",
+    "is_valid": true
+  },
+  {
+    "name": "朱岭",
+    "full_id": "9755/89-90",
+    "base_id": "9755",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhuling",
+    "is_valid": true
+  },
+  {
+    "name": "陆莹莹",
+    "full_id": "9756/89-90",
+    "base_id": "9756",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "luyingying",
+    "is_valid": true
+  },
+  {
+    "name": "邵倩",
+    "full_id": "9757/89-90",
+    "base_id": "9757",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "shaoqian",
+    "is_valid": true
+  },
+  {
+    "name": "赵磊",
+    "full_id": "9758/89-90",
+    "base_id": "9758",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhaolei",
+    "is_valid": true
+  },
+  {
+    "name": "段奥申",
+    "full_id": "9759/89-90",
+    "base_id": "9759",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "duanaoshen",
+    "is_valid": true
+  },
+  {
+    "name": "陈泽昊",
+    "full_id": "9760/89-90",
+    "base_id": "9760",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chenzehao",
+    "is_valid": true
+  },
+  {
+    "name": "华愫愫",
+    "full_id": "9761/89-90",
+    "base_id": "9761",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "huasusu",
+    "is_valid": true
+  },
+  {
+    "name": "李瑞盛",
+    "full_id": "9762/89-90",
+    "base_id": "9762",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liruisheng",
+    "is_valid": true
+  },
+  {
+    "name": "李晓鹏",
+    "full_id": "9763/89-90",
+    "base_id": "9763",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "lixiaopeng",
+    "is_valid": true
+  },
+  {
+    "name": "旦增克珠",
+    "full_id": "9764/89-90",
+    "base_id": "9764",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "danzengkezhu",
+    "is_valid": true
+  },
+  {
+    "name": "杨子安",
+    "full_id": "9765/89-90",
+    "base_id": "9765",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "yangzian",
+    "is_valid": true
+  },
+  {
+    "name": "季可馨",
+    "full_id": "9766/89-90",
+    "base_id": "9766",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "jikexin",
+    "is_valid": true
+  },
+  {
+    "name": "胡慧静",
+    "full_id": "9767/89-90",
+    "base_id": "9767",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "huhuijing",
+    "is_valid": true
+  },
+  {
+    "name": "龙婷",
+    "full_id": "9768/89-90",
+    "base_id": "9768",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "longting",
+    "is_valid": true
+  },
+  {
+    "name": "沈悦",
+    "full_id": "9769/89-90",
+    "base_id": "9769",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "shenyue",
+    "is_valid": true
+  },
+  {
+    "name": "黄鑫",
+    "full_id": "9770/89-90",
+    "base_id": "9770",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "huangxin",
+    "is_valid": true
+  },
+  {
+    "name": "潘心瑶",
+    "full_id": "9771/89-90",
+    "base_id": "9771",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "panxinyao",
+    "is_valid": true
+  },
+  {
+    "name": "孙杨",
+    "full_id": "9772/89-90",
+    "base_id": "9772",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "sunyang",
+    "is_valid": true
+  },
+  {
+    "name": "刘萱琪",
+    "full_id": "9773/89-90",
+    "base_id": "9773",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liuxuanqi",
+    "is_valid": true
+  },
+  {
+    "name": "王若普",
+    "full_id": "9774/89-90",
+    "base_id": "9774",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wangruopu",
+    "is_valid": true
+  },
+  {
+    "name": "李天元",
+    "full_id": "9775/89-90",
+    "base_id": "9775",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "litianyuan",
+    "is_valid": true
+  },
+  {
+    "name": "杨馨婷",
+    "full_id": "9776/89-90",
+    "base_id": "9776",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "yangxinting",
+    "is_valid": true
+  },
+  {
+    "name": "徐天熹",
+    "full_id": "9777/89-90",
+    "base_id": "9777",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "xutianxi",
+    "is_valid": true
+  },
+  {
+    "name": "张致远",
+    "full_id": "9778/89-90",
+    "base_id": "9778",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhangzhiyuan",
+    "is_valid": true
+  },
+  {
+    "name": "张米禾",
+    "full_id": "9779/89-90",
+    "base_id": "9779",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhangmihe",
+    "is_valid": true
+  },
+  {
+    "name": "李之旭",
+    "full_id": "9780/89-90",
+    "base_id": "9780",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "lizhixu",
+    "is_valid": true
+  },
+  {
+    "name": "于艺菲",
+    "full_id": "9781/89-90",
+    "base_id": "9781",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "yuyifei",
+    "is_valid": true
+  },
+  {
+    "name": "刘朝阳",
+    "full_id": "9782/89-90",
+    "base_id": "9782",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liuzhaoyang",
+    "is_valid": true
+  },
+  {
+    "name": "周简文",
+    "full_id": "9783/89-90",
+    "base_id": "9783",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhoujianwen",
+    "is_valid": true
+  },
+  {
+    "name": "孙照峰",
+    "full_id": "9784/89-90",
+    "base_id": "9784",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "sunzhaofeng",
+    "is_valid": true
+  },
+  {
+    "name": "谢安婷",
+    "full_id": "9785/89-90",
+    "base_id": "9785",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "xieanting",
+    "is_valid": true
+  },
+  {
+    "name": "侯景翔",
+    "full_id": "9786/89-90",
+    "base_id": "9786",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "houjingxiang",
+    "is_valid": true
+  },
+  {
+    "name": "王歆樾",
+    "full_id": "9787/89-90",
+    "base_id": "9787",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wangxinyue",
+    "is_valid": true
+  },
+  {
+    "name": "李煜庭",
+    "full_id": "9788/89-90",
+    "base_id": "9788",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liyuting",
+    "is_valid": true
+  },
+  {
+    "name": "刘家琦",
+    "full_id": "9789/89-90",
+    "base_id": "9789",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liujiaqi",
+    "is_valid": true
+  },
+  {
+    "name": "张楷",
+    "full_id": "9790/89-90",
+    "base_id": "9790",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhangkai",
+    "is_valid": true
+  },
+  {
+    "name": "张博忱",
+    "full_id": "9791/89-90",
+    "base_id": "9791",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhangbochen",
+    "is_valid": true
+  },
+  {
+    "name": "陈嘉宁",
+    "full_id": "9792/89-90",
+    "base_id": "9792",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chenjianing",
+    "is_valid": true
+  },
+  {
+    "name": "李紫珺",
+    "full_id": "9793/89-90",
+    "base_id": "9793",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "lizijun",
+    "is_valid": true
+  },
+  {
+    "name": "贺宝琪",
+    "full_id": "9794/89-90",
+    "base_id": "9794",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "hebaoqi",
+    "is_valid": true
+  },
+  {
+    "name": "吴优",
+    "full_id": "9795/89-90",
+    "base_id": "9795",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wuyou",
+    "is_valid": true
+  },
+  {
+    "name": "周贤睿",
+    "full_id": "9796/89-90",
+    "base_id": "9796",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhouxianrui",
+    "is_valid": true
+  },
+  {
+    "name": "刘茗远",
+    "full_id": "9797/89-90",
+    "base_id": "9797",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liumingyuan",
+    "is_valid": true
+  },
+  {
+    "name": "曹越",
+    "full_id": "9798/89-90",
+    "base_id": "9798",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "caoyue",
+    "is_valid": true
+  },
+  {
+    "name": "陈静怡",
+    "full_id": "9799/89-90",
+    "base_id": "9799",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chenjingyi",
+    "is_valid": true
+  },
+  {
+    "name": "王奕力",
+    "full_id": "9800/89-90",
+    "base_id": "9800",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wangyili",
+    "is_valid": true
+  },
+  {
+    "name": "登增平措",
+    "full_id": "9801/89-90",
+    "base_id": "9801",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "dengzengpingcuo",
+    "is_valid": true
+  },
+  {
+    "name": "旦增央宗",
+    "full_id": "9802/89-90",
+    "base_id": "9802",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "danzengyangzong",
+    "is_valid": true
+  },
+  {
+    "name": "谢朋",
+    "full_id": "9803/89-90",
+    "base_id": "9803",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "xiepeng",
+    "is_valid": true
+  },
+  {
+    "name": "杨欣煜",
+    "full_id": "9804/89-90",
+    "base_id": "9804",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "yangxinyu",
+    "is_valid": true
+  },
+  {
+    "name": "范则",
+    "full_id": "9805/89-90",
+    "base_id": "9805",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "fanze",
+    "is_valid": true
+  },
+  {
+    "name": "王润伊",
+    "full_id": "9806/89-90",
+    "base_id": "9806",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wangrunyi",
+    "is_valid": true
+  },
+  {
+    "name": "刘子萱",
+    "full_id": "9807/89-90",
+    "base_id": "9807",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liuzixuan",
+    "is_valid": true
+  },
+  {
+    "name": "赵景彦",
+    "full_id": "9808/89-90",
+    "base_id": "9808",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhaojingyan",
+    "is_valid": true
+  },
+  {
+    "name": "杨泽嘉",
+    "full_id": "9809/89-90",
+    "base_id": "9809",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "yangzejia",
+    "is_valid": true
+  },
+  {
+    "name": "张立澍",
+    "full_id": "9810/89-90",
+    "base_id": "9810",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhanglishu",
+    "is_valid": true
+  },
+  {
+    "name": "袁明昊",
+    "full_id": "9811/89-90",
+    "base_id": "9811",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "yuanminghao",
+    "is_valid": true
+  },
+  {
+    "name": "赵铭轩",
+    "full_id": "9812/89-90",
+    "base_id": "9812",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhaomingxuan",
+    "is_valid": true
+  },
+  {
+    "name": "高雅晴",
+    "full_id": "9813/89-90",
+    "base_id": "9813",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "gaoyaqing",
+    "is_valid": true
+  },
+  {
+    "name": "庄有田",
+    "full_id": "9814/89-90",
+    "base_id": "9814",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhuangyoutian",
+    "is_valid": true
+  },
+  {
+    "name": "梁宸菲",
+    "full_id": "9815/89-90",
+    "base_id": "9815",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liangchenfei",
+    "is_valid": true
+  },
+  {
+    "name": "陈品璋",
+    "full_id": "9816/89-90陈品璋",
+    "base_id": "9816",
+    "period": "89-90陈品璋",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chenpinzhang",
+    "is_valid": true
+  },
+  {
+    "name": "杜新卓",
+    "full_id": "9817/89-90",
+    "base_id": "9817",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "duxinzhuo",
+    "is_valid": true
+  },
+  {
+    "name": "沈琨",
+    "full_id": "9818/89-90",
+    "base_id": "9818",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "shenkun",
+    "is_valid": true
+  },
+  {
+    "name": "朱玺润",
+    "full_id": "9819/89-90",
+    "base_id": "9819",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhuxirun",
+    "is_valid": true
+  },
+  {
+    "name": "山富军",
+    "full_id": "9820/89-90",
+    "base_id": "9820",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "shanfujun",
+    "is_valid": true
+  },
+  {
+    "name": "赵琪",
+    "full_id": "9821/89-90",
+    "base_id": "9821",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhaoqi",
+    "is_valid": true
+  },
+  {
+    "name": "孟雨菲",
+    "full_id": "9822/89-90",
+    "base_id": "9822",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "mengyufei",
+    "is_valid": true
+  },
+  {
+    "name": "王佳文",
+    "full_id": "9823/89-90",
+    "base_id": "9823",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wangjiawen",
+    "is_valid": true
+  },
+  {
+    "name": "周宇昂",
+    "full_id": "9824/89-90",
+    "base_id": "9824",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhouyuang",
+    "is_valid": true
+  },
+  {
+    "name": "周芷名",
+    "full_id": "9825/89-90",
+    "base_id": "9825",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhouzhiming",
+    "is_valid": true
+  },
+  {
+    "name": "胡紫媛",
+    "full_id": "9826/89-90",
+    "base_id": "9826",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "huziyuan",
+    "is_valid": true
+  },
+  {
+    "name": "陈卓",
+    "full_id": "9827/89-90",
+    "base_id": "9827",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chenzhuo",
+    "is_valid": true
+  },
+  {
+    "name": "童好",
+    "full_id": "9828/89-90",
+    "base_id": "9828",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "tonghao",
+    "is_valid": true
+  },
+  {
+    "name": "王续慧",
+    "full_id": "9829/89-90",
+    "base_id": "9829",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wangxuhui",
+    "is_valid": true
+  },
+  {
+    "name": "李添依",
+    "full_id": "9830/89-90",
+    "base_id": "9830",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "litianyi",
+    "is_valid": true
+  },
+  {
+    "name": "秦佳娴",
+    "full_id": "9831/89-90",
+    "base_id": "9831",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "qinjiaxian",
+    "is_valid": true
+  },
+  {
+    "name": "王京",
+    "full_id": "9832/89-90",
+    "base_id": "9832",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wangjing",
+    "is_valid": true
+  },
+  {
+    "name": "董一丹",
+    "full_id": "9833/89-90",
+    "base_id": "9833",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "dongyidan",
+    "is_valid": true
+  },
+  {
+    "name": "乔晓霞",
+    "full_id": "9834/89-90",
+    "base_id": "9834",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "qiaoxiaoxia",
+    "is_valid": true
+  },
+  {
+    "name": "陈媛媛",
+    "full_id": "9837/89-90",
+    "base_id": "9837",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chenyuanyuan",
+    "is_valid": true
+  },
+  {
+    "name": "王振帆",
+    "full_id": "9842/89-90",
+    "base_id": "9842",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wangzhenfan",
+    "is_valid": true
+  },
+  {
+    "name": "闫会萃",
+    "full_id": "9844/89-90",
+    "base_id": "9844",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "yanhuicui",
+    "is_valid": true
+  },
+  {
+    "name": "罗仁欣",
+    "full_id": "9846/89-90",
+    "base_id": "9846",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "luorenxin",
+    "is_valid": true
+  },
+  {
+    "name": "区成铸",
+    "full_id": "9848/89-90",
+    "base_id": "9848",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "quchengzhu",
+    "is_valid": true
+  },
+  {
+    "name": "郭问",
+    "full_id": "9849/89-90",
+    "base_id": "9849",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "guowen",
+    "is_valid": true
+  },
+  {
+    "name": "张钰佩",
+    "full_id": "9850/89-90",
+    "base_id": "9850",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhangyupei",
+    "is_valid": true
+  },
+  {
+    "name": "李安安",
+    "full_id": "9851/89-90",
+    "base_id": "9851",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "lianan",
+    "is_valid": true
+  },
+  {
+    "name": "王明昊",
+    "full_id": "9852/89-90",
+    "base_id": "9852",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wangminghao",
+    "is_valid": true
+  },
+  {
+    "name": "董丽华",
+    "full_id": "9853/89-90",
+    "base_id": "9853",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "donglihua",
+    "is_valid": true
+  },
+  {
+    "name": "李根",
+    "full_id": "9854/89-90",
+    "base_id": "9854",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "ligen",
+    "is_valid": true
+  },
+  {
+    "name": "李昕",
+    "full_id": "9855/89-90",
+    "base_id": "9855",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "lixin",
+    "is_valid": true
+  },
+  {
+    "name": "刘勇",
+    "full_id": "9856/89-90",
+    "base_id": "9856",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liuyong",
+    "is_valid": true
+  },
+  {
+    "name": "吴寒冰",
+    "full_id": "9857/89-90",
+    "base_id": "9857",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wuhanbing",
+    "is_valid": true
+  },
+  {
+    "name": "张泽能",
+    "full_id": "9858/89-90",
+    "base_id": "9858",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhangzeneng",
+    "is_valid": true
+  },
+  {
+    "name": "李茜",
+    "full_id": "9859/89-90",
+    "base_id": "9859",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "liqian",
+    "is_valid": true
+  },
+  {
+    "name": "陈钰茜",
+    "full_id": "9860/89-90",
+    "base_id": "9860",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "chenyuqian",
+    "is_valid": true
+  },
+  {
+    "name": "黄玮帏",
+    "full_id": "9861/89-90",
+    "base_id": "9861",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "huangweiwei",
+    "is_valid": true
+  },
+  {
+    "name": "林妍婷",
+    "full_id": "9862/89-90",
+    "base_id": "9862",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "linyanting",
+    "is_valid": true
+  },
+  {
+    "name": "王一诺",
+    "full_id": "9863/89-90",
+    "base_id": "9863",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "wangyinuo",
+    "is_valid": true
+  },
+  {
+    "name": "韦雨涵",
+    "full_id": "9864/89-90",
+    "base_id": "9864",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "weiyuhan",
+    "is_valid": true
+  },
+  {
+    "name": "李铭轩",
+    "full_id": "9868/89-90",
+    "base_id": "9868",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "limingxuan",
+    "is_valid": true
+  },
+  {
+    "name": "李梦洋",
+    "full_id": "9835/89-90",
+    "base_id": "9835",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "limengyang",
+    "is_valid": true
+  },
+  {
+    "name": "班艺倩",
+    "full_id": "9836/89-90",
+    "base_id": "9836",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "banyiqian",
+    "is_valid": true
+  },
+  {
+    "name": "黄晓辉",
+    "full_id": "9838/89-90",
+    "base_id": "9838",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "huangxiaohui",
+    "is_valid": true
+  },
+  {
+    "name": "李芙蓉",
+    "full_id": "9839/89-90",
+    "base_id": "9839",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "lifurong",
+    "is_valid": true
+  },
+  {
+    "name": "薛亦伟",
+    "full_id": "9840/89-90",
+    "base_id": "9840",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "xueyiwei",
+    "is_valid": true
+  },
+  {
+    "name": "郑文韬",
+    "full_id": "9841/89-90",
+    "base_id": "9841",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhengwentao",
+    "is_valid": true
+  },
+  {
+    "name": "张健维",
+    "full_id": "9843/89-90",
+    "base_id": "9843",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhangjianwei",
+    "is_valid": true
+  },
+  {
+    "name": "张浩",
+    "full_id": "9847/89-90",
+    "base_id": "9847",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhanghao",
+    "is_valid": true
+  },
+  {
+    "name": "傅云桐",
+    "full_id": "9865/89-90",
+    "base_id": "9865",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "fuyuntong",
+    "is_valid": true
+  },
+  {
+    "name": "熊泽棋",
+    "full_id": "9866/89-90",
+    "base_id": "9866",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "xiongzeqi",
+    "is_valid": true
+  },
+  {
+    "name": "张嘉琪",
+    "full_id": "9867/89-90",
+    "base_id": "9867",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "zhangjiaqi",
+    "is_valid": true
+  },
+  {
+    "name": "翟茁钰",
+    "full_id": "9845/89-90",
+    "base_id": "9845",
+    "period": "89-90",
+    "year": "2020",
+    "school": "",
+    "pinyin": "dizhuoyu",
+    "is_valid": true
+  },
+  {
+    "name": "位治昆",
+    "full_id": "9869/91-92",
+    "base_id": "9869",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "weizhikun",
+    "is_valid": true
+  },
+  {
+    "name": "叶俊哲",
+    "full_id": "9870/91-92",
+    "base_id": "9870",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yejunzhe",
+    "is_valid": true
+  },
+  {
+    "name": "陈依翎",
+    "full_id": "9871/91-92",
+    "base_id": "9871",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "chenyiling",
+    "is_valid": true
+  },
+  {
+    "name": "方莫妤彤",
+    "full_id": "9872/91-92",
+    "base_id": "9872",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "fangmoyutong",
+    "is_valid": true
+  },
+  {
+    "name": "张驰",
+    "full_id": "9873/91-92",
+    "base_id": "9873",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangchi",
+    "is_valid": true
+  },
+  {
+    "name": "杨沈煜",
+    "full_id": "9874/91-92",
+    "base_id": "9874",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yangshenyu",
+    "is_valid": true
+  },
+  {
+    "name": "李煜",
+    "full_id": "9875/91-92",
+    "base_id": "9875",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liyu",
+    "is_valid": true
+  },
+  {
+    "name": "胡葭懿",
+    "full_id": "9876/91-92",
+    "base_id": "9876",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "hujiayi",
+    "is_valid": true
+  },
+  {
+    "name": "孙涵月",
+    "full_id": "9877/91-92",
+    "base_id": "9877",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "sunhanyue",
+    "is_valid": true
+  },
+  {
+    "name": "杨程楠",
+    "full_id": "9878/91-92",
+    "base_id": "9878",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yangchengnan",
+    "is_valid": true
+  },
+  {
+    "name": "杨澍裕",
+    "full_id": "9879/91-92",
+    "base_id": "9879",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yangshuyu",
+    "is_valid": true
+  },
+  {
+    "name": "高鸣皓",
+    "full_id": "9880/91-92",
+    "base_id": "9880",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "gaominghao",
+    "is_valid": true
+  },
+  {
+    "name": "朱希妍",
+    "full_id": "9881/91-92",
+    "base_id": "9881",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhuxiyan",
+    "is_valid": true
+  },
+  {
+    "name": "华非凡",
+    "full_id": "9882/91-92",
+    "base_id": "9882",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "huafeifan",
+    "is_valid": true
+  },
+  {
+    "name": "董天白",
+    "full_id": "9883/91-92",
+    "base_id": "9883",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "dongtianbai",
+    "is_valid": true
+  },
+  {
+    "name": "吴墨言",
+    "full_id": "9884/91-92",
+    "base_id": "9884",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wumoyan",
+    "is_valid": true
+  },
+  {
+    "name": "沈佳怡",
+    "full_id": "9885/91-92",
+    "base_id": "9885",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "shenjiayi",
+    "is_valid": true
+  },
+  {
+    "name": "钱毅轩",
+    "full_id": "9886/91-92",
+    "base_id": "9886",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "qianyixuan",
+    "is_valid": true
+  },
+  {
+    "name": "杨昀昭",
+    "full_id": "9887/91-92",
+    "base_id": "9887",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yangyunzhao",
+    "is_valid": true
+  },
+  {
+    "name": "屠淳昱",
+    "full_id": "9888/91-92",
+    "base_id": "9888",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "tuchunyu",
+    "is_valid": true
+  },
+  {
+    "name": "谢新宇",
+    "full_id": "9889/91-92",
+    "base_id": "9889",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "xiexinyu",
+    "is_valid": true
+  },
+  {
+    "name": "金德峰",
+    "full_id": "9890/91-92",
+    "base_id": "9890",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "jindefeng",
+    "is_valid": true
+  },
+  {
+    "name": "刘江玥",
+    "full_id": "9891/91-92",
+    "base_id": "9891",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liujiangyue",
+    "is_valid": true
+  },
+  {
+    "name": "沈易树",
+    "full_id": "9892/91-92",
+    "base_id": "9892",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "shenyishu",
+    "is_valid": true
+  },
+  {
+    "name": "周欣颖",
+    "full_id": "9893/91-92",
+    "base_id": "9893",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhouxinying",
+    "is_valid": true
+  },
+  {
+    "name": "杨兆淳",
+    "full_id": "9894/91-92",
+    "base_id": "9894",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yangzhaochun",
+    "is_valid": true
+  },
+  {
+    "name": "曹流",
+    "full_id": "9895/91-92",
+    "base_id": "9895",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "caoliu",
+    "is_valid": true
+  },
+  {
+    "name": "楼梅浩",
+    "full_id": "9896/91-92",
+    "base_id": "9896",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "loumeihao",
+    "is_valid": true
+  },
+  {
+    "name": "费明宇",
+    "full_id": "9897/91-92",
+    "base_id": "9897",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "feimingyu",
+    "is_valid": true
+  },
+  {
+    "name": "黄新鸿",
+    "full_id": "9898/91-92",
+    "base_id": "9898",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "huangxinhong",
+    "is_valid": true
+  },
+  {
+    "name": "钱梓洋",
+    "full_id": "9899/91-92",
+    "base_id": "9899",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "qianziyang",
+    "is_valid": true
+  },
+  {
+    "name": "邬立一",
+    "full_id": "9900/91-92",
+    "base_id": "9900",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wuliyi",
+    "is_valid": true
+  },
+  {
+    "name": "吴广祺",
+    "full_id": "9901/91-92",
+    "base_id": "9901",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wuguangqi",
+    "is_valid": true
+  },
+  {
+    "name": "沈思逸",
+    "full_id": "9902/91-92",
+    "base_id": "9902",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "shensiyi",
+    "is_valid": true
+  },
+  {
+    "name": "吴昕杰",
+    "full_id": "9903/91-92",
+    "base_id": "9903",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wuxinjie",
+    "is_valid": true
+  },
+  {
+    "name": "聂咏懿",
+    "full_id": "9904/91-92",
+    "base_id": "9904",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "nieyongyi",
+    "is_valid": true
+  },
+  {
+    "name": "周文娜",
+    "full_id": "9905/91-92",
+    "base_id": "9905",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhouwenna",
+    "is_valid": true
+  },
+  {
+    "name": "朱炎祺",
+    "full_id": "9906/91-92",
+    "base_id": "9906",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhuyanqi",
+    "is_valid": true
+  },
+  {
+    "name": "周涛",
+    "full_id": "9907/91-92",
+    "base_id": "9907",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhoutao",
+    "is_valid": true
+  },
+  {
+    "name": "章嘉怡",
+    "full_id": "9908/91-92",
+    "base_id": "9908",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangjiayi",
+    "is_valid": true
+  },
+  {
+    "name": "冯宇",
+    "full_id": "9909/91-92",
+    "base_id": "9909",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "fengyu",
+    "is_valid": true
+  },
+  {
+    "name": "沈家欣",
+    "full_id": "9910/91-92",
+    "base_id": "9910",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "shenjiaxin",
+    "is_valid": true
+  },
+  {
+    "name": "沈雨豪",
+    "full_id": "9911/91-92",
+    "base_id": "9911",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "shenyuhao",
+    "is_valid": true
+  },
+  {
+    "name": "沈智浩",
+    "full_id": "9912/91-92",
+    "base_id": "9912",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "shenzhihao",
+    "is_valid": true
+  },
+  {
+    "name": "杨刚",
+    "full_id": "9913/91-92",
+    "base_id": "9913",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yanggang",
+    "is_valid": true
+  },
+  {
+    "name": "王书弈",
+    "full_id": "9914/91-92",
+    "base_id": "9914",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wangshuyi",
+    "is_valid": true
+  },
+  {
+    "name": "李杨",
+    "full_id": "9915/91-92",
+    "base_id": "9915",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liyang",
+    "is_valid": true
+  },
+  {
+    "name": "杜璁",
+    "full_id": "9916/91-92",
+    "base_id": "9916",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "ducong",
+    "is_valid": true
+  },
+  {
+    "name": "宋成毫",
+    "full_id": "9917/91-92",
+    "base_id": "9917",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "songchenghao",
+    "is_valid": true
+  },
+  {
+    "name": "俞浅",
+    "full_id": "9918/91-92",
+    "base_id": "9918",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yuqian",
+    "is_valid": true
+  },
+  {
+    "name": "姜陈逍",
+    "full_id": "9919/91-92",
+    "base_id": "9919",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "jiangchenxiao",
+    "is_valid": true
+  },
+  {
+    "name": "蔡欣娴",
+    "full_id": "9920/91-92",
+    "base_id": "9920",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "caixinxian",
+    "is_valid": true
+  },
+  {
+    "name": "周逸凡",
+    "full_id": "9921/91-92",
+    "base_id": "9921",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhouyifan",
+    "is_valid": true
+  },
+  {
+    "name": "陈静",
+    "full_id": "9922/91-92",
+    "base_id": "9922",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "chenjing",
+    "is_valid": true
+  },
+  {
+    "name": "陈锐",
+    "full_id": "9923/91-92",
+    "base_id": "9923",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "chenrui",
+    "is_valid": true
+  },
+  {
+    "name": "叶竟成",
+    "full_id": "9924/91-92",
+    "base_id": "9924",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yejingcheng",
+    "is_valid": true
+  },
+  {
+    "name": "桑晟",
+    "full_id": "9925/91-92",
+    "base_id": "9925",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "sangcheng",
+    "is_valid": true
+  },
+  {
+    "name": "曹锐贤",
+    "full_id": "9926/91-92",
+    "base_id": "9926",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "caoruixian",
+    "is_valid": true
+  },
+  {
+    "name": "宁明月",
+    "full_id": "9927/91-92",
+    "base_id": "9927",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "ningmingyue",
+    "is_valid": true
+  },
+  {
+    "name": "勾昊",
+    "full_id": "9928/91-92",
+    "base_id": "9928",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "gouhao",
+    "is_valid": true
+  },
+  {
+    "name": "杨传馨",
+    "full_id": "9929/91-92",
+    "base_id": "9929",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yangchuanxin",
+    "is_valid": true
+  },
+  {
+    "name": "朱吉晟",
+    "full_id": "9930/91-92",
+    "base_id": "9930",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhujicheng",
+    "is_valid": true
+  },
+  {
+    "name": "李鑫阳",
+    "full_id": "9931/91-92",
+    "base_id": "9931",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "lixinyang",
+    "is_valid": true
+  },
+  {
+    "name": "郑柯珊",
+    "full_id": "9932/91-92",
+    "base_id": "9932",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhengkeshan",
+    "is_valid": true
+  },
+  {
+    "name": "董傲雪",
+    "full_id": "9933/91-92",
+    "base_id": "9933",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "dongaoxue",
+    "is_valid": true
+  },
+  {
+    "name": "左顺意",
+    "full_id": "9934/91-92",
+    "base_id": "9934",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zuoshunyi",
+    "is_valid": true
+  },
+  {
+    "name": "陆欣怡",
+    "full_id": "9935/91-92",
+    "base_id": "9935",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "luxinyi",
+    "is_valid": true
+  },
+  {
+    "name": "王言心",
+    "full_id": "9936/91-92",
+    "base_id": "9936",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wangyanxin",
+    "is_valid": true
+  },
+  {
+    "name": "张泽慧",
+    "full_id": "9937/91-92",
+    "base_id": "9937",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangzehui",
+    "is_valid": true
+  },
+  {
+    "name": "何书恒",
+    "full_id": "9938/91-92",
+    "base_id": "9938",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "heshuheng",
+    "is_valid": true
+  },
+  {
+    "name": "陈睿旻",
+    "full_id": "9939/91-92",
+    "base_id": "9939",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "chenruimin",
+    "is_valid": true
+  },
+  {
+    "name": "孟希瑶",
+    "full_id": "9940/91-92",
+    "base_id": "9940",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "mengxiyao",
+    "is_valid": true
+  },
+  {
+    "name": "杨嘉艺",
+    "full_id": "9941/91-92",
+    "base_id": "9941",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yangjiayi",
+    "is_valid": true
+  },
+  {
+    "name": "余晞纯",
+    "full_id": "9942/91-92",
+    "base_id": "9942",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yuxichun",
+    "is_valid": true
+  },
+  {
+    "name": "常思量",
+    "full_id": "9943/91-92",
+    "base_id": "9943",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "changsiliang",
+    "is_valid": true
+  },
+  {
+    "name": "毛启微",
+    "full_id": "9944/91-92",
+    "base_id": "9944",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "maoqiwei",
+    "is_valid": true
+  },
+  {
+    "name": "张欣怡",
+    "full_id": "9945/91-92",
+    "base_id": "9945",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangxinyi",
+    "is_valid": true
+  },
+  {
+    "name": "陈叶嘉",
+    "full_id": "9946/91-92",
+    "base_id": "9946",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "chenyejia",
+    "is_valid": true
+  },
+  {
+    "name": "侯玥",
+    "full_id": "9947/91-92",
+    "base_id": "9947",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "houyue",
+    "is_valid": true
+  },
+  {
+    "name": "钱若瑶",
+    "full_id": "9948/91-92",
+    "base_id": "9948",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "qianruoyao",
+    "is_valid": true
+  },
+  {
+    "name": "梁稚兰",
+    "full_id": "9949/91-92",
+    "base_id": "9949",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liangzhilan",
+    "is_valid": true
+  },
+  {
+    "name": "宋寅辰",
+    "full_id": "9950/91-92",
+    "base_id": "9950",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "songyinchen",
+    "is_valid": true
+  },
+  {
+    "name": "季佳欣",
+    "full_id": "9951/91-92",
+    "base_id": "9951",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "jijiaxin",
+    "is_valid": true
+  },
+  {
+    "name": "周娉婷",
+    "full_id": "9952/91-92",
+    "base_id": "9952",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhoupingting",
+    "is_valid": true
+  },
+  {
+    "name": "刘陈虹",
+    "full_id": "9953/91-92",
+    "base_id": "9953",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liuchenhong",
+    "is_valid": true
+  },
+  {
+    "name": "吕殊妍",
+    "full_id": "9954/91-92",
+    "base_id": "9954",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "lvshuyan",
+    "is_valid": true
+  },
+  {
+    "name": "谢曜州",
+    "full_id": "9955/91-92",
+    "base_id": "9955",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "xieyaozhou",
+    "is_valid": true
+  },
+  {
+    "name": "韩天吉",
+    "full_id": "9956/91-92",
+    "base_id": "9956",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "hantianji",
+    "is_valid": true
+  },
+  {
+    "name": "谢泽权",
+    "full_id": "9957/91-92",
+    "base_id": "9957",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "xiezequan",
+    "is_valid": true
+  },
+  {
+    "name": "邹迦音",
+    "full_id": "9958/91-92",
+    "base_id": "9958",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zoujiayin",
+    "is_valid": true
+  },
+  {
+    "name": "曹婧琦",
+    "full_id": "9959/91-92",
+    "base_id": "9959",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "caojingqi",
+    "is_valid": true
+  },
+  {
+    "name": "李文昊",
+    "full_id": "9960/91-92",
+    "base_id": "9960",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liwenhao",
+    "is_valid": true
+  },
+  {
+    "name": "张引",
+    "full_id": "9961/91-92",
+    "base_id": "9961",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangyin",
+    "is_valid": true
+  },
+  {
+    "name": "胡小北",
+    "full_id": "9962/91-92",
+    "base_id": "9962",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "huxiaobei",
+    "is_valid": true
+  },
+  {
+    "name": "胡吉宇",
+    "full_id": "9963/91-92",
+    "base_id": "9963",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "hujiyu",
+    "is_valid": true
+  },
+  {
+    "name": "沈立煜",
+    "full_id": "9964/91-92",
+    "base_id": "9964",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "shenliyu",
+    "is_valid": true
+  },
+  {
+    "name": "谭乐天",
+    "full_id": "9965/91-92",
+    "base_id": "9965",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "tanletian",
+    "is_valid": true
+  },
+  {
+    "name": "项天",
+    "full_id": "9966/91-92",
+    "base_id": "9966",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "xiangtian",
+    "is_valid": true
+  },
+  {
+    "name": "蔡苏辰昇",
+    "full_id": "9967/91-92",
+    "base_id": "9967",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "caisuchensheng",
+    "is_valid": true
+  },
+  {
+    "name": "李易简",
+    "full_id": "9968/91-92",
+    "base_id": "9968",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liyijian",
+    "is_valid": true
+  },
+  {
+    "name": "陈天羽",
+    "full_id": "9969/91-92",
+    "base_id": "9969",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "chentianyu",
+    "is_valid": true
+  },
+  {
+    "name": "范闻悦",
+    "full_id": "9970/91-92",
+    "base_id": "9970",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "fanwenyue",
+    "is_valid": true
+  },
+  {
+    "name": "陈宣百",
+    "full_id": "9971/91-92",
+    "base_id": "9971",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "chenxuanbai",
+    "is_valid": true
+  },
+  {
+    "name": "丁屹涵",
+    "full_id": "9972/91-92",
+    "base_id": "9972",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "dingyihan",
+    "is_valid": true
+  },
+  {
+    "name": "温贺紫",
+    "full_id": "9973/91-92",
+    "base_id": "9973",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wenhezi",
+    "is_valid": true
+  },
+  {
+    "name": "龚舒凯",
+    "full_id": "9974/91-92",
+    "base_id": "9974",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "gongshukai",
+    "is_valid": true
+  },
+  {
+    "name": "汪懿",
+    "full_id": "9975/91-92",
+    "base_id": "9975",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wangyi",
+    "is_valid": true
+  },
+  {
+    "name": "叶芷晴",
+    "full_id": "9976/91-92",
+    "base_id": "9976",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yezhiqing",
+    "is_valid": true
+  },
+  {
+    "name": "沈欣悦",
+    "full_id": "9977/91-92",
+    "base_id": "9977",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "shenxinyue",
+    "is_valid": true
+  },
+  {
+    "name": "唐奕阳",
+    "full_id": "9978/91-92",
+    "base_id": "9978",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "tangyiyang",
+    "is_valid": true
+  },
+  {
+    "name": "李嘉文",
+    "full_id": "9979/91-92",
+    "base_id": "9979",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "lijiawen",
+    "is_valid": true
+  },
+  {
+    "name": "焦诗悦",
+    "full_id": "9980/91-92",
+    "base_id": "9980",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "jiaoshiyue",
+    "is_valid": true
+  },
+  {
+    "name": "康凯",
+    "full_id": "9981/91-92",
+    "base_id": "9981",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "kangkai",
+    "is_valid": true
+  },
+  {
+    "name": "徐甜匀",
+    "full_id": "9982/91-92",
+    "base_id": "9982",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "xutianyun",
+    "is_valid": true
+  },
+  {
+    "name": "蒋依昀",
+    "full_id": "9983/91-92",
+    "base_id": "9983",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "jiangyiyun",
+    "is_valid": true
+  },
+  {
+    "name": "吕烁斌",
+    "full_id": "9984/91-92",
+    "base_id": "9984",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "lvshuobin",
+    "is_valid": true
+  },
+  {
+    "name": "石竹",
+    "full_id": "9985/91-92",
+    "base_id": "9985",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "shizhu",
+    "is_valid": true
+  },
+  {
+    "name": "俞卓延",
+    "full_id": "9986/91-92",
+    "base_id": "9986",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yuzhuoyan",
+    "is_valid": true
+  },
+  {
+    "name": "王翌豪",
+    "full_id": "9987/91-92",
+    "base_id": "9987",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wangyihao",
+    "is_valid": true
+  },
+  {
+    "name": "胡玮芝",
+    "full_id": "9988/91-92",
+    "base_id": "9988",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "huweizhi",
+    "is_valid": true
+  },
+  {
+    "name": "朱瑾轩",
+    "full_id": "9989/91-92",
+    "base_id": "9989",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhujinxuan",
+    "is_valid": true
+  },
+  {
+    "name": "黄远森",
+    "full_id": "9990/91-92",
+    "base_id": "9990",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "huangyuansen",
+    "is_valid": true
+  },
+  {
+    "name": "覃嘉琛",
+    "full_id": "9991/91-92",
+    "base_id": "9991",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "tanjiachen",
+    "is_valid": true
+  },
+  {
+    "name": "郭岫婷",
+    "full_id": "9992/91-92",
+    "base_id": "9992",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "guoxiuting",
+    "is_valid": true
+  },
+  {
+    "name": "陈思源",
+    "full_id": "9993/91-92",
+    "base_id": "9993",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "chensiyuan",
+    "is_valid": true
+  },
+  {
+    "name": "孟靖翔",
+    "full_id": "9994/91-92",
+    "base_id": "9994",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "mengjingxiang",
+    "is_valid": true
+  },
+  {
+    "name": "陈智泰",
+    "full_id": "9995/91-92",
+    "base_id": "9995",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "chenzhitai",
+    "is_valid": true
+  },
+  {
+    "name": "杨立诚",
+    "full_id": "9996/91-92",
+    "base_id": "9996",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yanglicheng",
+    "is_valid": true
+  },
+  {
+    "name": "袁怡婷",
+    "full_id": "9997/91-92",
+    "base_id": "9997",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yuanyiting",
+    "is_valid": true
+  },
+  {
+    "name": "李欣合",
+    "full_id": "9998/91-92",
+    "base_id": "9998",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "lixinhe",
+    "is_valid": true
+  },
+  {
+    "name": "陈刘馨睿",
+    "full_id": "9999/91-92",
+    "base_id": "9999",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "chenliuxinrui",
+    "is_valid": true
+  },
+  {
+    "name": "金加佳",
+    "full_id": "10000/91-92",
+    "base_id": "10000",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "jinjiajia",
+    "is_valid": true
+  },
+  {
+    "name": "王嘉欣",
+    "full_id": "10001/91-92",
+    "base_id": "10001",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wangjiaxin",
+    "is_valid": true
+  },
+  {
+    "name": "张靖晗",
+    "full_id": "10002/91-92",
+    "base_id": "10002",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangjinghan",
+    "is_valid": true
+  },
+  {
+    "name": "金晔",
+    "full_id": "10003/91-92",
+    "base_id": "10003",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "jinye",
+    "is_valid": true
+  },
+  {
+    "name": "周莹",
+    "full_id": "10004/91-92",
+    "base_id": "10004",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhouying",
+    "is_valid": true
+  },
+  {
+    "name": "张丹妍",
+    "full_id": "10005/91-92",
+    "base_id": "10005",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangdanyan",
+    "is_valid": true
+  },
+  {
+    "name": "吴敏蕾",
+    "full_id": "10006/91-92",
+    "base_id": "10006",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wuminlei",
+    "is_valid": true
+  },
+  {
+    "name": "张嘉皓",
+    "full_id": "10007/91-92",
+    "base_id": "10007",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangjiahao",
+    "is_valid": true
+  },
+  {
+    "name": "吴轶轲",
+    "full_id": "10008/91-92",
+    "base_id": "10008",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wuyike",
+    "is_valid": true
+  },
+  {
+    "name": "李维",
+    "full_id": "10009/91-92",
+    "base_id": "10009",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liwei",
+    "is_valid": true
+  },
+  {
+    "name": "李昊",
+    "full_id": "10010/91-92",
+    "base_id": "10010",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "lihao",
+    "is_valid": true
+  },
+  {
+    "name": "董伯树",
+    "full_id": "10011/91-92",
+    "base_id": "10011",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "dongboshu",
+    "is_valid": true
+  },
+  {
+    "name": "辛宏路",
+    "full_id": "10012/91-92",
+    "base_id": "10012",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "xinhonglu",
+    "is_valid": true
+  },
+  {
+    "name": "向俊陈",
+    "full_id": "10013/91-92",
+    "base_id": "10013",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "xiangjunchen",
+    "is_valid": true
+  },
+  {
+    "name": "孙小康",
+    "full_id": "10014/91-92",
+    "base_id": "10014",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "sunxiaokang",
+    "is_valid": true
+  },
+  {
+    "name": "王庆林",
+    "full_id": "10015/91-92",
+    "base_id": "10015",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wangqinglin",
+    "is_valid": true
+  },
+  {
+    "name": "张玉驰",
+    "full_id": "10016/91-92",
+    "base_id": "10016",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangyuchi",
+    "is_valid": true
+  },
+  {
+    "name": "付俊玮",
+    "full_id": "10017/91-92",
+    "base_id": "10017",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "fujunwei",
+    "is_valid": true
+  },
+  {
+    "name": "龚洋",
+    "full_id": "10018/91-92",
+    "base_id": "10018",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "gongyang",
+    "is_valid": true
+  },
+  {
+    "name": "周璟",
+    "full_id": "10019/91-92",
+    "base_id": "10019",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhoujing",
+    "is_valid": true
+  },
+  {
+    "name": "曲梦笛",
+    "full_id": "10020/91-92",
+    "base_id": "10020",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "qumengdi",
+    "is_valid": true
+  },
+  {
+    "name": "邓波",
+    "full_id": "10021/91-92",
+    "base_id": "10021",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "dengbo",
+    "is_valid": true
+  },
+  {
+    "name": "曹子怡",
+    "full_id": "10022/91-92",
+    "base_id": "10022",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "caoziyi",
+    "is_valid": true
+  },
+  {
+    "name": "施雨萌",
+    "full_id": "10023/91-92",
+    "base_id": "10023",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "shiyumeng",
+    "is_valid": true
+  },
+  {
+    "name": "京，不详",
+    "full_id": "10110/91-92",
+    "base_id": "10110",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "jing，buxiang",
+    "is_valid": true
+  },
+  {
+    "name": "尹保利",
+    "full_id": "10114/91-92",
+    "base_id": "10114",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yinbaoli",
+    "is_valid": true
+  },
+  {
+    "name": "张德强",
+    "full_id": "10115/91-92",
+    "base_id": "10115",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangdeqiang",
+    "is_valid": true
+  },
+  {
+    "name": "门雪婷",
+    "full_id": "10116/91-92",
+    "base_id": "10116",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "menxueting",
+    "is_valid": true
+  },
+  {
+    "name": "王韶涵",
+    "full_id": "10117/91-92",
+    "base_id": "10117",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wangshaohan",
+    "is_valid": true
+  },
+  {
+    "name": "杨淇翔",
+    "full_id": "10118/91-92",
+    "base_id": "10118",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yangqixiang",
+    "is_valid": true
+  },
+  {
+    "name": "石甦越",
+    "full_id": "10024/91-92",
+    "base_id": "10024",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "shisuyue",
+    "is_valid": true
+  },
+  {
+    "name": "黄麒嘉",
+    "full_id": "10025/91-92",
+    "base_id": "10025",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "huangqijia",
+    "is_valid": true
+  },
+  {
+    "name": "李博然",
+    "full_id": "10026/91-92",
+    "base_id": "10026",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liboran",
+    "is_valid": true
+  },
+  {
+    "name": "薛奕舟",
+    "full_id": "10027/91-92",
+    "base_id": "10027",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "xueyizhou",
+    "is_valid": true
+  },
+  {
+    "name": "王笑",
+    "full_id": "10028/91-92",
+    "base_id": "10028",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wangxiao",
+    "is_valid": true
+  },
+  {
+    "name": "崔鲁玥",
+    "full_id": "10029/91-92",
+    "base_id": "10029",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "cuiluyue",
+    "is_valid": true
+  },
+  {
+    "name": "童嘉毅",
+    "full_id": "10030/91-92",
+    "base_id": "10030",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "tongjiayi",
+    "is_valid": true
+  },
+  {
+    "name": "王瑞扬",
+    "full_id": "10031/91-92",
+    "base_id": "10031",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wangruiyang",
+    "is_valid": true
+  },
+  {
+    "name": "尹涵",
+    "full_id": "10032/91-92",
+    "base_id": "10032",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yinhan",
+    "is_valid": true
+  },
+  {
+    "name": "刘峻豪",
+    "full_id": "10033/91-92",
+    "base_id": "10033",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liujunhao",
+    "is_valid": true
+  },
+  {
+    "name": "韩沛伦",
+    "full_id": "10034/91-92",
+    "base_id": "10034",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "hanpeilun",
+    "is_valid": true
+  },
+  {
+    "name": "谢亦周",
+    "full_id": "10035/91-92",
+    "base_id": "10035",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "xieyizhou",
+    "is_valid": true
+  },
+  {
+    "name": "张妍",
+    "full_id": "10036/91-92",
+    "base_id": "10036",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangyan",
+    "is_valid": true
+  },
+  {
+    "name": "赵睿",
+    "full_id": "10037/91-92",
+    "base_id": "10037",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhaorui",
+    "is_valid": true
+  },
+  {
+    "name": "朴习斌",
+    "full_id": "10038/91-92",
+    "base_id": "10038",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "puxibin",
+    "is_valid": true
+  },
+  {
+    "name": "郑东喆",
+    "full_id": "10039/91-92",
+    "base_id": "10039",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhengdongzhe",
+    "is_valid": true
+  },
+  {
+    "name": "李星颜",
+    "full_id": "10040/91-92",
+    "base_id": "10040",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "lixingyan",
+    "is_valid": true
+  },
+  {
+    "name": "郭佳欢",
+    "full_id": "10041/91-92",
+    "base_id": "10041",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "guojiahuan",
+    "is_valid": true
+  },
+  {
+    "name": "姚静冉",
+    "full_id": "10042/91-92",
+    "base_id": "10042",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yaojingran",
+    "is_valid": true
+  },
+  {
+    "name": "张随兮",
+    "full_id": "10043/91-92",
+    "base_id": "10043",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangsuixi",
+    "is_valid": true
+  },
+  {
+    "name": "周鸣宇",
+    "full_id": "10044/91-92",
+    "base_id": "10044",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhoumingyu",
+    "is_valid": true
+  },
+  {
+    "name": "王佳祎",
+    "full_id": "10045/91-92",
+    "base_id": "10045",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wangjiayi",
+    "is_valid": true
+  },
+  {
+    "name": "张蔚然",
+    "full_id": "10046/91-92",
+    "base_id": "10046",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangweiran",
+    "is_valid": true
+  },
+  {
+    "name": "方泽宇",
+    "full_id": "10047/91-92",
+    "base_id": "10047",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "fangzeyu",
+    "is_valid": true
+  },
+  {
+    "name": "韩冰童",
+    "full_id": "10048/91-92",
+    "base_id": "10048",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "hanbingtong",
+    "is_valid": true
+  },
+  {
+    "name": "贾闻",
+    "full_id": "10049/91-92",
+    "base_id": "10049",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "jiawen",
+    "is_valid": true
+  },
+  {
+    "name": "刘岸霖",
+    "full_id": "10050/91-92",
+    "base_id": "10050",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liuanlin",
+    "is_valid": true
+  },
+  {
+    "name": "索朗措姆",
+    "full_id": "10051/91-92",
+    "base_id": "10051",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "suolangcuomu",
+    "is_valid": true
+  },
+  {
+    "name": "张乐",
+    "full_id": "10052/91-92",
+    "base_id": "10052",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangle",
+    "is_valid": true
+  },
+  {
+    "name": "张潇月",
+    "full_id": "10053/91-92",
+    "base_id": "10053",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangxiaoyue",
+    "is_valid": true
+  },
+  {
+    "name": "陈星月",
+    "full_id": "10054/91-92",
+    "base_id": "10054",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "chenxingyue",
+    "is_valid": true
+  },
+  {
+    "name": "高知闲",
+    "full_id": "10055/91-92",
+    "base_id": "10055",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "gaozhixian",
+    "is_valid": true
+  },
+  {
+    "name": "张昊祺",
+    "full_id": "10056/91-92",
+    "base_id": "10056",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhanghaoqi",
+    "is_valid": true
+  },
+  {
+    "name": "王御力",
+    "full_id": "10057/91-92",
+    "base_id": "10057",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wangyuli",
+    "is_valid": true
+  },
+  {
+    "name": "江一舟",
+    "full_id": "10058/91-92",
+    "base_id": "10058",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "jiangyizhou",
+    "is_valid": true
+  },
+  {
+    "name": "刘芷瑜",
+    "full_id": "10059/91-92",
+    "base_id": "10059",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liuzhiyu",
+    "is_valid": true
+  },
+  {
+    "name": "杨舟",
+    "full_id": "10060/91-92",
+    "base_id": "10060",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yangzhou",
+    "is_valid": true
+  },
+  {
+    "name": "蔡佳昀",
+    "full_id": "10061/91-92",
+    "base_id": "10061",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "caijiayun",
+    "is_valid": true
+  },
+  {
+    "name": "谢淇羽",
+    "full_id": "10062/91-92",
+    "base_id": "10062",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "xieqiyu",
+    "is_valid": true
+  },
+  {
+    "name": "邓雅馨",
+    "full_id": "10063/91-92",
+    "base_id": "10063",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "dengyaxin",
+    "is_valid": true
+  },
+  {
+    "name": "宋洋",
+    "full_id": "10064/91-92",
+    "base_id": "10064",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "songyang",
+    "is_valid": true
+  },
+  {
+    "name": "韩紫东",
+    "full_id": "10065/91-92",
+    "base_id": "10065",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "hanzidong",
+    "is_valid": true
+  },
+  {
+    "name": "孙小钧",
+    "full_id": "10066/91-92",
+    "base_id": "10066",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "sunxiaojun",
+    "is_valid": true
+  },
+  {
+    "name": "李晟磊",
+    "full_id": "10067/91-92",
+    "base_id": "10067",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "lichenglei",
+    "is_valid": true
+  },
+  {
+    "name": "汪海洋",
+    "full_id": "10068/91-92",
+    "base_id": "10068",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wanghaiyang",
+    "is_valid": true
+  },
+  {
+    "name": "梅凌峰",
+    "full_id": "10069/91-92",
+    "base_id": "10069",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "meilingfeng",
+    "is_valid": true
+  },
+  {
+    "name": "李逸飞",
+    "full_id": "10070/91-92",
+    "base_id": "10070",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liyifei",
+    "is_valid": true
+  },
+  {
+    "name": "吕天白",
+    "full_id": "10071/91-92",
+    "base_id": "10071",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "lvtianbai",
+    "is_valid": true
+  },
+  {
+    "name": "赵璞",
+    "full_id": "10072/91-92",
+    "base_id": "10072",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhaopu",
+    "is_valid": true
+  },
+  {
+    "name": "吴尚徽",
+    "full_id": "10073/91-92",
+    "base_id": "10073",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wushanghui",
+    "is_valid": true
+  },
+  {
+    "name": "蒋颖",
+    "full_id": "10074/91-92",
+    "base_id": "10074",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "jiangying",
+    "is_valid": true
+  },
+  {
+    "name": "晨媛儿",
+    "full_id": "10075/91-92",
+    "base_id": "10075",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "chenyuaner",
+    "is_valid": true
+  },
+  {
+    "name": "刘子媛",
+    "full_id": "10076/91-92",
+    "base_id": "10076",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liuziyuan",
+    "is_valid": true
+  },
+  {
+    "name": "王彦曦",
+    "full_id": "10077/91-92",
+    "base_id": "10077",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wangyanxi",
+    "is_valid": true
+  },
+  {
+    "name": "李思齐",
+    "full_id": "10078/91-92",
+    "base_id": "10078",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "lisiqi",
+    "is_valid": true
+  },
+  {
+    "name": "于美善",
+    "full_id": "10079/91-92",
+    "base_id": "10079",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yumeishan",
+    "is_valid": true
+  },
+  {
+    "name": "曲偌彤",
+    "full_id": "10080/91-92",
+    "base_id": "10080",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "quruotong",
+    "is_valid": true
+  },
+  {
+    "name": "张雅慧",
+    "full_id": "10081/91-92",
+    "base_id": "10081",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangyahui",
+    "is_valid": true
+  },
+  {
+    "name": "曹艺兰",
+    "full_id": "10082/91-92",
+    "base_id": "10082",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "caoyilan",
+    "is_valid": true
+  },
+  {
+    "name": "姜彬彬",
+    "full_id": "10083/91-92",
+    "base_id": "10083",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "jiangbinbin",
+    "is_valid": true
+  },
+  {
+    "name": "张梦泽",
+    "full_id": "10084/91-92",
+    "base_id": "10084",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangmengze",
+    "is_valid": true
+  },
+  {
+    "name": "刘姝婉",
+    "full_id": "10085/91-92",
+    "base_id": "10085",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liushuwan",
+    "is_valid": true
+  },
+  {
+    "name": "李佳曦",
+    "full_id": "10086/91-92",
+    "base_id": "10086",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "lijiaxi",
+    "is_valid": true
+  },
+  {
+    "name": "程功",
+    "full_id": "10087/91-92",
+    "base_id": "10087",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "chenggong",
+    "is_valid": true
+  },
+  {
+    "name": "张献强",
+    "full_id": "10088/91-92",
+    "base_id": "10088",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangxianqiang",
+    "is_valid": true
+  },
+  {
+    "name": "李晨阳",
+    "full_id": "10089/91-92",
+    "base_id": "10089",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "lichenyang",
+    "is_valid": true
+  },
+  {
+    "name": "何春怡",
+    "full_id": "10090/91-92",
+    "base_id": "10090",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "hechunyi",
+    "is_valid": true
+  },
+  {
+    "name": "林昊翔",
+    "full_id": "10091/91-92",
+    "base_id": "10091",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "linhaoxiang",
+    "is_valid": true
+  },
+  {
+    "name": "康良钰",
+    "full_id": "10092/91-92",
+    "base_id": "10092",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "kangliangyu",
+    "is_valid": true
+  },
+  {
+    "name": "李嘉琪",
+    "full_id": "10093/91-92",
+    "base_id": "10093",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "lijiaqi",
+    "is_valid": true
+  },
+  {
+    "name": "胡可",
+    "full_id": "10094/91-92",
+    "base_id": "10094",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "huke",
+    "is_valid": true
+  },
+  {
+    "name": "谭骏珂",
+    "full_id": "10095/91-92",
+    "base_id": "10095",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "tanjunke",
+    "is_valid": true
+  },
+  {
+    "name": "张书荃",
+    "full_id": "10096/91-92",
+    "base_id": "10096",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangshuquan",
+    "is_valid": true
+  },
+  {
+    "name": "金可涵",
+    "full_id": "10097/91-92",
+    "base_id": "10097",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "jinkehan",
+    "is_valid": true
+  },
+  {
+    "name": "熊心怡",
+    "full_id": "10098/91-92",
+    "base_id": "10098",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "xiongxinyi",
+    "is_valid": true
+  },
+  {
+    "name": "黄美莹",
+    "full_id": "10099/91-92",
+    "base_id": "10099",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "huangmeiying",
+    "is_valid": true
+  },
+  {
+    "name": "董丽华",
+    "full_id": "10100/91-92",
+    "base_id": "10100",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "donglihua",
+    "is_valid": true
+  },
+  {
+    "name": "李根",
+    "full_id": "10101/91-92",
+    "base_id": "10101",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "ligen",
+    "is_valid": true
+  },
+  {
+    "name": "李昕",
+    "full_id": "10102/91-92",
+    "base_id": "10102",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "lixin",
+    "is_valid": true
+  },
+  {
+    "name": "刘勇",
+    "full_id": "10103/91-92",
+    "base_id": "10103",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liuyong",
+    "is_valid": true
+  },
+  {
+    "name": "吴寒冰",
+    "full_id": "10104/91-92",
+    "base_id": "10104",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wuhanbing",
+    "is_valid": true
+  },
+  {
+    "name": "张泽能",
+    "full_id": "10105/91-92",
+    "base_id": "10105",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangzeneng",
+    "is_valid": true
+  },
+  {
+    "name": "李茜",
+    "full_id": "10106/91-92",
+    "base_id": "10106",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liqian",
+    "is_valid": true
+  },
+  {
+    "name": "陈钰茜",
+    "full_id": "10107/91-92",
+    "base_id": "10107",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "chenyuqian",
+    "is_valid": true
+  },
+  {
+    "name": "黄玮帏",
+    "full_id": "10108/91-92",
+    "base_id": "10108",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "huangweiwei",
+    "is_valid": true
+  },
+  {
+    "name": "林妍婷",
+    "full_id": "10109/91-92",
+    "base_id": "10109",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "linyanting",
+    "is_valid": true
+  },
+  {
+    "name": "王一诺",
+    "full_id": "10111/91-92",
+    "base_id": "10111",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wangyinuo",
+    "is_valid": true
+  },
+  {
+    "name": "韦雨涵",
+    "full_id": "10112/91-92",
+    "base_id": "10112",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "weiyuhan",
+    "is_valid": true
+  },
+  {
+    "name": "王梓鉴",
+    "full_id": "10113/91-92",
+    "base_id": "10113",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wangzijian",
+    "is_valid": true
+  },
+  {
+    "name": "尹保利",
+    "full_id": "10114/91-92",
+    "base_id": "10114",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yinbaoli",
+    "is_valid": true
+  },
+  {
+    "name": "张德强",
+    "full_id": "10115/91-92",
+    "base_id": "10115",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangdeqiang",
+    "is_valid": true
+  },
+  {
+    "name": "门雪婷",
+    "full_id": "10116/91-92",
+    "base_id": "10116",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "menxueting",
+    "is_valid": true
+  },
+  {
+    "name": "王韶涵",
+    "full_id": "10117/91-92",
+    "base_id": "10117",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wangshaohan",
+    "is_valid": true
+  },
+  {
+    "name": "杨淇翔",
+    "full_id": "10118/91-92",
+    "base_id": "10118",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "yangqixiang",
+    "is_valid": true
+  },
+  {
+    "name": "冯庚辉",
+    "full_id": "10119/91-92",
+    "base_id": "10119",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "fenggenghui",
+    "is_valid": true
+  },
+  {
+    "name": "梁靖泽",
+    "full_id": "10120/91-92",
+    "base_id": "10120",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "liangjingze",
+    "is_valid": true
+  },
+  {
+    "name": "邓诗雅",
+    "full_id": "10121/91-92",
+    "base_id": "10121",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "dengshiya",
+    "is_valid": true
+  },
+  {
+    "name": "王妮",
+    "full_id": "10122/91-92",
+    "base_id": "10122",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "wangni",
+    "is_valid": true
+  },
+  {
+    "name": "胡鹤",
+    "full_id": "10123/91-92",
+    "base_id": "10123",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "huhe",
+    "is_valid": true
+  },
+  {
+    "name": "张梓君",
+    "full_id": "10124/91-92",
+    "base_id": "10124",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "zhangzijun",
+    "is_valid": true
+  },
+  {
+    "name": "李靖雅",
+    "full_id": "10125/91-92",
+    "base_id": "10125",
+    "period": "91-92",
+    "year": "2021",
+    "school": "",
+    "pinyin": "lijingya",
+    "is_valid": true
+  },
+  {
+    "name": "高亦涵",
+    "full_id": "10126/93-94",
+    "base_id": "10126",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "gaoyihan",
+    "is_valid": true
+  },
+  {
+    "name": "崔育垚",
+    "full_id": "10127/93-94",
+    "base_id": "10127",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "cuiyuyao",
+    "is_valid": true
+  },
+  {
+    "name": "沈轩",
+    "full_id": "10128/93-94",
+    "base_id": "10128",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "shenxuan",
+    "is_valid": true
+  },
+  {
+    "name": "徐果",
+    "full_id": "10129/93-94",
+    "base_id": "10129",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "xuguo",
+    "is_valid": true
+  },
+  {
+    "name": "施亦周",
+    "full_id": "10130/93-94",
+    "base_id": "10130",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "shiyizhou",
+    "is_valid": true
+  },
+  {
+    "name": "庄子豪",
+    "full_id": "10131/93-94",
+    "base_id": "10131",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhuangzihao",
+    "is_valid": true
+  },
+  {
+    "name": "樊翰弘",
+    "full_id": "10132/93-94",
+    "base_id": "10132",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "fanhanhong",
+    "is_valid": true
+  },
+  {
+    "name": "周思辰",
+    "full_id": "10133/93-94",
+    "base_id": "10133",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhousichen",
+    "is_valid": true
+  },
+  {
+    "name": "丁陈",
+    "full_id": "10134/93-94",
+    "base_id": "10134",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "dingchen",
+    "is_valid": true
+  },
+  {
+    "name": "刘畅",
+    "full_id": "10135/93-94",
+    "base_id": "10135",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "liuchang",
+    "is_valid": true
+  },
+  {
+    "name": "王卓",
+    "full_id": "10136/93-94",
+    "base_id": "10136",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "wangzhuo",
+    "is_valid": true
+  },
+  {
+    "name": "李诚康",
+    "full_id": "10137/93-94",
+    "base_id": "10137",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "lichengkang",
+    "is_valid": true
+  },
+  {
+    "name": "宗沈祺",
+    "full_id": "10138/93-94",
+    "base_id": "10138",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zongshenqi",
+    "is_valid": true
+  },
+  {
+    "name": "李瑞泽",
+    "full_id": "10139/93-94",
+    "base_id": "10139",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "liruize",
+    "is_valid": true
+  },
+  {
+    "name": "金清扬",
+    "full_id": "10140/93-94",
+    "base_id": "10140",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "jinqingyang",
+    "is_valid": true
+  },
+  {
+    "name": "陈星羽",
+    "full_id": "10141/93-94",
+    "base_id": "10141",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "chenxingyu",
+    "is_valid": true
+  },
+  {
+    "name": "钱思彤",
+    "full_id": "10142/93-94",
+    "base_id": "10142",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "qiansitong",
+    "is_valid": true
+  },
+  {
+    "name": "颜佳慧",
+    "full_id": "10143/93-94",
+    "base_id": "10143",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "yanjiahui",
+    "is_valid": true
+  },
+  {
+    "name": "虞秋添",
+    "full_id": "10145/93-94",
+    "base_id": "10145",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "yuqiutian",
+    "is_valid": true
+  },
+  {
+    "name": "邱北威",
+    "full_id": "10146/93-94",
+    "base_id": "10146",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "qiubeiwei",
+    "is_valid": true
+  },
+  {
+    "name": "徐润荧",
+    "full_id": "10147/93-94",
+    "base_id": "10147",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "xurunying",
+    "is_valid": true
+  },
+  {
+    "name": "周烨",
+    "full_id": "10148/93-94",
+    "base_id": "10148",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhouye",
+    "is_valid": true
+  },
+  {
+    "name": "朱峻琦",
+    "full_id": "10149/93-94",
+    "base_id": "10149",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhujunqi",
+    "is_valid": true
+  },
+  {
+    "name": "朱佳琪",
+    "full_id": "10150/93-94",
+    "base_id": "10150",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhujiaqi",
+    "is_valid": true
+  },
+  {
+    "name": "姚燚贝",
+    "full_id": "10151/93-94",
+    "base_id": "10151",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "yaoyibei",
+    "is_valid": true
+  },
+  {
+    "name": "潘怡怡",
+    "full_id": "10152/93-94",
+    "base_id": "10152",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "panyiyi",
+    "is_valid": true
+  },
+  {
+    "name": "慎毅琳",
+    "full_id": "10153/93-94",
+    "base_id": "10153",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "shenyilin",
+    "is_valid": true
+  },
+  {
+    "name": "陆佳明",
+    "full_id": "10154/93-94",
+    "base_id": "10154",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "lujiaming",
+    "is_valid": true
+  },
+  {
+    "name": "谢亦驰",
+    "full_id": "10155/93-94",
+    "base_id": "10155",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "xieyichi",
+    "is_valid": true
+  },
+  {
+    "name": "沈傅望欢",
+    "full_id": "10156/93-94",
+    "base_id": "10156",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "shenfuwanghuan",
+    "is_valid": true
+  },
+  {
+    "name": "施文彬",
+    "full_id": "10157/93-94",
+    "base_id": "10157",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "shiwenbin",
+    "is_valid": true
+  },
+  {
+    "name": "高书婧",
+    "full_id": "10158/93-94",
+    "base_id": "10158",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "gaoshujing",
+    "is_valid": true
+  },
+  {
+    "name": "吴奇",
+    "full_id": "10159/93-94",
+    "base_id": "10159",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "wuqi",
+    "is_valid": true
+  },
+  {
+    "name": "沈健超",
+    "full_id": "10160/93-94",
+    "base_id": "10160",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "shenjianchao",
+    "is_valid": true
+  },
+  {
+    "name": "王睿鸿",
+    "full_id": "10161/93-94",
+    "base_id": "10161",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "wangruihong",
+    "is_valid": true
+  },
+  {
+    "name": "陈默",
+    "full_id": "10162/93-94",
+    "base_id": "10162",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "chenmo",
+    "is_valid": true
+  },
+  {
+    "name": "王钰冰",
+    "full_id": "10163/93-94",
+    "base_id": "10163",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "wangyubing",
+    "is_valid": true
+  },
+  {
+    "name": "孙静怡",
+    "full_id": "10164/93-94",
+    "base_id": "10164",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "sunjingyi",
+    "is_valid": true
+  },
+  {
+    "name": "程羽夏",
+    "full_id": "10165/93-94",
+    "base_id": "10165",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "chengyuxia",
+    "is_valid": true
+  },
+  {
+    "name": "邢书语",
+    "full_id": "10166/93-94",
+    "base_id": "10166",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "xingshuyu",
+    "is_valid": true
+  },
+  {
+    "name": "雷玥",
+    "full_id": "10167/93-94",
+    "base_id": "10167",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "leiyue",
+    "is_valid": true
+  },
+  {
+    "name": "徐上",
+    "full_id": "10168/93-94",
+    "base_id": "10168",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "xushang",
+    "is_valid": true
+  },
+  {
+    "name": "程家昊",
+    "full_id": "10169/93-94",
+    "base_id": "10169",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "chengjiahao",
+    "is_valid": true
+  },
+  {
+    "name": "叶蕴娴",
+    "full_id": "10170/93-94",
+    "base_id": "10170",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "yeyunxian",
+    "is_valid": true
+  },
+  {
+    "name": "刘思瀚",
+    "full_id": "10171/93-94",
+    "base_id": "10171",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "liusihan",
+    "is_valid": true
+  },
+  {
+    "name": "刘天昊",
+    "full_id": "10172/93-94",
+    "base_id": "10172",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "liutianhao",
+    "is_valid": true
+  },
+  {
+    "name": "姚越",
+    "full_id": "10173/93-94",
+    "base_id": "10173",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "yaoyue",
+    "is_valid": true
+  },
+  {
+    "name": "于昊阳",
+    "full_id": "10174/93-94",
+    "base_id": "10174",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "yuhaoyang",
+    "is_valid": true
+  },
+  {
+    "name": "宋昕",
+    "full_id": "10175/93-94",
+    "base_id": "10175",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "songxin",
+    "is_valid": true
+  },
+  {
+    "name": "李金豪",
+    "full_id": "10176/93-94",
+    "base_id": "10176",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "lijinhao",
+    "is_valid": true
+  },
+  {
+    "name": "吴与同",
+    "full_id": "10177/93-94",
+    "base_id": "10177",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "wuyutong",
+    "is_valid": true
+  },
+  {
+    "name": "唐湛",
+    "full_id": "10178/93-94",
+    "base_id": "10178",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "tangzhan",
+    "is_valid": true
+  },
+  {
+    "name": "张逸凡",
+    "full_id": "10179/93-94",
+    "base_id": "10179",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhangyifan",
+    "is_valid": true
+  },
+  {
+    "name": "李雨彤",
+    "full_id": "10180/93-94",
+    "base_id": "10180",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "liyutong",
+    "is_valid": true
+  },
+  {
+    "name": "李哲",
+    "full_id": "10181/93-94",
+    "base_id": "10181",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "lizhe",
+    "is_valid": true
+  },
+  {
+    "name": "茆舒畅",
+    "full_id": "10182/93-94",
+    "base_id": "10182",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "maoshuchang",
+    "is_valid": true
+  },
+  {
+    "name": "杨琪",
+    "full_id": "10183/93-94",
+    "base_id": "10183",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "yangqi",
+    "is_valid": true
+  },
+  {
+    "name": "何雨佳",
+    "full_id": "10184/93-94",
+    "base_id": "10184",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "heyujia",
+    "is_valid": true
+  },
+  {
+    "name": "蒋祺",
+    "full_id": "10185/93-94",
+    "base_id": "10185",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "jiangqi",
+    "is_valid": true
+  },
+  {
+    "name": "胡奕晨",
+    "full_id": "10186/93-94",
+    "base_id": "10186",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "huyichen",
+    "is_valid": true
+  },
+  {
+    "name": "黄欣",
+    "full_id": "10187/93-94",
+    "base_id": "10187",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "huangxin",
+    "is_valid": true
+  },
+  {
+    "name": "陆佳琪",
+    "full_id": "10188/93-94",
+    "base_id": "10188",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "lujiaqi",
+    "is_valid": true
+  },
+  {
+    "name": "蒋沈涵阳",
+    "full_id": "10189/93-94",
+    "base_id": "10189",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "jiangshenhanyang",
+    "is_valid": true
+  },
+  {
+    "name": "袁兴宇",
+    "full_id": "10190/93-94",
+    "base_id": "10190",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "yuanxingyu",
+    "is_valid": true
+  },
+  {
+    "name": "黄锦添",
+    "full_id": "10191/93-94",
+    "base_id": "10191",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "huangjintian",
+    "is_valid": true
+  },
+  {
+    "name": "高哲涵",
+    "full_id": "10192/93-94",
+    "base_id": "10192",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "gaozhehan",
+    "is_valid": true
+  },
+  {
+    "name": "刘潇雪",
+    "full_id": "10193/93-94",
+    "base_id": "10193",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "liuxiaoxue",
+    "is_valid": true
+  },
+  {
+    "name": "汪心圆",
+    "full_id": "10194/93-94",
+    "base_id": "10194",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "wangxinyuan",
+    "is_valid": true
+  },
+  {
+    "name": "江城",
+    "full_id": "10195/93-94",
+    "base_id": "10195",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "jiangcheng",
+    "is_valid": true
+  },
+  {
+    "name": "桑宇昊",
+    "full_id": "10196/93-94",
+    "base_id": "10196",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "sangyuhao",
+    "is_valid": true
+  },
+  {
+    "name": "郭宬杰",
+    "full_id": "10197/93-94",
+    "base_id": "10197",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "guochengjie",
+    "is_valid": true
+  },
+  {
+    "name": "许宸鸣",
+    "full_id": "10198/93-94",
+    "base_id": "10198",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "xuchenming",
+    "is_valid": true
+  },
+  {
+    "name": "呙雅歌",
+    "full_id": "10199/93-94",
+    "base_id": "10199",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "guoyage",
+    "is_valid": true
+  },
+  {
+    "name": "魏兰沣",
+    "full_id": "10200/93-94",
+    "base_id": "10200",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "weilanfeng",
+    "is_valid": true
+  },
+  {
+    "name": "朱振宇",
+    "full_id": "10201/93-94",
+    "base_id": "10201",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhuzhenyu",
+    "is_valid": true
+  },
+  {
+    "name": "廖榆清",
+    "full_id": "10202/93-94",
+    "base_id": "10202",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "liaoyuqing",
+    "is_valid": true
+  },
+  {
+    "name": "顾邹道",
+    "full_id": "10203/93-94",
+    "base_id": "10203",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "guzoudao",
+    "is_valid": true
+  },
+  {
+    "name": "蔡天竞",
+    "full_id": "10204/93-94",
+    "base_id": "10204",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "caitianjing",
+    "is_valid": true
+  },
+  {
+    "name": "徐嘉俐",
+    "full_id": "10205/93-94",
+    "base_id": "10205",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "xujiali",
+    "is_valid": true
+  },
+  {
+    "name": "朱依诺",
+    "full_id": "10206/93-94",
+    "base_id": "10206",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhuyinuo",
+    "is_valid": true
+  },
+  {
+    "name": "严紫涵",
+    "full_id": "10207/93-94",
+    "base_id": "10207",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "yanzihan",
+    "is_valid": true
+  },
+  {
+    "name": "颜佳宁",
+    "full_id": "10208/93-94",
+    "base_id": "10208",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "yanjianing",
+    "is_valid": true
+  },
+  {
+    "name": "陈奕涵",
+    "full_id": "10209/93-94",
+    "base_id": "10209",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "chenyihan",
+    "is_valid": true
+  },
+  {
+    "name": "朱迈",
+    "full_id": "10210/93-94",
+    "base_id": "10210",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhumai",
+    "is_valid": true
+  },
+  {
+    "name": "酆婧瑜",
+    "full_id": "10211/93-94",
+    "base_id": "10211",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "fengjingyu",
+    "is_valid": true
+  },
+  {
+    "name": "敖瑞",
+    "full_id": "10212/93-94",
+    "base_id": "10212",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "aorui",
+    "is_valid": true
+  },
+  {
+    "name": "刘函",
+    "full_id": "10213/93-94",
+    "base_id": "10213",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "liuhan",
+    "is_valid": true
+  },
+  {
+    "name": "吴俊逸",
+    "full_id": "10214/93-94",
+    "base_id": "10214",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "wujunyi",
+    "is_valid": true
+  },
+  {
+    "name": "王奕君",
+    "full_id": "10215/93-94",
+    "base_id": "10215",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "wangyijun",
+    "is_valid": true
+  },
+  {
+    "name": "沈轩宇",
+    "full_id": "10216/93-94",
+    "base_id": "10216",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "shenxuanyu",
+    "is_valid": true
+  },
+  {
+    "name": "李子溪",
+    "full_id": "10217/93-94",
+    "base_id": "10217",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "lizixi",
+    "is_valid": true
+  },
+  {
+    "name": "钱程",
+    "full_id": "10218/93-94",
+    "base_id": "10218",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "qiancheng",
+    "is_valid": true
+  },
+  {
+    "name": "顾心原",
+    "full_id": "10219/93-94",
+    "base_id": "10219",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "guxinyuan",
+    "is_valid": true
+  },
+  {
+    "name": "侯珺",
+    "full_id": "10220/93-94",
+    "base_id": "10220",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "houjun",
+    "is_valid": true
+  },
+  {
+    "name": "张星烨",
+    "full_id": "10221/93-94",
+    "base_id": "10221",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhangxingye",
+    "is_valid": true
+  },
+  {
+    "name": "余喆浩",
+    "full_id": "10222/93-94",
+    "base_id": "10222",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "yuzhehao",
+    "is_valid": true
+  },
+  {
+    "name": "张芷涵",
+    "full_id": "10223/93-94",
+    "base_id": "10223",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhangzhihan",
+    "is_valid": true
+  },
+  {
+    "name": "郑逸轩",
+    "full_id": "10224/93-94",
+    "base_id": "10224",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhengyixuan",
+    "is_valid": true
+  },
+  {
+    "name": "陈诣凡",
+    "full_id": "10225/93-94",
+    "base_id": "10225",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "chenyifan",
+    "is_valid": true
+  },
+  {
+    "name": "陈佳琪",
+    "full_id": "10226/93-94",
+    "base_id": "10226",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "chenjiaqi",
+    "is_valid": true
+  },
+  {
+    "name": "邵建哲",
+    "full_id": "10227/93-94",
+    "base_id": "10227",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "shaojianzhe",
+    "is_valid": true
+  },
+  {
+    "name": "钟奕扬",
+    "full_id": "10228/93-94",
+    "base_id": "10228",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhongyiyang",
+    "is_valid": true
+  },
+  {
+    "name": "韩佳悦",
+    "full_id": "10229/93-94",
+    "base_id": "10229",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "hanjiayue",
+    "is_valid": true
+  },
+  {
+    "name": "王睿诗",
+    "full_id": "10230/93-94",
+    "base_id": "10230",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "wangruishi",
+    "is_valid": true
+  },
+  {
+    "name": "路一丁",
+    "full_id": "10231/93-94",
+    "base_id": "10231",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "luyiding",
+    "is_valid": true
+  },
+  {
+    "name": "陈璐嘉",
+    "full_id": "10232/93-94",
+    "base_id": "10232",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "chenlujia",
+    "is_valid": true
+  },
+  {
+    "name": "王昊",
+    "full_id": "10233/93-94",
+    "base_id": "10233",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "wanghao",
+    "is_valid": true
+  },
+  {
+    "name": "陈佳滢",
+    "full_id": "10234/93-94",
+    "base_id": "10234",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "chenjiaying",
+    "is_valid": true
+  },
+  {
+    "name": "许多",
+    "full_id": "10235/93-94",
+    "base_id": "10235",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "xuduo",
+    "is_valid": true
+  },
+  {
+    "name": "张安琪",
+    "full_id": "10236/93-94",
+    "base_id": "10236",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhanganqi",
+    "is_valid": true
+  },
+  {
+    "name": "张一泠",
+    "full_id": "10237/93-94",
+    "base_id": "10237",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhangyiling",
+    "is_valid": true
+  },
+  {
+    "name": "郭慧妍",
+    "full_id": "10238/93-94",
+    "base_id": "10238",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "guohuiyan",
+    "is_valid": true
+  },
+  {
+    "name": "谢薪霖",
+    "full_id": "10239/93-94",
+    "base_id": "10239",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "xiexinlin",
+    "is_valid": true
+  },
+  {
+    "name": "梅泽楠",
+    "full_id": "10240/93-94",
+    "base_id": "10240",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "meizenan",
+    "is_valid": true
+  },
+  {
+    "name": "罗恩羽",
+    "full_id": "10241/93-94",
+    "base_id": "10241",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "luoenyu",
+    "is_valid": true
+  },
+  {
+    "name": "梁国泰",
+    "full_id": "10242/93-94",
+    "base_id": "10242",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "liangguotai",
+    "is_valid": true
+  },
+  {
+    "name": "陈奕清",
+    "full_id": "10243/93-94",
+    "base_id": "10243",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "chenyiqing",
+    "is_valid": true
+  },
+  {
+    "name": "李梓楠",
+    "full_id": "10244/93-94",
+    "base_id": "10244",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "lizinan",
+    "is_valid": true
+  },
+  {
+    "name": "龚天逸",
+    "full_id": "10245/93-94",
+    "base_id": "10245",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "gongtianyi",
+    "is_valid": true
+  },
+  {
+    "name": "高雅菁",
+    "full_id": "10246/93-94",
+    "base_id": "10246",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "gaoyajing",
+    "is_valid": true
+  },
+  {
+    "name": "贾晨宇",
+    "full_id": "10247/93-94",
+    "base_id": "10247",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "jiachenyu",
+    "is_valid": true
+  },
+  {
+    "name": "宋词",
+    "full_id": "10248/93-94",
+    "base_id": "10248",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "songci",
+    "is_valid": true
+  },
+  {
+    "name": "徐一范",
+    "full_id": "10249/93-94",
+    "base_id": "10249",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "xuyifan",
+    "is_valid": true
+  },
+  {
+    "name": "陈欣果",
+    "full_id": "10250/93-94",
+    "base_id": "10250",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "chenxinguo",
+    "is_valid": true
+  },
+  {
+    "name": "张黛婕",
+    "full_id": "10251/93-94",
+    "base_id": "10251",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhangdaijie",
+    "is_valid": true
+  },
+  {
+    "name": "金宇欣",
+    "full_id": "10252/93-94",
+    "base_id": "10252",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "jinyuxin",
+    "is_valid": true
+  },
+  {
+    "name": "程伟航",
+    "full_id": "10253/93-94",
+    "base_id": "10253",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "chengweihang",
+    "is_valid": true
+  },
+  {
+    "name": "刘欣雨",
+    "full_id": "10254/93-94",
+    "base_id": "10254",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "liuxinyu",
+    "is_valid": true
+  },
+  {
+    "name": "贾欣妍",
+    "full_id": "10255/93-94",
+    "base_id": "10255",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "jiaxinyan",
+    "is_valid": true
+  },
+  {
+    "name": "周逸轩",
+    "full_id": "10256/93-94",
+    "base_id": "10256",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhouyixuan",
+    "is_valid": true
+  },
+  {
+    "name": "王天辰",
+    "full_id": "10257/93-94",
+    "base_id": "10257",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "wangtianchen",
+    "is_valid": true
+  },
+  {
+    "name": "朱蕊绛",
+    "full_id": "10258/93-94",
+    "base_id": "10258",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhuruijiang",
+    "is_valid": true
+  },
+  {
+    "name": "魏琪",
+    "full_id": "10259/93-94",
+    "base_id": "10259",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "weiqi",
+    "is_valid": true
+  },
+  {
+    "name": "雷旭阳",
+    "full_id": "10260/93-94",
+    "base_id": "10260",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "leixuyang",
+    "is_valid": true
+  },
+  {
+    "name": "丁资洋",
+    "full_id": "10261/93-94",
+    "base_id": "10261",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "dingziyang",
+    "is_valid": true
+  },
+  {
+    "name": "董思成",
+    "full_id": "10262/93-94",
+    "base_id": "10262",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "dongsicheng",
+    "is_valid": true
+  },
+  {
+    "name": "詹庆燚",
+    "full_id": "10263/93-94",
+    "base_id": "10263",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhanqingyi",
+    "is_valid": true
+  },
+  {
+    "name": "张圳钊",
+    "full_id": "10264/93-94",
+    "base_id": "10264",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhangzhenzhao",
+    "is_valid": true
+  },
+  {
+    "name": "陈雲鹏",
+    "full_id": "10265/93-94",
+    "base_id": "10265",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "chenyunpeng",
+    "is_valid": true
+  },
+  {
+    "name": "李帅奇",
+    "full_id": "10266/93-94",
+    "base_id": "10266",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "lishuaiqi",
+    "is_valid": true
+  },
+  {
+    "name": "马铭骏",
+    "full_id": "10267/93-94",
+    "base_id": "10267",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "mamingjun",
+    "is_valid": true
+  },
+  {
+    "name": "毛运芳",
+    "full_id": "10268/93-94",
+    "base_id": "10268",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "maoyunfang",
+    "is_valid": true
+  },
+  {
+    "name": "王昕瑜",
+    "full_id": "10269/93-94",
+    "base_id": "10269",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "wangxinyu",
+    "is_valid": true
+  },
+  {
+    "name": "王鹏翔",
+    "full_id": "10270/93-94",
+    "base_id": "10270",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "wangpengxiang",
+    "is_valid": true
+  },
+  {
+    "name": "施清喻",
+    "full_id": "10271/93-94",
+    "base_id": "10271",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "shiqingyu",
+    "is_valid": true
+  },
+  {
+    "name": "赖真真",
+    "full_id": "10272/93-94",
+    "base_id": "10272",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "laizhenzhen",
+    "is_valid": true
+  },
+  {
+    "name": "黄畅",
+    "full_id": "10273/93-94",
+    "base_id": "10273",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "huangchang",
+    "is_valid": true
+  },
+  {
+    "name": "王为",
+    "full_id": "10274/93-94",
+    "base_id": "10274",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "wangwei",
+    "is_valid": true
+  },
+  {
+    "name": "刘诚",
+    "full_id": "10275/93-94",
+    "base_id": "10275",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "liucheng",
+    "is_valid": true
+  },
+  {
+    "name": "王赢",
+    "full_id": "10276/93-94",
+    "base_id": "10276",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "wangying",
+    "is_valid": true
+  },
+  {
+    "name": "陈樱蕾",
+    "full_id": "10277/93-94",
+    "base_id": "10277",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "chenyinglei",
+    "is_valid": true
+  },
+  {
+    "name": "胡诚成",
+    "full_id": "10278/93-94",
+    "base_id": "10278",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第二中学",
+    "pinyin": "huchengcheng",
+    "is_valid": true
+  },
+  {
+    "name": "张瑞泽",
+    "full_id": "10279/93-94",
+    "base_id": "10279",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第二中学",
+    "pinyin": "zhangruize",
+    "is_valid": true
+  },
+  {
+    "name": "张子芊",
+    "full_id": "10280/93-94",
+    "base_id": "10280",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第二中学",
+    "pinyin": "zhangziqian",
+    "is_valid": true
+  },
+  {
+    "name": "万瞳舟",
+    "full_id": "10281/93-94",
+    "base_id": "10281",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第二中学",
+    "pinyin": "wantongzhou",
+    "is_valid": true
+  },
+  {
+    "name": "魏寒飞",
+    "full_id": "10282/93-94",
+    "base_id": "10282",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第二中学",
+    "pinyin": "weihanfei",
+    "is_valid": true
+  },
+  {
+    "name": "王子晴",
+    "full_id": "10283/93-94",
+    "base_id": "10283",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第二中学",
+    "pinyin": "wangziqing",
+    "is_valid": true
+  },
+  {
+    "name": "王心县",
+    "full_id": "10284/93-94",
+    "base_id": "10284",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第四中学",
+    "pinyin": "wangxinxian",
+    "is_valid": true
+  },
+  {
+    "name": "王梓淇",
+    "full_id": "10285/93-94",
+    "base_id": "10285",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第四中学",
+    "pinyin": "wangziqi",
+    "is_valid": true
+  },
+  {
+    "name": "肖楚逸",
+    "full_id": "10286/93-94",
+    "base_id": "10286",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第四中学",
+    "pinyin": "xiaochuyi",
+    "is_valid": true
+  },
+  {
+    "name": "黎欣悦",
+    "full_id": "10287/93-94",
+    "base_id": "10287",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第四中学",
+    "pinyin": "lixinyue",
+    "is_valid": true
+  },
+  {
+    "name": "苏渝淇",
+    "full_id": "10288/93-94",
+    "base_id": "10288",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第四中学",
+    "pinyin": "suyuqi",
+    "is_valid": true
+  },
+  {
+    "name": "张可宜",
+    "full_id": "10289/93-94",
+    "base_id": "10289",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第四中学",
+    "pinyin": "zhangkeyi",
+    "is_valid": true
+  },
+  {
+    "name": "李亦欣",
+    "full_id": "10290/93-94",
+    "base_id": "10290",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第四中学",
+    "pinyin": "liyixin",
+    "is_valid": true
+  },
+  {
+    "name": "王健祖",
+    "full_id": "10291/93-94",
+    "base_id": "10291",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第四中学",
+    "pinyin": "wangjianzu",
+    "is_valid": true
+  },
+  {
+    "name": "陈应涵",
+    "full_id": "10292/93-94",
+    "base_id": "10292",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第四中学",
+    "pinyin": "chenyinghan",
+    "is_valid": true
+  },
+  {
+    "name": "江歆明",
+    "full_id": "10293/93-94",
+    "base_id": "10293",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第八中学",
+    "pinyin": "jiangxinming",
+    "is_valid": true
+  },
+  {
+    "name": "尉嘉喆",
+    "full_id": "10294/93-94",
+    "base_id": "10294",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第八中学",
+    "pinyin": "weijiazhe",
+    "is_valid": true
+  },
+  {
+    "name": "李文瀚",
+    "full_id": "10295/93-94",
+    "base_id": "10295",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第八中学",
+    "pinyin": "liwenhan",
+    "is_valid": true
+  },
+  {
+    "name": "颜天销",
+    "full_id": "10296/93-94",
+    "base_id": "10296",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第八中学",
+    "pinyin": "yantianxiao",
+    "is_valid": true
+  },
+  {
+    "name": "张驰",
+    "full_id": "10297/93-94",
+    "base_id": "10297",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第八中学",
+    "pinyin": "zhangchi",
+    "is_valid": true
+  },
+  {
+    "name": "梁一钐",
+    "full_id": "10298/93-94",
+    "base_id": "10298",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第八中学",
+    "pinyin": "liangyishan",
+    "is_valid": true
+  },
+  {
+    "name": "刘思邑",
+    "full_id": "10299/93-94",
+    "base_id": "10299",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第十五中学",
+    "pinyin": "liusiyi",
+    "is_valid": true
+  },
+  {
+    "name": "甘子逸",
+    "full_id": "10300/93-94",
+    "base_id": "10300",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第十五中学",
+    "pinyin": "ganziyi",
+    "is_valid": true
+  },
+  {
+    "name": "朱晓禺",
+    "full_id": "10301/93-94",
+    "base_id": "10301",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第十五中学",
+    "pinyin": "zhuxiaoyu",
+    "is_valid": true
+  },
+  {
+    "name": "张宇彤",
+    "full_id": "10302/93-94",
+    "base_id": "10302",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第十五中学",
+    "pinyin": "zhangyutong",
+    "is_valid": true
+  },
+  {
+    "name": "李卓然",
+    "full_id": "10303/93-94",
+    "base_id": "10303",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第十五中学",
+    "pinyin": "lizhuoran",
+    "is_valid": true
+  },
+  {
+    "name": "米春蕾",
+    "full_id": "10304/93-94",
+    "base_id": "10304",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第十五中南口学校",
+    "pinyin": "michunlei",
+    "is_valid": true
+  },
+  {
+    "name": "陈沐昕",
+    "full_id": "10305/93-94",
+    "base_id": "10305",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第八十中学",
+    "pinyin": "chenmuxin",
+    "is_valid": true
+  },
+  {
+    "name": "褚梓凡",
+    "full_id": "10306/93-94",
+    "base_id": "10306",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第八十中学",
+    "pinyin": "chuzifan",
+    "is_valid": true
+  },
+  {
+    "name": "万翰如",
+    "full_id": "10307/93-94",
+    "base_id": "10307",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第八十中学",
+    "pinyin": "wanhanru",
+    "is_valid": true
+  },
+  {
+    "name": "边天奕",
+    "full_id": "10308/93-94",
+    "base_id": "10308",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第八十中学",
+    "pinyin": "biantianyi",
+    "is_valid": true
+  },
+  {
+    "name": "本佩优",
+    "full_id": "10309/93-94",
+    "base_id": "10309",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第八十中学",
+    "pinyin": "benpeiyou",
+    "is_valid": true
+  },
+  {
+    "name": "丹通曲珍",
+    "full_id": "10310/93-94",
+    "base_id": "10310",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第八十中学",
+    "pinyin": "dantongquzhen",
+    "is_valid": true
+  },
+  {
+    "name": "丹增塔尔基",
+    "full_id": "10311/93-94",
+    "base_id": "10311",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市第八十中学",
+    "pinyin": "danzengtaerji",
+    "is_valid": true
+  },
+  {
+    "name": "朱佳颖",
+    "full_id": "10312/93-94",
+    "base_id": "10312",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学附属中学",
+    "pinyin": "zhujiaying",
+    "is_valid": true
+  },
+  {
+    "name": "黄思齐",
+    "full_id": "10313/93-94",
+    "base_id": "10313",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学附属中学",
+    "pinyin": "huangsiqi",
+    "is_valid": true
+  },
+  {
+    "name": "黄嘉怡",
+    "full_id": "10314/93-94",
+    "base_id": "10314",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学附属中学",
+    "pinyin": "huangjiayi",
+    "is_valid": true
+  },
+  {
+    "name": "王佳艺",
+    "full_id": "10315/93-94",
+    "base_id": "10315",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学附属中学",
+    "pinyin": "wangjiayi",
+    "is_valid": true
+  },
+  {
+    "name": "张嘉宸",
+    "full_id": "10316/93-94",
+    "base_id": "10316",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学附属中学",
+    "pinyin": "zhangjiachen",
+    "is_valid": true
+  },
+  {
+    "name": "杜簷",
+    "full_id": "10317/93-94",
+    "base_id": "10317",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学附属中学",
+    "pinyin": "duyan",
+    "is_valid": true
+  },
+  {
+    "name": "方子辰",
+    "full_id": "10318/93-94",
+    "base_id": "10318",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京师范大学附属中学",
+    "pinyin": "fangzichen",
+    "is_valid": true
+  },
+  {
+    "name": "宁书玉",
+    "full_id": "10319/93-94",
+    "base_id": "10319",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京师范大学附属中学",
+    "pinyin": "ningshuyu",
+    "is_valid": true
+  },
+  {
+    "name": "高明楷",
+    "full_id": "10320/93-94",
+    "base_id": "10320",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京师范大学附属中学",
+    "pinyin": "gaomingkai",
+    "is_valid": true
+  },
+  {
+    "name": "蔺唐泽",
+    "full_id": "10321/93-94",
+    "base_id": "10321",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京师范大学附属中学",
+    "pinyin": "lintangze",
+    "is_valid": true
+  },
+  {
+    "name": "刘靓怡",
+    "full_id": "10322/93-94",
+    "base_id": "10322",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京师范大学附属中学",
+    "pinyin": "liujingyi",
+    "is_valid": true
+  },
+  {
+    "name": "陈宇航",
+    "full_id": "10323/93-94",
+    "base_id": "10323",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市顺义牛栏山第一中学",
+    "pinyin": "chenyuhang",
+    "is_valid": true
+  },
+  {
+    "name": "池观澜",
+    "full_id": "10324/93-94",
+    "base_id": "10324",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市顺义牛栏山第一中学",
+    "pinyin": "chiguanlan",
+    "is_valid": true
+  },
+  {
+    "name": "刘全桂",
+    "full_id": "10325/93-94",
+    "base_id": "10325",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市顺义牛栏山第一中学",
+    "pinyin": "liuquangui",
+    "is_valid": true
+  },
+  {
+    "name": "马也驰",
+    "full_id": "10326/93-94",
+    "base_id": "10326",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市顺义牛栏山第一中学",
+    "pinyin": "mayechi",
+    "is_valid": true
+  },
+  {
+    "name": "马雨涵",
+    "full_id": "10327/93-94",
+    "base_id": "10327",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市顺义牛栏山第一中学",
+    "pinyin": "mayuhan",
+    "is_valid": true
+  },
+  {
+    "name": "欧宏骏",
+    "full_id": "10328/93-94",
+    "base_id": "10328",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市顺义牛栏山第一中学",
+    "pinyin": "ouhongjun",
+    "is_valid": true
+  },
+  {
+    "name": "王渚倩",
+    "full_id": "10329/93-94",
+    "base_id": "10329",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市顺义牛栏山第一中学",
+    "pinyin": "wangzhuqian",
+    "is_valid": true
+  },
+  {
+    "name": "张艺洋",
+    "full_id": "10330/93-94",
+    "base_id": "10330",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市顺义牛栏山第一中学",
+    "pinyin": "zhangyiyang",
+    "is_valid": true
+  },
+  {
+    "name": "樊家旭",
+    "full_id": "10331/93-94",
+    "base_id": "10331",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市广渠门中学",
+    "pinyin": "fanjiaxu",
+    "is_valid": true
+  },
+  {
+    "name": "陳立彤",
+    "full_id": "10332/93-94",
+    "base_id": "10332",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市广渠门中学",
+    "pinyin": "chenlitong",
+    "is_valid": true
+  },
+  {
+    "name": "吴杰",
+    "full_id": "10333/93-94",
+    "base_id": "10333",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市广渠门中学",
+    "pinyin": "wujie",
+    "is_valid": true
+  },
+  {
+    "name": "王戳",
+    "full_id": "10334/93-94",
+    "base_id": "10334",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市广渠门中学",
+    "pinyin": "wangchuo",
+    "is_valid": true
+  },
+  {
+    "name": "苗家玮",
+    "full_id": "10335/93-94",
+    "base_id": "10335",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京市广渠门中学",
+    "pinyin": "miaojiawei",
+    "is_valid": true
+  },
+  {
+    "name": "刘姝彤",
+    "full_id": "10336/93-94",
+    "base_id": "10336",
+    "period": "93-94",
+    "year": "2022",
+    "school": "中国戏曲学院附属中等戏曲学校",
+    "pinyin": "liushutong",
+    "is_valid": true
+  },
+  {
+    "name": "韩相磊",
+    "full_id": "10337/93-94",
+    "base_id": "10337",
+    "period": "93-94",
+    "year": "2022",
+    "school": "中国戏曲学院附属中等戏曲学校",
+    "pinyin": "hanxianglei",
+    "is_valid": true
+  },
+  {
+    "name": "沈王欣月",
+    "full_id": "10338/93-94",
+    "base_id": "10338",
+    "period": "93-94",
+    "year": "2022",
+    "school": "中国戏曲学院附属中等戏曲学校",
+    "pinyin": "shenwangxinyue",
+    "is_valid": true
+  },
+  {
+    "name": "王艺丹",
+    "full_id": "10339/93-94",
+    "base_id": "10339",
+    "period": "93-94",
+    "year": "2022",
+    "school": "中国戏曲学院附属中等戏曲学校",
+    "pinyin": "wangyidan",
+    "is_valid": true
+  },
+  {
+    "name": "张芙宁",
+    "full_id": "10340/93-94",
+    "base_id": "10340",
+    "period": "93-94",
+    "year": "2022",
+    "school": "中国戏曲学院附属中等戏曲学校",
+    "pinyin": "zhangfuning",
+    "is_valid": true
+  },
+  {
+    "name": "陈一丹",
+    "full_id": "10341/93-94",
+    "base_id": "10341",
+    "period": "93-94",
+    "year": "2022",
+    "school": "中国戏曲学院附属中等戏曲学校",
+    "pinyin": "chenyidan",
+    "is_valid": true
+  },
+  {
+    "name": "侯晓陆",
+    "full_id": "10342/93-94",
+    "base_id": "10342",
+    "period": "93-94",
+    "year": "2022",
+    "school": "中国戏曲学院附属中等戏曲学校",
+    "pinyin": "houxiaolu",
+    "is_valid": true
+  },
+  {
+    "name": "宋昕然",
+    "full_id": "10343/93-94",
+    "base_id": "10343",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京戏曲艺术职业学院",
+    "pinyin": "songxinran",
+    "is_valid": true
+  },
+  {
+    "name": "朱美至",
+    "full_id": "10344/93-94",
+    "base_id": "10344",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京戏曲艺术职业学院",
+    "pinyin": "zhumeizhi",
+    "is_valid": true
+  },
+  {
+    "name": "张讳晨",
+    "full_id": "10345/93-94",
+    "base_id": "10345",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京戏曲艺术职业学院",
+    "pinyin": "zhanghuichen",
+    "is_valid": true
+  },
+  {
+    "name": "朱昱菲",
+    "full_id": "10346/93-94",
+    "base_id": "10346",
+    "period": "93-94",
+    "year": "2022",
+    "school": "天津惠灵顿国际培训学校",
+    "pinyin": "zhuyufei",
+    "is_valid": true
+  },
+  {
+    "name": "邱天泽",
+    "full_id": "10347/93-94",
+    "base_id": "10347",
+    "period": "93-94",
+    "year": "2022",
+    "school": "天津惠灵顿国际培训学校",
+    "pinyin": "qiutianze",
+    "is_valid": true
+  },
+  {
+    "name": "樊书满",
+    "full_id": "10348/93-94",
+    "base_id": "10348",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学医学部",
+    "pinyin": "fanshuman",
+    "is_valid": true
+  },
+  {
+    "name": "路瑶",
+    "full_id": "10349/93-94",
+    "base_id": "10349",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学医学部",
+    "pinyin": "luyao",
+    "is_valid": true
+  },
+  {
+    "name": "王翠",
+    "full_id": "10350/93-94",
+    "base_id": "10350",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学医学部",
+    "pinyin": "wangcui",
+    "is_valid": true
+  },
+  {
+    "name": "师千与",
+    "full_id": "10351/93-94",
+    "base_id": "10351",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学医学部",
+    "pinyin": "shiqianyu",
+    "is_valid": true
+  },
+  {
+    "name": "林泓莹",
+    "full_id": "10352/93-94",
+    "base_id": "10352",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学医学部",
+    "pinyin": "linhongying",
+    "is_valid": true
+  },
+  {
+    "name": "赵潮波",
+    "full_id": "10353/93-94",
+    "base_id": "10353",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学医学部",
+    "pinyin": "zhaochaobo",
+    "is_valid": true
+  },
+  {
+    "name": "段经玮",
+    "full_id": "10354/93-94",
+    "base_id": "10354",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学医学部",
+    "pinyin": "duanjingwei",
+    "is_valid": true
+  },
+  {
+    "name": "李振琛",
+    "full_id": "10355/93-94",
+    "base_id": "10355",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学医学部",
+    "pinyin": "lizhenchen",
+    "is_valid": true
+  },
+  {
+    "name": "胡枫艺",
+    "full_id": "10356/93-94",
+    "base_id": "10356",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学医学部",
+    "pinyin": "hufengyi",
+    "is_valid": true
+  },
+  {
+    "name": "马俊",
+    "full_id": "10357/93-94",
+    "base_id": "10357",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学医学部",
+    "pinyin": "majun",
+    "is_valid": true
+  },
+  {
+    "name": "高倚天",
+    "full_id": "10358/93-94",
+    "base_id": "10358",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学医学部",
+    "pinyin": "gaoyitian",
+    "is_valid": true
+  },
+  {
+    "name": "孙一心",
+    "full_id": "10359/93-94",
+    "base_id": "10359",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学医学部",
+    "pinyin": "sunyixin",
+    "is_valid": true
+  },
+  {
+    "name": "陈欢",
+    "full_id": "10360/93-94",
+    "base_id": "10360",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学医学部",
+    "pinyin": "chenhuan",
+    "is_valid": true
+  },
+  {
+    "name": "王怡宁",
+    "full_id": "10361/93-94",
+    "base_id": "10361",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京大学医学部",
+    "pinyin": "wangyining",
+    "is_valid": true
+  },
+  {
+    "name": "徐鹤淼",
+    "full_id": "10362/93-94",
+    "base_id": "10362",
+    "period": "93-94",
+    "year": "2022",
+    "school": "清华大学生命学院",
+    "pinyin": "xuhemiao",
+    "is_valid": true
+  },
+  {
+    "name": "颜瑞仪",
+    "full_id": "10363/93-94",
+    "base_id": "10363",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京协和医学院",
+    "pinyin": "yanruiyi",
+    "is_valid": true
+  },
+  {
+    "name": "宋怡萱",
+    "full_id": "10364/93-94",
+    "base_id": "10364",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京协和医学院",
+    "pinyin": "songyixuan",
+    "is_valid": true
+  },
+  {
+    "name": "葛雨露",
+    "full_id": "10365/93-94",
+    "base_id": "10365",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京协和医学院",
+    "pinyin": "geyulu",
+    "is_valid": true
+  },
+  {
+    "name": "阮帅之",
+    "full_id": "10366/93-94",
+    "base_id": "10366",
+    "period": "93-94",
+    "year": "2022",
+    "school": "北京协和医学院",
+    "pinyin": "ruanshuaizhi",
+    "is_valid": true
+  },
+  {
+    "name": "黄雅涵",
+    "full_id": "10367/93-94",
+    "base_id": "10367",
+    "period": "93-94",
+    "year": "2022",
+    "school": "河北省怀来沙城中学（小天鹅奖）",
+    "pinyin": "huangyahan",
+    "is_valid": true
+  },
+  {
+    "name": "李欢格",
+    "full_id": "10368/93-94",
+    "base_id": "10368",
+    "period": "93-94",
+    "year": "2022",
+    "school": "河南省拓城县铁关初级中学（小天鹅奖）",
+    "pinyin": "lihuange",
+    "is_valid": true
+  },
+  {
+    "name": "宋宣增",
+    "full_id": "10369/93-94",
+    "base_id": "10369",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "songxuanzeng",
+    "is_valid": true
+  },
+  {
+    "name": "肖天择",
+    "full_id": "10370/93-94",
+    "base_id": "10370",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "xiaotianze",
+    "is_valid": true
+  },
+  {
+    "name": "杨亦菲",
+    "full_id": "10371/93-94",
+    "base_id": "10371",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "yangyifei",
+    "is_valid": true
+  },
+  {
+    "name": "张晋轩",
+    "full_id": "10372/93-94",
+    "base_id": "10372",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "zhangjinxuan",
+    "is_valid": true
+  },
+  {
+    "name": "黄子航",
+    "full_id": "10373/93-94",
+    "base_id": "10373",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "huangzihang",
+    "is_valid": true
+  },
+  {
+    "name": "刘旭坤",
+    "full_id": "10374/93-94",
+    "base_id": "10374",
+    "period": "93-94",
+    "year": "2022",
+    "school": "",
+    "pinyin": "liuxukun",
+    "is_valid": true
+  }
+]
