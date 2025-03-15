@@ -1,5 +1,5 @@
 // search.js
-const CDN_BASE = 'https://cdn.jsdelivr.net/gh/kangningyuan/scholarship-query@main';
+const CDN_BASE = 'https://cdn.jsdelivr.net/gh/kangningyuan/scholarship-query@main/data';
 const CHUNK_COUNT = 10;
 const DEBOUNCE_TIME = 300;
 
@@ -18,7 +18,7 @@ async function loadAllData() {
         const promises = [];
         for (let i = 0; i < CHUNK_COUNT; i++) {
             const chunkId = i.toString().padStart(3, '0');
-            promises.push(fetch(`${CDN_BASE}/data/chunk_${chunkId}.json`).then(r => r.json()));
+            promises.push(fetch(`${CDN_BASE}/chunk_${chunkId}.json`).then(r => r.json()));
         }
         const chunks = await Promise.all(promises);
         allData = chunks.flat();
