@@ -29,9 +29,11 @@ async function loadAllData() {
         const chunks = await Promise.all(promises);
         allData = chunks.flat();
         updateStats();
+        document.getElementById('searchButton').disabled = false; // 新增
     } catch (error) {
         console.error('数据加载失败:', error);
         showError('数据加载失败，请刷新重试');
+        document.getElementById('searchButton').disabled = true; // 新增
     }
 }
 
@@ -81,6 +83,27 @@ function checkMixedInput(input, { chinese, pinyin, initials }) {
     return chineseMatch && pinyinMatch;
 }
 
+
+// 新增统一搜索函数
+function performSearch() {
+    const keyword = document.getElementById('searchInput').value;
+    const results = search(keyword);
+    displayResults(results);
+}
+
+// 修改加载状态函数（控制按钮禁用）
+function showLoading() {
+    isLoading = true;
+    document.getElementById('loading').style.display = 'block';
+    document.getElementById('searchButton').disabled = true; // 新增
+}
+
+function hideLoading() {
+    isLoading = false;
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('searchButton').disabled = false; // 新增
+}
+
 // 展示结果
 function displayResults(results) {
     const container = document.getElementById('results');
@@ -101,15 +124,6 @@ function updateStats(resultCount) {
     statsEl.innerHTML = `共加载 ${allData.length} 条记录，找到 ${resultCount || 0} 条结果`;
 }
 
-// 防抖搜索
-let debounceTimer;
-document.getElementById('searchInput').addEventListener('input', (e) => {
-    clearTimeout(debounceTimer);
-    debounceTimer = setTimeout(() => {
-        const results = search(e.target.value);
-        displayResults(results);
-    }, DEBOUNCE_TIME);
-});
 
 // 加载状态控制
 function showLoading() {

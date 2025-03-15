@@ -13,6 +13,27 @@ body {
     padding: 10px; /* 添加内边距 */
 }
 
+/* 新增按钮样式 */
+#searchButton {
+    margin-left: 10px;
+    padding: 12px 25px;
+    background: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+#searchButton:hover {
+    background: #45a049;
+}
+
+#searchButton:disabled {
+    background: #cccccc;
+    cursor: not-allowed;
+}
+
 /* 修改标题样式 */
 .container h1 {
     text-align: center;
@@ -121,11 +142,16 @@ footer {
         font-size: 1.8rem;  /* 小屏幕缩小字号 */
         margin: 15px 0;
     }
-  
-    #searchInput {
-      width: 100%; /* 满宽显示 */
-      font-size: 14px;
-      padding: 10px 15px;
+
+    .search-box {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    #searchButton {
+        margin-left: 0;
+        margin-top: 10px;
+        width: 100%;
     }
 
     .footer-content {
