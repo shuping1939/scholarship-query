@@ -1,7 +1,7 @@
 // 配置参数
 const CDN_BASE = 'https://cdn.jsdelivr.net/gh/kangningyuan/scholarship-query@main';
 const CHUNK_COUNT = 10; // 根据实际分片数量修改
-const DEBOUNCE_TIME = 300; // 防抖时间(ms)
+const DEBOUNCE_TIME = 500; // 防抖时间(ms)
 
 // 全局变量
 let allData = [];
@@ -57,7 +57,7 @@ function displayResults(results) {
         <div class="result-card">
             <h3>${item.name} <span class="id-tag">${item.full_id}</span></h3>
             <p>🏫 ${item.school || '未知学校'}</p>
-            <p>📅 ${item.year}年获奖 | 期数：${item.period}</p>
+            <p>📅 ${item.year || '未知年份'} 年获奖 | 期数：${item.period}</p>
         </div>
     `).join('');
 
