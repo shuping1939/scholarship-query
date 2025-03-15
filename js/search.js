@@ -35,32 +35,50 @@ async function loadAllData() {
     }
 }
 
-// 输入解析函数（新增）
-function parseQuery(input) {
-    const chinesePart = input.replace(/[^\u4e00-\u9fa5]/g, ''); // 提取中文
-    const pinyinPart = input.replace(/[\u4e00-\u9fa5]/g, '').toLowerCase(); // 提取拼音
-    return { chinesePart, pinyinPart };
+// 输入标准化函数
+function normalizeInput(input) {
+    return input
+        .trim()
+        .toLowerCase()
+        .replace(/[\s·]/g, '') // 移除空格和拼音分隔符
+        .replace(/[^a-z0-9\u4e00-\u9fa5]/g, ''); // 保留中文、数字、字母
 }
 
-// 增强搜索功能（修改）
+// 增强版搜索功能
 function search(keyword) {
-    const { chinesePart, pinyinPart } = parseQuery(keyword);
-    
+    const cleanInput = normalizeInput(keyword);
+    if (!cleanInput) return []; // 空输入不显示结果
+
     return allData.filter(item => {
-        // 中文匹配 (姓名或学校)
-        const chineseMatch = chinesePart ? 
-            (item.name.includes(chinesePart) || 
-            item.school.includes(chinesePart)) : 
-            true;
+        // 标准化目标数据
+        const targets = {
+            chinese: item.name,
+            id: item.base_id,
+            pinyin: item.pinyin.replace(/ /g, ''),
+            initials: item.pinyin_initials
+        };
 
-        // 拼音匹配 (全拼或首字母)
-        const pinyinMatch = pinyinPart ?
-            (item.pinyin.includes(pinyinPart) ||
-            item.pinyin_initials.includes(pinyinPart)) : 
-            true;
-
-        return chineseMatch && pinyinMatch;
+        // 混合匹配逻辑（任一条件满足即可）
+        return Object.values(targets).some(value => 
+            value.toLowerCase().includes(cleanInput)
+            || checkMixedInput(cleanInput, targets));
     });
+}
+
+// 混合输入检测（支持中文+拼音组合）
+function checkMixedInput(input, { chinese, pinyin, initials }) {
+    // 分离输入中的中文和拼音部分
+    const chinesePart = input.replace(/[^\u4e00-\u9fa5]/g, '');
+    const pinyinPart = input.replace(/[\u4e00-\u9fa5]/g, '');
+
+    // 中文部分匹配
+    const chineseMatch = chinesePart ? chinese.includes(chinesePart) : true;
+    
+    // 拼音部分匹配（全拼或首字母）
+    const pinyinMatch = pinyinPart ? 
+        (pinyin.includes(pinyinPart) || initials.includes(pinyinPart)) : true;
+
+    return chineseMatch && pinyinMatch;
 }
 
 // 展示结果
