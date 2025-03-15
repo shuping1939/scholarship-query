@@ -46,7 +46,7 @@ function search(keyword) {
             item.base_id.startsWith(cleanKeyword) ||
             item.name.toLowerCase().includes(cleanKeyword) ||
             item.pinyin.includes(cleanKeyword) ||
-            item.pinyin_initials.includes(cleanKeyword) ||  // 新增拼音缩写匹配
+            //item.pinyin_initials.includes(cleanKeyword) ||  // 拼音缩写匹配
             (item.school && item.school.toLowerCase().includes(cleanKeyword))
         );
     });
