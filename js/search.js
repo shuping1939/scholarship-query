@@ -1,7 +1,7 @@
 // search.js
-const CDN_BASE = 'https://raw.githubusercontent.com/kangningyuan/scholarship-query/main/data';
+const CDN_BASE = 'https://cdn.jsdelivr.net/gh/kangningyuan/scholarship-query@main';
 const CHUNK_COUNT = 10; // 必须与实际分片数量一致
-const DEBOUNCE_TIME = 300;
+const DEBOUNCE_TIME = 500;
 
 let allData = [];
 let isLoading = false;
@@ -19,7 +19,7 @@ async function loadAllData() {
         for (let i = 0; i < CHUNK_COUNT; i++) {
             const chunkId = i.toString().padStart(3, '0');
             // 新的URL格式
-            const url = `${CDN_BASE}/chunk_${chunkId}.json?t=${Date.now()}`; // 添加时间戳参数
+            const url = `${CDN_BASE}/data/chunk_${chunkId}.json?t=${Date.now()}`; // 添加时间戳参数
             promises.push(
                 fetch(url)
                     .then(r => {
