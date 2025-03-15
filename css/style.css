@@ -1,3 +1,4 @@
+/* style.css */
 /* 基础样式 */
 body {
     font-family: "微软雅黑", Arial, sans-serif;
@@ -6,43 +7,19 @@ body {
     padding: 20px;
 }
 
-/* 修改容器样式 */
 .container {
-    max-width: 95%; /* 调整为百分比 */
+    max-width: 95%;
     margin: 0 auto;
-    padding: 10px; /* 添加内边距 */
+    padding: 10px;
 }
 
-/* 新增按钮样式 */
-#searchButton {
-    margin-left: 10px;
-    padding: 12px 25px;
-    background: #4CAF50;
-    color: white;
-    border: none;
-    border-radius: 25px;
-    cursor: pointer;
-    transition: background 0.3s;
-}
-
-#searchButton:hover {
-    background: #45a049;
-}
-
-#searchButton:disabled {
-    background: #cccccc;
-    cursor: not-allowed;
-}
-
-/* 修改标题样式 */
 .container h1 {
     text-align: center;
-    margin: 12px 0;  /* 减小上下边距 */
+    margin: 15px 0;
     font-size: 2.2rem;
     color: #2c3e50;
 }
 
-/* 优化搜索框布局 */
 .search-box {
     display: flex;
     justify-content: center;
@@ -50,122 +27,55 @@ body {
 }
 
 #searchInput {
-    width: 90%;
-    max-width: 500px; /* 控制最大宽度 */
+    width: 100%;
+    max-width: 600px;
     padding: 12px 20px;
     font-size: 16px;
     border: 2px solid #4CAF50;
     border-radius: 30px;
 }
 
-#loading {
-    display: none;
-    position: absolute;
-    right: 20px;
-    top: 50%;
-    transform: translateY(-50%);
-    color: #666;
+.logo {
+    display: block;
+    width: 144px;
+    margin: 12px auto;
 }
 
-/* 结果卡片 */
 .result-card {
     background: white;
     border-radius: 12px;
     padding: 20px;
     margin: 15px 0;
     box-shadow: 0 3px 6px rgba(0,0,0,0.1);
-    transition: transform 0.2s;
 }
 
-.result-card:hover {
-    transform: translateY(-2px);
-}
-
-.result-card h3 {
-    color: #2c3e50;
-    margin: 0 0 8px 0;
-    font-size: 18px;
-}
-
-.result-card p {
-    color: #7f8c8d;
-    margin: 4px 0;
-}
-
-/* Logo样式 - 修改部分 */
-.logo {
-    display: block;
-    width: 144px; /* 增加20% */
-    margin: 12px auto; /* 减小上下边距 */
-    padding: 10px;
-}
-
-/* 页脚样式 */
 footer {
     padding: 20px 0;
     margin-top: 40px;
-    background: #f8f9fa;
+    text-align: center;
     border-top: 1px solid #eee;
 }
 
-.footer-content {
-    text-align: center;
-    line-height: 1.6;
-}
-
-.update-status {
+#loading {
+    display: none;
     color: #666;
-    font-size: 14px;
-    margin: 8px 0;
+    text-align: center;
+    margin: 10px 0;
 }
 
-.author-info {
-    color: #444;
-    font-size: 15px;
-    margin: 8px 0;
+.error-box {
+    color: #dc3545;
+    padding: 15px;
+    background: #f8d7da;
+    border-radius: 8px;
 }
 
-.contact-email {
-    color: #007bff;
-    font-size: 14px;
-    margin: 8px 0;
-    text-decoration: none;
-}
-
-/* 移动端专属优化 */
 @media (max-width: 480px) {
-    .container {
-        padding: 5px;
-    }
     .container h1 {
         font-size: 1.8rem;
-        margin: 10px 0; /* 移动端标题间距同步减小 */
+        margin: 10px 0;
     }
-
-    .search-box {
-        display: flex;
-        flex-direction: column;
-    }
-    
-    #searchButton {
-        margin-left: 0;
-        margin-top: 10px;
-        width: 100%;
-    }
-
-    .footer-content {
-        padding: 0 15px;
-    }
-    
-    .update-status,
-    .author-info,
-    .contact-email {
-        font-size: 13px;
-    }
-
-    /* 移动端Logo调整 */
     .logo {
-        width: 120px; /* 稍小尺寸 */
-        margin: 8px auto;
+        width: 120px;
     }
 }
