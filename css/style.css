@@ -37,7 +37,7 @@ body {
 /* 修改标题样式 */
 .container h1 {
     text-align: center;
-    margin: 20px 0;  /* 上下边距各20px，左右自动 */
+    margin: 12px 0;  /* 减小上下边距 */
     font-size: 2.2rem;
     color: #2c3e50;
 }
@@ -48,7 +48,6 @@ body {
     justify-content: center;
     margin: 20px 0;
 }
-  
 
 #searchInput {
     width: 90%;
@@ -57,7 +56,7 @@ body {
     font-size: 16px;
     border: 2px solid #4CAF50;
     border-radius: 30px;
-  }
+}
 
 #loading {
     display: none;
@@ -93,14 +92,14 @@ body {
     margin: 4px 0;
 }
 
-/* Logo样式 */
+/* Logo样式 - 修改部分 */
 .logo {
     display: block;
-    width: 120px;
-    margin: 20px auto;
+    width: 144px; /* 增加20% */
+    margin: 12px auto; /* 减小上下边距 */
     padding: 10px;
 }
-  
+
 /* 页脚样式 */
 footer {
     padding: 20px 0;
@@ -136,11 +135,11 @@ footer {
 /* 移动端专属优化 */
 @media (max-width: 480px) {
     .container {
-      padding: 5px;
+        padding: 5px;
     }
     .container h1 {
-        font-size: 1.8rem;  /* 小屏幕缩小字号 */
-        margin: 15px 0;
+        font-size: 1.8rem;
+        margin: 10px 0; /* 移动端标题间距同步减小 */
     }
 
     .search-box {
@@ -162,5 +161,11 @@ footer {
     .author-info,
     .contact-email {
         font-size: 13px;
+    }
+
+    /* 移动端Logo调整 */
+    .logo {
+        width: 120px; /* 稍小尺寸 */
+        margin: 8px auto;
     }
 }
