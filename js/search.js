@@ -49,9 +49,9 @@ function search(keyword) {
         return (
             item.base_id.startsWith(cleanKeyword) ||
             item.name.toLowerCase().includes(cleanKeyword) ||
-            item.pinyin.includes(cleanKeyword) ||
+            item.pinyin.includes(cleanKeyword)
             //item.pinyin_initials.includes(cleanKeyword) ||  // 拼音缩写匹配
-            (item.school && item.school.toLowerCase().includes(cleanKeyword))
+            //(item.school && item.school.toLowerCase().includes(cleanKeyword))
         );
     });
 }
@@ -61,12 +61,24 @@ function displayResults(results) {
     container.innerHTML = results.map(item => `
         <div class="result-card">
             <h3>${item.name} <span class="id-tag">${item.full_id}</span></h3>
-            <p>🏫 ${item.school || '未知学校'}</p>
-            <p>📅 ${item.year || '未知年份'}年获奖 | 期数：${item.period}</p>
+            <p>🧬叔蘋学号：${item.base_id}</p>
+            <p>📆获奖年份：${item.year || '未知年份'} | 期数：${item.period}</p>
         </div>
     `).join('');
     updateStats(results.length);
 }
+
+// function displayResults(results) {
+//     const container = document.getElementById('results');
+//     container.innerHTML = results.map(item => `
+//         <div class="result-card">
+//             <h3>${item.name} <span class="id-tag">${item.full_id}</span></h3>
+//             <p>🏫 ${item.school || '未知学校'}</p>
+//             <p>📅 ${item.year || '未知年份'}年获奖 | 期数：${item.period}</p>
+//         </div>
+//     `).join('');
+//     updateStats(results.length);
+// }
 
 function updateStats(resultCount) {
     document.getElementById('stats').innerHTML = 
