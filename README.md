@@ -6,8 +6,8 @@
 叔蘋奖学金得奖信息查询系统，支持通过学号、姓名、拼音及学校等多条件实时检索获奖信息。数据采用分片加载机制，具备响应式设计和友好的移动端体验。
 
 ## 相关资源
-- [项目演示主页](https://kangningyuan.github.io/scholarship-query)
-- [问题追踪](https://github.com/kangningyuan/scholarship-query/issues)
+- [项目演示主页](https://shuping1939.github.io/scholarship-query/)
+- [项目源于:KangningYuan](https://github.com/kangningyuan/scholarship-query)
 
 ## 技术栈
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -64,4 +64,5 @@ scholarship-query/
 
 ## 联系
 > 🙇‍♂️: 袁康宁 -- 上海叔蘋同学会IT组  
+> 💻：[KangningYuan](https://github.com/kangningyuan)
 > 📧: yuankangning@outlook.com
