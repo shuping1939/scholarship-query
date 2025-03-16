@@ -61,8 +61,8 @@ function displayResults(results) {
     container.innerHTML = results.map(item => `
         <div class="result-card">
             <h3>${item.name} <span class="id-tag">${item.full_id}</span></h3>
-            <p>🧬叔蘋学号：${item.base_id}</p>
-            <p>📆获奖年份：${item.year || '未知年份'} | 期数：${item.period}</p>
+            <p>🧬叔蘋学号：${item.base_id || '----'}</p>
+            <p>📆首次获奖：${item.year || '----'}年 | 期数：${item.period}</p>
         </div>
     `).join('');
     updateStats(results.length);
@@ -82,7 +82,7 @@ function displayResults(results) {
 
 function updateStats(resultCount) {
     document.getElementById('stats').innerHTML = 
-        `努力查找中...根据您的输入，查找到 ${resultCount || 0} 条结果`;
+        `努力查找中...根据输入查找到 ${resultCount || 0} 条结果`;
     // document.getElementById('stats').innerHTML = 
     //     `共加载 ${allData.length} 条记录，找到 ${resultCount || 0} 条结果`;
 }
