@@ -23,7 +23,7 @@ async function loadAllData() {
         for (let i = 0; i < CHUNK_COUNT; i++) {
             const chunkId = i.toString().padStart(3, '0');
             // 新的URL格式
-            const url = `${CDN_BASE}/data/chunk_${chunkId}.json?t=${Date.now()}`; // 添加时间戳参数
+            const url = `${CDN_BASE}/data_upto2024/chunk_${chunkId}.json?t=${Date.now()}`; // 添加时间戳参数
             promises.push(
                 fetch(url)
                     .then(r => {
