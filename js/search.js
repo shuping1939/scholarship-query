@@ -5,7 +5,7 @@ const CDN_BASE = 'https://cdn.jsdelivr.net/gh/shuping1939/scholarship-query@main
 // const CDN_BASE = 'https://raw.githubusercontent.com/shuping1939/scholarship-query/main'; // 不使用CDN加速
 
 const CHUNK_COUNT = 11; // 必须与实际分片数量一致
-const DEBOUNCE_TIME = 500;
+const DEBOUNCE_TIME = 400; //400ms
 
 let allData = [];
 let isLoading = false;
@@ -82,7 +82,9 @@ function displayResults(results) {
 
 function updateStats(resultCount) {
     document.getElementById('stats').innerHTML = 
-        `共加载 ${allData.length} 条记录，找到 ${resultCount || 0} 条结果`;
+        `努力查找中...根据您的输入，查找到 ${resultCount || 0} 条结果`;
+    // document.getElementById('stats').innerHTML = 
+    //     `共加载 ${allData.length} 条记录，找到 ${resultCount || 0} 条结果`;
 }
 
 let debounceTimer;

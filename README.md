@@ -16,7 +16,7 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages)
 
 ## 功能特性
-- 🚀 实时模糊搜索（300ms防抖）
+- 🚀 实时模糊搜索（400ms防抖）
 - 🔍 多条件匹配：学号/中文名/拼音/学校
 - 📱 响应式布局（适配移动端）
 - 📊 数据分片加载（支持大规模数据集）
