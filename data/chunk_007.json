@@ -7755,17 +7755,6 @@
     "is_valid": true
   },
   {
-    "name": "空号",
-    "full_id": "8306/77-78",
-    "base_id": "8306",
-    "period": "77-78",
-    "year": "",
-    "school": "",
-    "pinyin": "konghao",
-    "pinyin_initials": "kh",
-    "is_valid": true
-  },
-  {
     "name": "王逸成",
     "full_id": "8307/77-78",
     "base_id": "8307",
@@ -8228,7 +8217,7 @@
     "is_valid": true
   },
   {
-    "name": "毛咏柳",
+    "name": "茅咏柳",
     "full_id": "8349/77-78",
     "base_id": "8349",
     "period": "77-78",
@@ -10351,7 +10340,7 @@
     "is_valid": true
   },
   {
-    "name": "赵思㦤",
+    "name": "赵思懿",
     "full_id": "8542/79-80",
     "base_id": "8542",
     "period": "79-80",
@@ -10997,6 +10986,17 @@
     "school": "",
     "pinyin": "gongyuyang",
     "pinyin_initials": "gyy",
+    "is_valid": true
+  },
+  {
+    "name": "蔡家骥",
+    "full_id": "8602/79-80",
+    "base_id": "8602",
+    "period": "79-80",
+    "year": "",
+    "school": "",
+    "pinyin": "caijiaji",
+    "pinyin_initials": "cjj",
     "is_valid": true
   }
 ]

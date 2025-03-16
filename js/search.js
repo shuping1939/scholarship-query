@@ -1,6 +1,10 @@
 // search.js
-const CDN_BASE = 'https://cdn.jsdelivr.net/gh/kangningyuan/scholarship-query@main';
-const CHUNK_COUNT = 10; // 必须与实际分片数量一致
+
+const CDN_BASE = 'https://cdn.jsdelivr.net/gh/kangningyuan/scholarship-query@main'; //使用CDN加速
+
+// const CDN_BASE = 'https://raw.githubusercontent.com/kangningyuan/scholarship-query/main'; // 不使用CDN加速
+
+const CHUNK_COUNT = 11; // 必须与实际分片数量一致
 const DEBOUNCE_TIME = 500;
 
 let allData = [];

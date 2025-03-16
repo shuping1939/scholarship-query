@@ -1,16 +1,5 @@
 [
   {
-    "name": "蔡家骥",
-    "full_id": "8602/79-80",
-    "base_id": "8602",
-    "period": "79-80",
-    "year": "",
-    "school": "",
-    "pinyin": "caijiaji",
-    "pinyin_initials": "cjj",
-    "is_valid": true
-  },
-  {
     "name": "陀础熠",
     "full_id": "8603/79-80",
     "base_id": "8603",
@@ -10997,6 +10986,17 @@
     "school": "",
     "pinyin": "wutianyu",
     "pinyin_initials": "wty",
+    "is_valid": true
+  },
+  {
+    "name": "张茹棋",
+    "full_id": "9564/87-88",
+    "base_id": "9564",
+    "period": "87-88",
+    "year": "2019",
+    "school": "",
+    "pinyin": "zhangruqi",
+    "pinyin_initials": "zrq",
     "is_valid": true
   }
 ]
