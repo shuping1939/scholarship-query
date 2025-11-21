@@ -1,11 +1,11 @@
 // search.js
 
-const CDN_BASE = 'https://cdn.jsdelivr.net/gh/kangningyuan/scholarship-query@main'; //使用CDN加速
+const CDN_BASE = 'https://cdn.jsdelivr.net/gh/shuping1939/scholarship-query@main'; //使用CDN加速
 
-// const CDN_BASE = 'https://raw.githubusercontent.com/kangningyuan/scholarship-query/main'; // 不使用CDN加速
+// const CDN_BASE = 'https://raw.githubusercontent.com/shuping1939/scholarship-query/main'; // 不使用CDN加速
 
 const CHUNK_COUNT = 11; // 必须与实际分片数量一致
-const DEBOUNCE_TIME = 500;
+const DEBOUNCE_TIME = 400; //400ms
 
 let allData = [];
 let isLoading = false;
@@ -23,7 +23,7 @@ async function loadAllData() {
         for (let i = 0; i < CHUNK_COUNT; i++) {
             const chunkId = i.toString().padStart(3, '0');
             // 新的URL格式
-            const url = `${CDN_BASE}/data_upto2024/chunk_${chunkId}.json?t=${Date.now()}`; // 添加时间戳参数
+            const url = `${CDN_BASE}/data/chunk_${chunkId}.json?t=${Date.now()}`; // 添加时间戳参数
             promises.push(
                 fetch(url)
                     .then(r => {
@@ -49,9 +49,9 @@ function search(keyword) {
         return (
             item.base_id.startsWith(cleanKeyword) ||
             item.name.toLowerCase().includes(cleanKeyword) ||
-            item.pinyin.includes(cleanKeyword) ||
+            item.pinyin.includes(cleanKeyword)
             //item.pinyin_initials.includes(cleanKeyword) ||  // 拼音缩写匹配
-            (item.school && item.school.toLowerCase().includes(cleanKeyword))
+            //(item.school && item.school.toLowerCase().includes(cleanKeyword))
         );
     });
 }
@@ -61,16 +61,30 @@ function displayResults(results) {
     container.innerHTML = results.map(item => `
         <div class="result-card">
             <h3>${item.name} <span class="id-tag">${item.full_id}</span></h3>
-            <p>🏫 ${item.school || '未知学校'}</p>
-            <p>📅 ${item.year || '未知年份'}年获奖 | 期数：${item.period}</p>
+            <p>🧬叔蘋学号：${item.base_id || '----'}</p>
+            <p>📆首次获奖：${item.year || '----'}年 | 期数：${item.period}</p>
         </div>
     `).join('');
     updateStats(results.length);
 }
 
+// function displayResults(results) {
+//     const container = document.getElementById('results');
+//     container.innerHTML = results.map(item => `
+//         <div class="result-card">
+//             <h3>${item.name} <span class="id-tag">${item.full_id}</span></h3>
+//             <p>🏫 ${item.school || '未知学校'}</p>
+//             <p>📅 ${item.year || '未知年份'}年获奖 | 期数：${item.period}</p>
+//         </div>
+//     `).join('');
+//     updateStats(results.length);
+// }
+
 function updateStats(resultCount) {
     document.getElementById('stats').innerHTML = 
-        `共加载 ${allData.length} 条记录，找到 ${resultCount || 0} 条结果`;
+        `努力查找中...根据输入查找到 ${resultCount || 0} 条结果`;
+    // document.getElementById('stats').innerHTML = 
+    //     `共加载 ${allData.length} 条记录，找到 ${resultCount || 0} 条结果`;
 }
 
 let debounceTimer;

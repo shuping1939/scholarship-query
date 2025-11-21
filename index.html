@@ -1,4 +1,3 @@
-<!-- index.html -->
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -6,17 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>叔蘋奖学金得奖信息查询系统</title>
     <link rel="stylesheet" href="css/style.css">
+
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?e828d66506dcfd2cc27cb27ba96d5b02";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
 </head>
 <body>
     <header>
-        <img src="assets/shuping_logo.png" alt="叔蘋奖学金Logo" class="logo">
+        <img fetchpriority="high" src="assets/shuping_logo.webp" alt="叔蘋奖学金Logo" class="logo">
     </header>
     <div class="container">
         <h1>叔蘋得奖信息查询</h1>
         
         <!-- 搜索框 -->
         <div class="search-box">
-            <input type="text" id="searchInput" placeholder="输入学号/姓名/学校">
+            <input type="text" id="searchInput" placeholder="输入学号/姓名/拼音">
             <div id="loading">数据加载中...</div>
         </div>
 
@@ -31,12 +41,35 @@
 
     <footer>
         <div class="footer-content">
-            <p class="update-status">数据持续更新中</p>
-            <p class="author-info">Powered by 袁康宁(9141)</p>
-            <p class="ShangHaiSHUPING">上海叔蘋</p>
+            <p class="update-status">数据更新截止:2025年12月</p>
+            <p class="SHUPING-info">信息补充或其他建议，欢迎联系叔蘋同学会</p>
             <p class="email">📧: shuping1939@163.com</p>
-            <p class="phone-number">📞: 021-62747315, 021-62593628</p>
+            <p class="author-info">Powered by 袁康宁(9141)</p>
         </div>
     </footer>
+
+<!-- 
+🌈🌈🌈🌈🌈🥚🥚🥚🥚🥚
+
+欢迎你打开主页源码中包含的彩蛋！
+
+如你所见，
+这是一个基于GitHub-Pages静态网页实现的“叔蘋奖学金”得奖信息的查询系统.
+
+你打开过这个网页，说明你大概率是叔蘋的一份子，
+如果你也对计算机相关技术有兴趣或对该网页项目有任何建议，
+欢迎你联系上海叔蘋同学会IT组.
+
+当前的网页由IT组 袁康宁同学(叔蘋学号9141) 提供技术支持
+如有需要可以通过以下方式联系到他.
+邮件📧: yuankangning@outlook.com
+微信📱: 15805724849
+QQ🐧: 2328368161
+
+另外该项目同时在康宁同学的Github个人页开源.
+https://github.com/kangningyuan/scholarship-query
+
+-->
+
 </body>
 </html>
