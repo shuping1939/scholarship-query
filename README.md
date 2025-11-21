@@ -24,7 +24,7 @@
 ## 数据更新 🔄
 推送github后，使用浏览器访问以刷新CDN缓存：
 ```bash
-https://purge.jsdelivr.net/gh/shuping1939/scholarship-query@main/data_upto2024/chunk_000.json
+https://purge.jsdelivr.net/gh/shuping1939/scholarship-query@main/data/chunk_000.json
 ```
 
 
