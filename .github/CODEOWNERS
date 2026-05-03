@@ -1,0 +1,24 @@
+# CODEOWNERS 文件
+# 定义哪些用户或团队负责审核特定路径的文件
+# 格式: 路径模式 @用户名 或 @团队名
+
+# 全局默认审核人
+* @kangningyuan
+
+# JSON 数据文件 - 配置为允许自动合并
+# 这些文件的 PR 将通过 auto-merge.yml 自动合并到 main 分支
+/data/**
+
+# 前端代码文件 - 需要人工审核
+# 修改这些文件需要 CODEOWNERS 中指定的用户审核
+*.html @kangningyuan
+/js/** @kangningyuan
+/css/** @kangningyuan
+/assets/** @kangningyuan
+
+# 工作流配置 - 需要人工审核
+/.github/** @kangningyuan
+
+# 文档文件 - 需要人工审核
+README.md @kangningyuan
+LICENSE @kangningyuan
