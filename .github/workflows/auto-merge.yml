@@ -114,26 +114,42 @@ jobs:
           MERGE_LABELS: ""
           MERGE_METHOD: "squash"
           MERGE_COMMIT_MESSAGE: "Auto-merge: Update scholarship data (#{pullRequest.number})"
-          MERGE_FORKS: "false"
+          MERGE_FORKS: "true"
           MERGE_RETRIES: "3"
           MERGE_RETRY_SLEEP: "10000"
 
-      - name: Add success comment
-        if: success()
+      - name: Check merge result
+        if: always()
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            await github.rest.issues.createComment({
+            const { data: pr } = await github.rest.pulls.get({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body: '✅ 此 PR 仅包含数据文件变更，已通过自动合并。'
+              pull_number: context.issue.number
             });
 
-            await github.rest.issues.addLabels({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              labels: ['auto-merged']
-            });
+            if (pr.merged) {
+              console.log('✅ PR was successfully merged');
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: '✅ 此 PR 仅包含数据文件变更，已通过自动合并。'
+              });
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                labels: ['auto-merged']
+              });
+            } else {
+              console.log('❌ PR was not merged');
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: '❌ 自动合并失败，请检查工作流日志或手动合并。'
+              });
+            }
