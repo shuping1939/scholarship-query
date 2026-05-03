@@ -33,3 +33,6 @@ https://purge.jsdelivr.net/gh/shuping1939/scholarship-query@main/data/chunk_000.
 > 🙇‍♂️: 袁康宁 -- 上海叔蘋同学会IT组  
 > 💻：[KangningYuan](https://github.com/kangningyuan)  
 > 📧: yuankangning@outlook.com
+> 🙇‍♂️: 金清扬 -- 上海叔蘋同学会IT组  
+> 💻：[QingyangJin](https://github.com/DonkeyKing01)  
+> 📧: qingyang.jin@outlook.com
