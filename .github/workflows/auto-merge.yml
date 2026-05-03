@@ -1,11 +1,18 @@
 name: Auto Merge Data PRs
 
 on:
-  pull_request:
+  # 使用 pull_request_target 以获取写入权限（适用于 fork 的 PR）
+  pull_request_target:
     types: [opened, synchronize, reopened]
     branches: [main]
     paths:
       - 'data/**'
+
+# 明确授予写入权限
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
 
 jobs:
   analyze-files:
@@ -17,11 +24,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          # 对于 pull_request_target，需要明确指定 ref
+          ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Check changed files
         id: check-files
         uses: actions/github-script@v7
         with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const { data: files } = await github.rest.pulls.listFiles({
               owner: context.repo.owner,
@@ -54,6 +65,7 @@ jobs:
         if: steps.check-files.outputs.only_data == 'false'
         uses: actions/github-script@v7
         with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             await github.rest.issues.addLabels({
               owner: context.repo.owner,
@@ -77,6 +89,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Validate JSON files
         run: |
@@ -108,6 +122,7 @@ jobs:
         if: success()
         uses: actions/github-script@v7
         with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             await github.rest.issues.createComment({
               owner: context.repo.owner,
